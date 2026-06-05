@@ -1,0 +1,2264 @@
+{
+  "step": 8,
+  "level": "C1",
+  "title": "격식문어체",
+  "color": "#FFA07A",
+  "colorDk": "#8A3A00",
+  "units": [
+    {
+      "title": "격식 나열 · 대조",
+      "title_eng": "Formal Listing & Contrast",
+      "chars": "All characters",
+      "must_vocab": [
+        [
+          "01",
+          "📝",
+          "나열",
+          "listing",
+          "나열해서 설명해요."
+        ],
+        [
+          "02",
+          "⚖️",
+          "반면",
+          "on the other hand",
+          "반면에 이것은 달라요."
+        ],
+        [
+          "03",
+          "🔄",
+          "동시에",
+          "simultaneously",
+          "동시에 하는 일이에요."
+        ],
+        [
+          "04",
+          "💡",
+          "또한",
+          "also / furthermore",
+          "또한 중요해요."
+        ],
+        [
+          "05",
+          "✅",
+          "더불어",
+          "along with",
+          "더불어 설명해요."
+        ],
+        [
+          "06",
+          "📊",
+          "일관성",
+          "consistency",
+          "일관성이 있어요."
+        ],
+        [
+          "07",
+          "🔗",
+          "연결하다",
+          "to connect",
+          "논리를 연결해요."
+        ],
+        [
+          "08",
+          "📋",
+          "목록",
+          "list",
+          "목록을 만들어요."
+        ],
+        [
+          "09",
+          "🏛️",
+          "논문",
+          "thesis / paper",
+          "논문을 써요."
+        ],
+        [
+          "10",
+          "📰",
+          "기사",
+          "article / news",
+          "기사를 읽어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "단락",
+          "paragraph",
+          "단락을 나눠요."
+        ],
+        [
+          "12",
+          "서술하다",
+          "to describe",
+          "서술해 봐요."
+        ],
+        [
+          "13",
+          "제시하다",
+          "to present",
+          "논거를 제시해요."
+        ],
+        [
+          "14",
+          "반론하다",
+          "to counter-argue",
+          "반론을 제시해요."
+        ],
+        [
+          "15",
+          "동의하다",
+          "to agree",
+          "동의하는 바예요."
+        ],
+        [
+          "16",
+          "이견",
+          "different opinion",
+          "이견이 있어요."
+        ],
+        [
+          "17",
+          "견해",
+          "view / opinion",
+          "견해를 밝혀요."
+        ],
+        [
+          "18",
+          "주장",
+          "assertion",
+          "주장을 펼쳐요."
+        ],
+        [
+          "19",
+          "논증",
+          "argument",
+          "논증이 필요해요."
+        ],
+        [
+          "20",
+          "균형",
+          "balance",
+          "균형을 이뤄요."
+        ]
+      ],
+      "g1_name": "V/A-(으)며 (문어 나열·동시)",
+      "g1_name_eng": "V/A-(으)며: and / while (formal listing or simultaneous)",
+      "g1_desc": "격식체·문어에서 두 행동이나 상태를 나열하거나 동시에 일어남을 나타내요.",
+      "g1_desc_eng": "In written/formal style, connects two actions or states (listing or simultaneous).",
+      "g1_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "받침 O",
+          "-으며",
+          "공부하으며 일도 해요.",
+          "Study and also work."
+        ],
+        [
+          "받침 X",
+          "-며",
+          "노래하며 춤도 춰요. / 걸으며 생각해요.",
+          "Sing and dance. / Walk while thinking."
+        ],
+        [
+          "동시",
+          "-으며 (동시)",
+          "웃으며 말했어요.",
+          "Spoke while smiling."
+        ],
+        [
+          "나열 (A)",
+          "-으며 (나열)",
+          "친절하며 성실해요.",
+          "Kind and diligent."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "vs -(으)면서",
+          "-(으)면서(구어) vs -(으)며(문어)",
+          "먹으면서 공부해요 (구어) / 먹으며 공부해요 (문어)"
+        ]
+      ],
+      "g1_tip": "-(으)며는 격식 문어! 구어에서는 반드시 -(으)면서를 써요.",
+      "g1_tip_eng": "-(으)며 = written/formal only. Use -(으)면서 in spoken Korean.",
+      "g1_exs": [
+        [
+          "열심히 공부하며 목표를 향해 나아가요.",
+          "Study hard and move toward the goal."
+        ],
+        [
+          "친절하며 성실한 사람이에요.",
+          "A person who is kind and diligent."
+        ],
+        [
+          "음악을 들으며 작업을 해요.",
+          "Work while listening to music."
+        ]
+      ],
+      "g1_prac": [
+        "1. 공부하다+일하다(문어 나열) → 공부하_____ 일도 해요.",
+        "2. 노래하다+춤추다(동시) → 노래하_____ 춤을 춰요.",
+        "3. 친절하다+성실하다(나열) → 친절하_____ 성실해요."
+      ],
+      "g2_name": "V/A-(으)ㄴ 반면(에) (격식 대조)",
+      "g2_name_eng": "V/A-(으)ㄴ 반면(에): whereas / on the other hand (formal contrast)",
+      "g2_desc": "두 사실이 대조됨을 격식적으로 나타내요. V/A 관형형 뒤에 반면(에)을 붙여요.",
+      "g2_desc_eng": "Formal contrast between two facts. Attach 반면(에) after the noun-modifying form.",
+      "g2_cols": [
+        "시제·품사",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V 현재",
+          "V-는 반면에",
+          "열심히 하는 반면에 결과가 없어요.",
+          "Works hard, whereas no results."
+        ],
+        [
+          "V 과거",
+          "V-(으)ㄴ 반면에",
+          "공부한 반면에 시험이 쉬웠어요.",
+          "Studied, whereas exam was easy."
+        ],
+        [
+          "A",
+          "A-(으)ㄴ 반면에",
+          "비싼 반면에 품질이 좋아요.",
+          "Expensive, whereas quality is good."
+        ],
+        [
+          "N",
+          "N인 반면에",
+          "장점인 반면에 단점도 있어요.",
+          "An advantage, but on the other hand a disadvantage."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -지만",
+          "반면에: 격식·문어 / -지만: 일상·구어",
+          "논문: 반면에 / 대화: -지만"
+        ]
+      ],
+      "g2_tip": "-(으)ㄴ 반면에는 격식 대조! -지만보다 더 객관적이고 균형잡힌 느낌이에요.",
+      "g2_tip_eng": "-(으)ㄴ 반면(에) = formal contrast. More objective/balanced than -지만.",
+      "g2_exs": [
+        [
+          "가격이 비싼 반면에 품질이 좋아요.",
+          "The price is high, whereas quality is good."
+        ],
+        [
+          "한국어가 어려운 반면에 재미있어요.",
+          "Korean is difficult, whereas it's fun."
+        ],
+        [
+          "도시는 편리한 반면에 복잡해요.",
+          "The city is convenient, whereas it's crowded."
+        ]
+      ],
+      "g2_prac": [
+        "1. 비싸다+대조+품질 좋다 → 비싼 _____ 품질이 좋아요.",
+        "2. 어렵다+대조+재미있다 → 어려운 _____ 재미있어요.",
+        "3. 편리하다+대조+복잡하다 → 편리한 _____ 복잡해요."
+      ],
+      "reading_title": "격식 글쓰기",
+      "reading_title_eng": "Formal Writing",
+      "reading_text": [
+        "한국어는 어려운 반면에 배울수록 재미있어요.",
+        "열심히 공부하며 꾸준히 연습하는 것이 중요해요.",
+        "문어체는 격식적인 반면에 구어체는 자연스러워요.",
+        "두 가지를 모두 배우며 실력을 키워요.",
+        "노력하는 반면에 결과가 빨리 안 나올 수도 있어요.",
+        "",
+        "Korean is difficult, whereas the more you learn the more fun.",
+        "It's important to study hard while practicing consistently.",
+        "Written style is formal, whereas spoken is natural.",
+        "Develop skills by learning both.",
+        "While making effort, results may not come quickly."
+      ],
+      "q_labels": [
+        "Q1. 한국어는 어떤 특징이 있어요? (What are Korean's characteristics?)",
+        "Q2. 문어체와 구어체의 차이는? (What is the difference?)",
+        "Q3. 맞으면 O, 틀리면 X — 문어체는 자연스럽고 구어체는 격식적이에요. (   )"
+      ],
+      "listening_script": [
+        [
+          "유이",
+          "한국어는 어려운 반면에 재미있잖아요."
+        ],
+        [
+          "아미나",
+          "맞아요. 공부하며 연습하면 늘더라고요."
+        ],
+        [
+          "유이",
+          "문어체는 격식적인 반면에 구어체가 더 편해요."
+        ],
+        [
+          "아미나",
+          "맞아요! 둘 다 배우며 실력을 키워야 해요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 한국어는 어렵지만 어때요?",
+          [
+            "① 쓸모없어요.",
+            "② 배울수록 재미있어요.",
+            "③ 점점 어려워요.",
+            "④ 쉬워져요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 문어체의 특징은?",
+          [
+            "① 자연스러워요.",
+            "② 격식적이에요.",
+            "③ 구어와 같아요.",
+            "④ 어려워요."
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "격식 나열·대조 유형",
+      "topik_tip": "💡 -(으)며(문어 나열·동시) vs -(으)ㄴ 반면에(격식 대조) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n공부하_____ 일도 해요. (문어)",
+          [
+            "① 며",
+            "② ㄴ 반면에",
+            "③ 지만",
+            "④ 면서"
+          ],
+          "정답: ① (문어 나열→-(으)며)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n비싼 _____ 품질이 좋아요.",
+          [
+            "① 며",
+            "② 반면에",
+            "③ 지만",
+            "④ 아도"
+          ],
+          "정답: ② (격식 대조→반면에)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"도시는 편리한 반면에 복잡해요.\"",
+          [
+            "① 도시는 불편하고 복잡해요.",
+            "② 도시는 편리하고 복잡해요.",
+            "③ 도시는 편리하지만 복잡해요.",
+            "④ 도시는 복잡해서 불편해요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)며",
+          "공부하며 일도 해요.",
+          "Study and also work."
+        ],
+        [
+          "-(으)며 동시",
+          "웃으며 말했어요.",
+          "Spoke while smiling."
+        ],
+        [
+          "-(으)ㄴ 반면에",
+          "비싼 반면에 품질 좋아요.",
+          "Expensive, whereas quality is good."
+        ],
+        [
+          "장단점",
+          "장점인 반면에 단점도 있어요.",
+          "Advantage, on the other hand a disadvantage."
+        ],
+        [
+          "격식 연결어",
+          "-(으)며 / 반면에 / -(으)므로",
+          "formal connectors"
+        ]
+      ],
+      "checklist": [
+        "-(으)며로 문어 나열·동시를 표현해요.",
+        "-(으)ㄴ 반면에로 격식 대조를 표현해요.",
+        "문어체 스타일을 일관되게 유지해요.",
+        "-(으)면서와 -(으)며의 차이를 알아요.",
+        "격식 나열·대조 어휘 10개 이상 알아요."
+      ],
+      "mission": "격식 문체로 한국어의 특징을 나열하고 대조하는 글을 써보세요.",
+      "mission_eng": "Write formally listing and contrasting features of Korean.",
+      "writing_prompt": "-(으)며와 -(으)ㄴ 반면에를 각각 포함해 격식체 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 formal sentences using -(으)며 and -(으)ㄴ 반면에.",
+      "topik_vocab": [
+        [
+          "T01",
+          "나열",
+          "listing"
+        ],
+        [
+          "T02",
+          "병렬",
+          "parallelism"
+        ],
+        [
+          "T03",
+          "대조",
+          "contrast"
+        ],
+        [
+          "T04",
+          "상반",
+          "opposition"
+        ],
+        [
+          "T05",
+          "비교",
+          "comparison"
+        ],
+        [
+          "T06",
+          "균형",
+          "balance"
+        ],
+        [
+          "T07",
+          "일관성",
+          "consistency"
+        ],
+        [
+          "T08",
+          "체계",
+          "framework"
+        ],
+        [
+          "T09",
+          "논리",
+          "logic"
+        ],
+        [
+          "T10",
+          "구조",
+          "structure"
+        ]
+      ]
+    },
+    {
+      "title": "격식 이유 · 조건 심화",
+      "title_eng": "Advanced Formal Reasons & Conditions",
+      "chars": "All characters",
+      "must_vocab": [
+        [
+          "01",
+          "💡",
+          "기에",
+          "since / as (modern formal)",
+          "바쁘기에 못 가요."
+        ],
+        [
+          "02",
+          "📋",
+          "경우",
+          "case / situation",
+          "그 경우에는요."
+        ],
+        [
+          "03",
+          "🔍",
+          "상황",
+          "situation",
+          "상황에 따라 달라요."
+        ],
+        [
+          "04",
+          "📊",
+          "조건",
+          "condition",
+          "조건을 충족해요."
+        ],
+        [
+          "05",
+          "⭐",
+          "해당하다",
+          "to apply",
+          "해당하는 경우예요."
+        ],
+        [
+          "06",
+          "✅",
+          "충족하다",
+          "to satisfy",
+          "조건을 충족해요."
+        ],
+        [
+          "07",
+          "📝",
+          "규정",
+          "regulation",
+          "규정에 따라요."
+        ],
+        [
+          "08",
+          "🏛️",
+          "법규",
+          "law / regulation",
+          "법규를 따르는 경우예요."
+        ],
+        [
+          "09",
+          "🔗",
+          "결부하다",
+          "to associate",
+          "결부된 경우예요."
+        ],
+        [
+          "10",
+          "💬",
+          "명시하다",
+          "to specify",
+          "명시된 경우예요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "가정하다",
+          "to assume",
+          "가정하는 경우예요."
+        ],
+        [
+          "12",
+          "전제하다",
+          "to presuppose",
+          "전제하는 경우예요."
+        ],
+        [
+          "13",
+          "반영하다",
+          "to reflect",
+          "반영된 경우예요."
+        ],
+        [
+          "14",
+          "고려하다",
+          "to consider",
+          "고려한 경우예요."
+        ],
+        [
+          "15",
+          "판단하다",
+          "to judge",
+          "판단하기에 맞아요."
+        ],
+        [
+          "16",
+          "준수하다",
+          "to comply",
+          "준수해야 해요."
+        ],
+        [
+          "17",
+          "위반하다",
+          "to violate",
+          "위반하는 경우예요."
+        ],
+        [
+          "18",
+          "예외",
+          "exception",
+          "예외인 경우예요."
+        ],
+        [
+          "19",
+          "원칙",
+          "principle",
+          "원칙에 따르는 경우예요."
+        ],
+        [
+          "20",
+          "적용하다",
+          "to apply",
+          "적용되는 경우예요."
+        ]
+      ],
+      "g1_name": "V/A-기에 (현대 격식 이유)",
+      "g1_name_eng": "V/A-기에: since / as (modern formal written reason)",
+      "g1_desc": "격식체·문어에서 이유나 근거를 나타내요. -(으)므로보다 더 현대적인 격식 표현이에요.",
+      "g1_desc_eng": "Formal/written reason. More contemporary formal than -(으)므로.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V/A-기에",
+          "바쁘기에 참석하기 어렵습니다.",
+          "격식 이유",
+          "Since I'm busy, it's hard to attend."
+        ],
+        [
+          "V/A-기에",
+          "내용이 중요하기에 공유합니다.",
+          "격식 근거",
+          "As the content is important, I'm sharing."
+        ],
+        [
+          "N-이기에",
+          "학생이기에 할인이 됩니다.",
+          "N 격식 이유",
+          "Since you're a student, discounted."
+        ],
+        [
+          "의문·강조",
+          "무엇이기에?",
+          "무엇이기에 그렇게 해요?",
+          "Why on earth do you do that?"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "-(으)므로 vs -기에",
+          "의미 같음, -기에가 더 현대적 격식",
+          "공문·논문: 둘 다 가능, -기에가 더 자연스러움"
+        ]
+      ],
+      "g1_tip": "-기에는 현대 격식 문어! -(으)므로와 바꿔 써도 대부분 자연스러워요.",
+      "g1_tip_eng": "-기에 = modern formal reason. Interchangeable with -(으)므로.",
+      "g1_exs": [
+        [
+          "중요한 내용이기에 공지합니다.",
+          "As it is important, I am notifying you."
+        ],
+        [
+          "시간이 부족하기에 요약하겠습니다.",
+          "Since time is short, I will summarize."
+        ],
+        [
+          "우수하기에 선발되었습니다.",
+          "Since outstanding, you have been selected."
+        ]
+      ],
+      "g1_prac": [
+        "1. 바쁘다 → 바쁘_____ 참석이 어려워요.",
+        "2. 중요하다 → 중요하_____ 알려 드려요.",
+        "3. 학생이다(N) → 학생_____ 할인 됩니다."
+      ],
+      "g2_name": "V/A-(으)ㄹ 경우 (격식 조건)",
+      "g2_name_eng": "V/A-(으)ㄹ 경우: in the case of / if (formal condition)",
+      "g2_desc": "공식적인 조건이나 가정을 나타내요. 격식 문서·안내문에서 자주 써요.",
+      "g2_desc_eng": "Formal condition or case. Common in official documents, notices, and announcements.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-(으)ㄹ 경우",
+          "늦을 경우 연락해 주세요.",
+          "V 조건",
+          "In the case of being late, contact."
+        ],
+        [
+          "A-(으)ㄹ 경우",
+          "문제가 있을 경우 신고하세요.",
+          "A 조건",
+          "If there is a problem, report it."
+        ],
+        [
+          "V-(으)ㄹ 경우에는",
+          "해당될 경우에는 예외입니다.",
+          "특정 조건",
+          "In the event that it applies, exception."
+        ],
+        [
+          "N의 경우",
+          "학생의 경우 할인이 됩니다.",
+          "N 경우",
+          "In the case of students, discounted."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "-(으)ㄹ 경우 vs -(으)면",
+          "경우: 격식·공문 / -(으)면: 일상·구어",
+          "안내문: 경우 / 대화: -(으)면"
+        ]
+      ],
+      "g2_tip": "-(으)ㄹ 경우는 격식 공문용! 일상 대화에서는 -(으)면을 써요.",
+      "g2_tip_eng": "-(으)ㄹ 경우 = formal notices/documents. Use -(으)면 in casual speech.",
+      "g2_exs": [
+        [
+          "분실했을 경우 즉시 신고해 주세요.",
+          "In the event of loss, please report immediately."
+        ],
+        [
+          "이상이 있을 경우 담당자에게 문의하세요.",
+          "If there is an issue, contact the person in charge."
+        ],
+        [
+          "규정을 위반할 경우 제재를 받습니다.",
+          "In the case of a violation, sanctions apply."
+        ]
+      ],
+      "g2_prac": [
+        "1. 늦다 → 늦_____ 경우 연락해 주세요.",
+        "2. 문제 있다 → 문제가 있_____ 경우 신고하세요.",
+        "3. 학생(N) → 학생_____ 경우 할인이 됩니다."
+      ],
+      "reading_title": "공식 안내문",
+      "reading_title_eng": "Official Notice",
+      "reading_text": [
+        "다음 경우에는 환불이 가능합니다.",
+        "상품에 이상이 있을 경우 즉시 신고해 주세요.",
+        "학생이기에 할인 혜택을 받을 수 있습니다.",
+        "분실했을 경우에는 재발급이 가능합니다.",
+        "규정에 위반될 경우 제재를 받을 수 있습니다.",
+        "",
+        "Refunds are possible in the following cases.",
+        "In the case of a product defect, please report immediately.",
+        "Since you are a student, you can receive discount benefits.",
+        "In the case of loss, reissuance is possible.",
+        "In the case of violating regulations, sanctions may apply."
+      ],
+      "q_labels": [
+        "Q1. 환불이 가능한 경우는? (When are refunds possible?)",
+        "Q2. 학생에게 어떤 혜택이 있어요? (What benefits do students have?)",
+        "Q3. 맞으면 O, 틀리면 X — 분실했을 경우 재발급이 안 돼요. (   )"
+      ],
+      "listening_script": [
+        [
+          "유이",
+          "아미나, 이 안내문 이해했어요?"
+        ],
+        [
+          "아미나",
+          "네, 문제가 있을 경우 신고하면 되는 거잖아요."
+        ],
+        [
+          "유이",
+          "맞아요. 학생이기에 할인도 돼요."
+        ],
+        [
+          "아미나",
+          "규정을 잘 읽는 것이 중요한 것 같아요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 상품에 이상이 있을 경우 어떻게 해요?",
+          [
+            "① 그냥 써요.",
+            "② 반납해요.",
+            "③ 즉시 신고해요.",
+            "④ 기다려요."
+          ],
+          "③"
+        ],
+        [
+          "Q2. 학생이기에 받을 수 있는 것은?",
+          [
+            "① 환불",
+            "② 재발급",
+            "③ 할인 혜택",
+            "④ 무료 서비스"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "격식 이유·조건 유형",
+      "topik_tip": "💡 -기에(현대 격식 이유) vs -(으)ㄹ 경우(격식 조건) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n중요하_____ 알려 드립니다.",
+          [
+            "① 기에",
+            "② ㄹ 경우",
+            "③ 므로",
+            "④ 아서"
+          ],
+          "정답: ① (격식 이유→-기에)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n문제가 있_____ 신고하세요.",
+          [
+            "① 기에",
+            "② 을 경우",
+            "③ 므로",
+            "④ 아서"
+          ],
+          "정답: ② (격식 조건→-(으)ㄹ 경우)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"분실했을 경우 재발급이 가능합니다.\"",
+          [
+            "① 분실하면 어떤 조치도 없어요.",
+            "② 분실했을 때 재발급 받을 수 있어요.",
+            "③ 분실을 예방해야 해요.",
+            "④ 분실 시 환불이 돼요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-기에",
+          "중요하기에 알려요.",
+          "Since it's important, informing."
+        ],
+        [
+          "-(으)ㄹ 경우",
+          "늦을 경우 연락해요.",
+          "In case of being late, contact."
+        ],
+        [
+          "N의 경우",
+          "학생의 경우 할인돼요.",
+          "In the case of students, discounted."
+        ],
+        [
+          "격식 이유",
+          "-기에 / -(으)므로",
+          "both formal reasons"
+        ],
+        [
+          "격식 조건",
+          "-(으)ㄹ 경우 / -(으)ㄹ 시",
+          "formal conditions"
+        ]
+      ],
+      "checklist": [
+        "-기에로 현대 격식 이유를 표현해요.",
+        "-(으)ㄹ 경우로 격식 조건을 표현해요.",
+        "공문·안내문 스타일을 이해해요.",
+        "-기에와 -(으)므로의 관계를 알아요.",
+        "격식 이유·조건 어휘 10개 이상 알아요."
+      ],
+      "mission": "격식 안내문을 -기에와 -(으)ㄹ 경우를 써서 써보세요.",
+      "mission_eng": "Write a formal notice using -기에 and -(으)ㄹ 경우.",
+      "writing_prompt": "격식 이유와 조건을 각각 포함해 안내문 형식으로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 formal notice-style sentences with both grammar points.",
+      "topik_vocab": [
+        [
+          "T01",
+          "근거",
+          "grounds"
+        ],
+        [
+          "T02",
+          "논거",
+          "rationale"
+        ],
+        [
+          "T03",
+          "사례",
+          "case/example"
+        ],
+        [
+          "T04",
+          "통계",
+          "statistics"
+        ],
+        [
+          "T05",
+          "자료",
+          "data"
+        ],
+        [
+          "T06",
+          "출처",
+          "source"
+        ],
+        [
+          "T07",
+          "인용",
+          "citation"
+        ],
+        [
+          "T08",
+          "참고",
+          "reference"
+        ],
+        [
+          "T09",
+          "검증",
+          "verification"
+        ],
+        [
+          "T10",
+          "타당성",
+          "validity"
+        ]
+      ]
+    },
+    {
+      "title": "격식 추측 · 미래 · 변화",
+      "title_eng": "Formal Future & Change",
+      "chars": "All characters",
+      "must_vocab": [
+        [
+          "01",
+          "📋",
+          "예정",
+          "plan / schedule",
+          "예정입니다."
+        ],
+        [
+          "02",
+          "💡",
+          "전망",
+          "prospect / outlook",
+          "전망이 밝아요."
+        ],
+        [
+          "03",
+          "🔄",
+          "지속",
+          "continuity",
+          "지속되고 있어요."
+        ],
+        [
+          "04",
+          "📈",
+          "증가",
+          "increase",
+          "증가해 왔어요."
+        ],
+        [
+          "05",
+          "📉",
+          "감소",
+          "decrease",
+          "감소해 가고 있어요."
+        ],
+        [
+          "06",
+          "⭐",
+          "변화",
+          "change",
+          "변화해 왔어요."
+        ],
+        [
+          "07",
+          "🏛️",
+          "공식",
+          "official",
+          "공식 발표예요."
+        ],
+        [
+          "08",
+          "🔗",
+          "유지하다",
+          "to maintain",
+          "유지해 왔어요."
+        ],
+        [
+          "09",
+          "📰",
+          "발전",
+          "development",
+          "발전해 가고 있어요."
+        ],
+        [
+          "10",
+          "🌱",
+          "성장",
+          "growth",
+          "성장해 왔어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "축적하다",
+          "to accumulate",
+          "축적해 왔어요."
+        ],
+        [
+          "12",
+          "심화되다",
+          "to deepen",
+          "심화되고 있어요."
+        ],
+        [
+          "13",
+          "확대되다",
+          "to expand",
+          "확대되어 왔어요."
+        ],
+        [
+          "14",
+          "정착하다",
+          "to settle",
+          "정착해 가고 있어요."
+        ],
+        [
+          "15",
+          "지향하다",
+          "to aim for",
+          "지향해 왔어요."
+        ],
+        [
+          "16",
+          "추구하다",
+          "to pursue",
+          "추구해 왔어요."
+        ],
+        [
+          "17",
+          "달성하다",
+          "to achieve",
+          "달성해 왔어요."
+        ],
+        [
+          "18",
+          "지속하다",
+          "to continue",
+          "지속해 가고 있어요."
+        ],
+        [
+          "19",
+          "기여하다",
+          "to contribute",
+          "기여해 왔어요."
+        ],
+        [
+          "20",
+          "견인하다",
+          "to lead / drive",
+          "견인해 왔어요."
+        ]
+      ],
+      "g1_name": "V/A-(으)ㄹ 것이다 (격식 미래·추측)",
+      "g1_name_eng": "V/A-(으)ㄹ 것이다: will / is expected to (formal future)",
+      "g1_desc": "격식체나 문어에서 미래를 나타내요. 구어 -(으)ㄹ 거예요의 격식 버전이에요.",
+      "g1_desc_eng": "Formal/written future. Formal version of -(으)ㄹ 거예요.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-(으)ㄹ 것이다",
+          "내년에 완성될 것입니다.",
+          "격식 미래",
+          "Will be completed next year."
+        ],
+        [
+          "A-(으)ㄹ 것이다",
+          "더 좋아질 것입니다.",
+          "격식 추측·미래",
+          "Will get better."
+        ],
+        [
+          "의문형",
+          "될 것인가요?",
+          "격식 의문",
+          "Will it be possible?"
+        ],
+        [
+          "부정형",
+          "되지 않을 것입니다.",
+          "격식 부정 미래",
+          "Will not happen."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "구어 비교",
+          "-(으)ㄹ 거예요(구어) vs -(으)ㄹ 것이다(격식)",
+          "대화: 갈 거예요 / 발표: 갈 것입니다"
+        ]
+      ],
+      "g1_tip": "-(으)ㄹ 것이다는 격식 문어! 발표·논문·보고서에서 써요.",
+      "g1_tip_eng": "-(으)ㄹ 것이다 = formal future. Use in presentations, papers, reports.",
+      "g1_exs": [
+        [
+          "프로젝트가 내년에 완성될 것입니다.",
+          "The project will be completed next year."
+        ],
+        [
+          "상황이 점차 개선될 것입니다.",
+          "The situation will gradually improve."
+        ],
+        [
+          "목표를 달성하게 될 것입니다.",
+          "The goal will be achieved."
+        ]
+      ],
+      "g1_prac": [
+        "1. 완성되다(격식 미래) → 내년에 완성_____ 것입니다.",
+        "2. 좋아지다 → 더 좋아_____ 것입니다.",
+        "3. 달성하다(격식 결과) → 달성하_____ 될 것입니다."
+      ],
+      "g2_name": "V-아/어 오다 / 가다 (지속적 변화 방향)",
+      "g2_name_eng": "V-아/어 오다: have been V-ing / V-아/어 가다: continue to V",
+      "g2_desc": "오다는 과거부터 현재까지의 지속, 가다는 현재부터 미래로의 진행을 나타내요.",
+      "g2_desc_eng": "-아/어 오다: continuous from past to present. -아/어 가다: ongoing into the future.",
+      "g2_cols": [
+        "방향",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "과거→현재 오다",
+          "V-아/어 왔어요",
+          "꾸준히 노력해 왔어요.",
+          "Have been working hard up to now."
+        ],
+        [
+          "현재→미래 가다",
+          "V-아/어 가고 있어요",
+          "점점 발전해 가고 있어요.",
+          "Is gradually developing."
+        ],
+        [
+          "과거 지속 완료",
+          "오다 (격식)",
+          "10년간 연구해 왔습니다.",
+          "Has been researching for 10 years."
+        ],
+        [
+          "진행 중",
+          "가다 (격식)",
+          "상황이 개선되어 가고 있습니다.",
+          "The situation is improving."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "오다 vs 가다",
+          "오다: 과거에서 현재로 / 가다: 현재에서 미래로",
+          "노력해 왔어요 (과거~현재) / 노력해 가고 있어요 (현재~미래)"
+        ]
+      ],
+      "g2_tip": "-아/어 오다는 \"지금까지\", -아/어 가다는 \"앞으로도\"! 방향으로 구별해요.",
+      "g2_tip_eng": "-아/어 오다 = \"have been~\" (past to now). -아/어 가다 = \"are ~ing\" (now forward).",
+      "g2_exs": [
+        [
+          "30년간 한국어를 가르쳐 왔어요.",
+          "Have been teaching Korean for 30 years."
+        ],
+        [
+          "기술이 빠르게 발전해 가고 있어요.",
+          "Technology is rapidly developing."
+        ],
+        [
+          "꾸준히 노력해 왔으므로 성과가 있을 것입니다.",
+          "Since have been working hard, results will come."
+        ]
+      ],
+      "g2_prac": [
+        "1. 꾸준히 노력하다(과거~현재) → 꾸준히 노력해 _____.",
+        "2. 점점 발전하다(현재~미래) → 점점 발전해 _____.",
+        "3. 10년간 연구하다(과거~현재) → 10년간 연구해 _____."
+      ],
+      "reading_title": "성장해 온 한국",
+      "reading_title_eng": "Korea That Has Grown",
+      "reading_text": [
+        "한국은 수십 년간 꾸준히 발전해 왔어요.",
+        "경제도 지속적으로 성장해 왔습니다.",
+        "앞으로도 발전해 갈 것입니다.",
+        "한국어도 전 세계적으로 확산되어 가고 있어요.",
+        "더 많은 사람들이 배우게 될 것입니다.",
+        "",
+        "Korea has been steadily developing for decades.",
+        "The economy has also been continuously growing.",
+        "It will continue to develop going forward.",
+        "Korean is also spreading globally.",
+        "More people will come to learn it."
+      ],
+      "q_labels": [
+        "Q1. 한국은 어떻게 발전해 왔어요? (How has Korea developed?)",
+        "Q2. 한국어는 앞으로 어떻게 될 것 같아요? (What will happen to Korean?)",
+        "Q3. 맞으면 O, 틀리면 X — 한국어를 배우는 사람이 줄어들 것입니다. (   )"
+      ],
+      "listening_script": [
+        [
+          "데이비드",
+          "한국이 정말 많이 발전해 왔네요."
+        ],
+        [
+          "유이",
+          "맞아요. 앞으로도 발전해 갈 것 같아요."
+        ],
+        [
+          "데이비드",
+          "한국어도 전 세계에서 배우고 있잖아요."
+        ],
+        [
+          "유이",
+          "맞아요! 더 많은 사람이 배우게 될 것입니다."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 한국의 발전은?",
+          [
+            "① 멈췄어요.",
+            "② 꾸준히 발전해 왔어요.",
+            "③ 후퇴했어요.",
+            "④ 잠시 멈췄어요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 한국어의 미래는?",
+          [
+            "① 줄어들 것이에요.",
+            "② 더 많이 배우게 될 것이에요.",
+            "③ 변화 없을 것이에요.",
+            "④ 어려워질 것이에요."
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "격식 추측·미래 유형",
+      "topik_tip": "💡 -(으)ㄹ 것이다(격식 미래) vs -아/어 오다/가다(지속 방향)!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n내년에 완성_____ 것입니다.",
+          [
+            "① 될",
+            "② 해 온",
+            "③ 해 가는",
+            "④ 했을"
+          ],
+          "정답: ① (격식 미래)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n꾸준히 노력해 _____.",
+          [
+            "① 올 것입니다",
+            "② 왔어요",
+            "③ 갔어요",
+            "④ 갈 것입니다"
+          ],
+          "정답: ② (과거~현재→오다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"기술이 빠르게 발전해 가고 있어요.\"",
+          [
+            "① 기술이 이미 완성됐어요.",
+            "② 기술이 발전 중이에요.",
+            "③ 기술 발전이 멈췄어요.",
+            "④ 기술이 천천히 발전해요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)ㄹ 것이다",
+          "완성될 것입니다.",
+          "Will be completed. (formal)"
+        ],
+        [
+          "-아/어 왔어요",
+          "노력해 왔어요.",
+          "Have been working hard."
+        ],
+        [
+          "-아/어 가고 있어요",
+          "발전해 가고 있어요.",
+          "Is developing."
+        ],
+        [
+          "격식 vs 구어",
+          "갈 것입니다 vs 갈 거예요",
+          "formal vs spoken future"
+        ],
+        [
+          "시간 방향",
+          "과거→현재: 오다 / 현재→미래: 가다",
+          "past→now / now→future"
+        ]
+      ],
+      "checklist": [
+        "-(으)ㄹ 것이다로 격식 미래를 표현해요.",
+        "-아/어 오다로 과거~현재 지속을 표현해요.",
+        "-아/어 가다로 현재~미래 진행을 표현해요.",
+        "격식 문어 스타일을 유지해요.",
+        "격식 추측·미래 어휘 10개 이상 알아요."
+      ],
+      "mission": "격식 문어체로 자신의 과거 노력과 미래 계획을 발표해보세요.",
+      "mission_eng": "Present your past efforts and future plans in formal style.",
+      "writing_prompt": "-(으)ㄹ 것이다, -아/어 오다, -아/어 가다를 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences each using the three grammar patterns.",
+      "topik_vocab": [
+        [
+          "T01",
+          "전망",
+          "outlook"
+        ],
+        [
+          "T02",
+          "예측",
+          "prediction"
+        ],
+        [
+          "T03",
+          "추세",
+          "trend"
+        ],
+        [
+          "T04",
+          "변화",
+          "change"
+        ],
+        [
+          "T05",
+          "발전",
+          "development"
+        ],
+        [
+          "T06",
+          "혁신",
+          "innovation"
+        ],
+        [
+          "T07",
+          "지속",
+          "sustainability"
+        ],
+        [
+          "T08",
+          "성장",
+          "growth"
+        ],
+        [
+          "T09",
+          "쇠퇴",
+          "decline"
+        ],
+        [
+          "T10",
+          "전환",
+          "transition"
+        ]
+      ]
+    },
+    {
+      "title": "조건 한계 · 전환",
+      "title_eng": "Conditional Limits & Formal Transition",
+      "chars": "All characters",
+      "must_vocab": [
+        [
+          "01",
+          "🔑",
+          "한",
+          "as long as",
+          "노력하는 한 가능해요."
+        ],
+        [
+          "02",
+          "⚖️",
+          "되",
+          "but (formal)",
+          "노력했되 부족했어요."
+        ],
+        [
+          "03",
+          "📊",
+          "결과",
+          "result",
+          "좋은 결과가 있을 거예요."
+        ],
+        [
+          "04",
+          "💡",
+          "기준",
+          "standard",
+          "기준에 맞는 경우예요."
+        ],
+        [
+          "05",
+          "🔍",
+          "범위",
+          "range / scope",
+          "범위 내에 있어요."
+        ],
+        [
+          "06",
+          "✅",
+          "적용하다",
+          "to apply",
+          "적용되는 한 가능해요."
+        ],
+        [
+          "07",
+          "🏛️",
+          "원칙",
+          "principle",
+          "원칙을 지키는 한 돼요."
+        ],
+        [
+          "08",
+          "🔒",
+          "제한",
+          "restriction",
+          "제한이 있는 반면이에요."
+        ],
+        [
+          "09",
+          "📝",
+          "규정",
+          "regulation",
+          "규정을 지키는 한 괜찮아요."
+        ],
+        [
+          "10",
+          "💬",
+          "표현하다",
+          "to express",
+          "격식으로 표현해요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "전제",
+          "premise",
+          "전제가 있는 한이에요."
+        ],
+        [
+          "12",
+          "예외",
+          "exception",
+          "예외가 되는 반면이에요."
+        ],
+        [
+          "13",
+          "비교하되",
+          "compare but",
+          "비교하되 공정하게 해요."
+        ],
+        [
+          "14",
+          "유사하다",
+          "similar",
+          "유사하되 다른 점이 있어요."
+        ],
+        [
+          "15",
+          "공정하다",
+          "fair",
+          "공정하되 엄격해요."
+        ],
+        [
+          "16",
+          "다양하다",
+          "diverse",
+          "다양하되 통일성이 있어요."
+        ],
+        [
+          "17",
+          "명확하다",
+          "clear",
+          "명확하되 간결해요."
+        ],
+        [
+          "18",
+          "포괄적",
+          "comprehensive",
+          "포괄적이되 구체적이에요."
+        ],
+        [
+          "19",
+          "체계적",
+          "systematic",
+          "체계적이되 유연해요."
+        ],
+        [
+          "20",
+          "균형",
+          "balance",
+          "균형을 이루는 한 괜찮아요."
+        ]
+      ],
+      "g1_name": "V/A-(으)ㄴ/는 한 (조건 한계)",
+      "g1_name_eng": "V/A-(으)ㄴ/는 한: as long as (conditional limit)",
+      "g1_desc": "어떤 조건이 유지되는 동안에는 결과가 성립함을 나타내요.",
+      "g1_desc_eng": "Expresses that a result holds as long as a condition is maintained.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-는 한",
+          "노력하는 한 가능해요.",
+          "V 현재 조건",
+          "As long as you make effort, possible."
+        ],
+        [
+          "A-(으)ㄴ 한",
+          "건강한 한 괜찮아요.",
+          "A 조건",
+          "As long as healthy, it's fine."
+        ],
+        [
+          "V-(으)ㄴ 한",
+          "이해한 한 설명할 수 있어요.",
+          "V 과거 조건",
+          "As long as understood, can explain."
+        ],
+        [
+          "부정 조건",
+          "포기하지 않는 한 가능해요.",
+          "부정 조건",
+          "As long as don't give up, possible."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "강한 조건",
+          "한 = 조건이 지속되는 동안 내내",
+          "조건이 깨지면 결과도 성립 안 함"
+        ]
+      ],
+      "g1_tip": "-(으)ㄴ/는 한은 \"이 조건이 계속되는 한\"이라는 강한 조건이에요!",
+      "g1_tip_eng": "-(으)ㄴ/는 한 = \"as long as / for as long as\". Strong ongoing condition.",
+      "g1_exs": [
+        [
+          "포기하지 않는 한 성공할 수 있어요.",
+          "As long as you don't give up, you can succeed."
+        ],
+        [
+          "규칙을 지키는 한 문제없어요.",
+          "As long as you follow the rules, no problem."
+        ],
+        [
+          "건강한 한 계속할 거예요.",
+          "As long as healthy, I'll continue."
+        ]
+      ],
+      "g1_prac": [
+        "1. 노력하다 → 노력하_____ 가능해요.",
+        "2. 건강하다 → 건강_____ 계속해요.",
+        "3. 포기하지 않다(부정) → 포기하지 않_____ 할 수 있어요."
+      ],
+      "g2_name": "V/A-되 (격식 대조·전환)",
+      "g2_name_eng": "V/A-되: but / however (formal written contrast)",
+      "g2_desc": "격식체에서 대조나 조건 제시를 나타내요. 구어 -지만보다 더 격식적이에요.",
+      "g2_desc_eng": "Formal written contrast or concession. More formal than -지만.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-되",
+          "노력했되 결과가 없었어요.",
+          "V 격식 대조",
+          "Worked hard but no results."
+        ],
+        [
+          "A-되",
+          "좋되 비싸요.",
+          "A 격식 대조",
+          "Good but expensive."
+        ],
+        [
+          "허용+제한",
+          "공유하되 남용하지 마세요.",
+          "허용 후 제한",
+          "Share but don't misuse."
+        ],
+        [
+          "N-이되",
+          "학생이되 전문성이 있어요.",
+          "N 격식 대조",
+          "A student but with expertise."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -지만",
+          "-되: 문어·격식 / -지만: 구어·일상",
+          "공문: -되 / 대화: -지만"
+        ]
+      ],
+      "g2_tip": "-되는 문어·격식 대조! 공문이나 논문에서 -지만 대신 써요.",
+      "g2_tip_eng": "-되 = formal written contrast. Use instead of -지만 in documents/papers.",
+      "g2_exs": [
+        [
+          "노력했되 결과가 없었어요.",
+          "Worked hard but there were no results."
+        ],
+        [
+          "사용하되 규정을 지켜 주세요.",
+          "Use it but please follow the rules."
+        ],
+        [
+          "간단하되 명확하게 써 주세요.",
+          "Write simply but clearly."
+        ]
+      ],
+      "g2_prac": [
+        "1. 노력하다+격식 대조+부족하다 → 노력했_____ 부족했어요.",
+        "2. 공유하다+허용+남용 말다 → 공유하_____ 남용하지 마세요.",
+        "3. 간단하다+격식+명확하다 → 간단하_____ 명확하게 써요."
+      ],
+      "reading_title": "조건과 원칙",
+      "reading_title_eng": "Conditions and Principles",
+      "reading_text": [
+        "규칙을 지키는 한 어떤 방법도 가능합니다.",
+        "노력하되 건강도 챙기는 것이 중요해요.",
+        "자유롭게 표현하되 예의를 지켜야 해요.",
+        "포기하지 않는 한 언젠가는 목표를 이룰 것입니다.",
+        "성공하되 과정도 중요하다는 것을 잊지 마세요.",
+        "",
+        "As long as you follow the rules, any method is fine.",
+        "Make effort but also take care of your health.",
+        "Express freely but maintain courtesy.",
+        "As long as you don't give up, you will achieve your goal.",
+        "Succeed, but don't forget that the process also matters."
+      ],
+      "q_labels": [
+        "Q1. 어떤 방법이 가능해요? (What methods are possible?)",
+        "Q2. 노력할 때 무엇도 챙겨야 해요? (What else should you take care of?)",
+        "Q3. 맞으면 O, 틀리면 X — 포기하지 않는 한 목표를 이룰 것입니다. (   )"
+      ],
+      "listening_script": [
+        [
+          "아미나",
+          "한국어 공부하는 한 실력이 늘잖아요."
+        ],
+        [
+          "유이",
+          "맞아요. 노력하되 쉬는 것도 중요해요."
+        ],
+        [
+          "아미나",
+          "자유롭게 공부하되 꾸준히 해야 해요."
+        ],
+        [
+          "유이",
+          "포기하지 않는 한 반드시 잘하게 될 거예요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 어떻게 하는 한 실력이 늘어요?",
+          [
+            "① 학원 다니는 한",
+            "② 공부하는 한",
+            "③ 드라마 보는 한",
+            "④ 쉬는 한"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 노력하되 무엇도 챙겨야 해요?",
+          [
+            "① 돈",
+            "② 시간",
+            "③ 건강",
+            "④ 친구"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "조건 한계·전환 유형",
+      "topik_tip": "💡 -(으)ㄴ/는 한(조건 한계) vs -되(격식 대조) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n포기하지 않_____ 가능해요.",
+          [
+            "① 는 한",
+            "② 되",
+            "③ 므로",
+            "④ 기에"
+          ],
+          "정답: ① (조건 한계)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n노력했_____ 부족했어요.",
+          [
+            "① 는 한",
+            "② 되",
+            "③ 지만",
+            "④ 기에"
+          ],
+          "정답: ② (격식 대조→-되)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"규칙을 지키는 한 어떤 방법도 됩니다.\"",
+          [
+            "① 규칙을 지키면 모든 방법이 허용됩니다.",
+            "② 규칙과 관계없이 가능합니다.",
+            "③ 방법은 하나뿐입니다.",
+            "④ 규칙은 중요하지 않아요."
+          ],
+          "정답: ①"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)ㄴ/는 한",
+          "노력하는 한 가능해요.",
+          "As long as effort, possible."
+        ],
+        [
+          "-되 (대조)",
+          "노력했되 부족했어요.",
+          "Worked hard but fell short."
+        ],
+        [
+          "-되 (허용)",
+          "공유하되 남용 말아요.",
+          "Share but don't misuse."
+        ],
+        [
+          "포기하지 않는 한",
+          "포기하지 않는 한 돼요.",
+          "As long as don't give up."
+        ],
+        [
+          "격식 어휘",
+          "원칙/규정/기준/범위",
+          "principle/regulation/criterion/scope"
+        ]
+      ],
+      "checklist": [
+        "-(으)ㄴ/는 한으로 조건 한계를 표현해요.",
+        "-되로 격식 대조를 표현해요.",
+        "공문·논문 스타일을 유지해요.",
+        "-되와 -지만의 문체 차이를 알아요.",
+        "조건 한계·전환 어휘 10개 이상 알아요."
+      ],
+      "mission": "격식 문체로 자신의 원칙과 조건을 말해보세요.",
+      "mission_eng": "Describe your principles and conditions in formal style.",
+      "writing_prompt": "-(으)ㄴ/는 한과 -되를 각각 포함해 격식체 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 formal sentences using -(으)ㄴ/는 한 and -되.",
+      "topik_vocab": [
+        [
+          "T01",
+          "원칙",
+          "principle"
+        ],
+        [
+          "T02",
+          "규범",
+          "norm"
+        ],
+        [
+          "T03",
+          "기준",
+          "criterion"
+        ],
+        [
+          "T04",
+          "범위",
+          "scope"
+        ],
+        [
+          "T05",
+          "한계",
+          "limit"
+        ],
+        [
+          "T06",
+          "예외",
+          "exception"
+        ],
+        [
+          "T07",
+          "적용",
+          "application"
+        ],
+        [
+          "T08",
+          "준수",
+          "compliance"
+        ],
+        [
+          "T09",
+          "위반",
+          "violation"
+        ],
+        [
+          "T10",
+          "제재",
+          "sanction"
+        ]
+      ]
+    },
+    {
+      "title": "논리적 연결",
+      "title_eng": "Logical Connectors",
+      "chars": "All characters",
+      "must_vocab": [
+        [
+          "01",
+          "📝",
+          "이상",
+          "since / now that (literary)",
+          "이상 해야 해요."
+        ],
+        [
+          "02",
+          "❌",
+          "커녕",
+          "not even / far from",
+          "커녕 안 됩니다."
+        ],
+        [
+          "03",
+          "💡",
+          "오히려",
+          "rather / on the contrary",
+          "오히려 좋아요."
+        ],
+        [
+          "04",
+          "🔍",
+          "논리",
+          "logic",
+          "논리적으로 연결해요."
+        ],
+        [
+          "05",
+          "📊",
+          "주장",
+          "claim",
+          "주장을 뒷받침해요."
+        ],
+        [
+          "06",
+          "✅",
+          "설득력",
+          "persuasiveness",
+          "설득력이 있어요."
+        ],
+        [
+          "07",
+          "🏛️",
+          "반론",
+          "counter-argument",
+          "반론을 제기해요."
+        ],
+        [
+          "08",
+          "🔗",
+          "연결",
+          "connection",
+          "논리를 연결해요."
+        ],
+        [
+          "09",
+          "💬",
+          "강조하다",
+          "to emphasize",
+          "강조하고 싶어요."
+        ],
+        [
+          "10",
+          "⭐",
+          "핵심",
+          "core / key point",
+          "핵심을 말해요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "근거",
+          "evidence / basis",
+          "근거를 제시해요."
+        ],
+        [
+          "12",
+          "전제",
+          "premise",
+          "전제가 맞아요."
+        ],
+        [
+          "13",
+          "결론",
+          "conclusion",
+          "결론을 내려요."
+        ],
+        [
+          "14",
+          "도출하다",
+          "to derive",
+          "결론을 도출해요."
+        ],
+        [
+          "15",
+          "뒷받침하다",
+          "to support",
+          "주장을 뒷받침해요."
+        ],
+        [
+          "16",
+          "모순",
+          "contradiction",
+          "모순이 있어요."
+        ],
+        [
+          "17",
+          "타당하다",
+          "valid",
+          "타당한 주장이에요."
+        ],
+        [
+          "18",
+          "반박하다",
+          "to refute",
+          "반박할 수 있어요."
+        ],
+        [
+          "19",
+          "요약하다",
+          "to summarize",
+          "요약해서 말해요."
+        ],
+        [
+          "20",
+          "일관성",
+          "consistency",
+          "일관성이 있어요."
+        ]
+      ],
+      "g1_name": "V/A-(으)ㄹ진대 (문어 전제 연결)",
+      "g1_name_eng": "V/A-(으)ㄹ진대: given that / since it's the case (literary premise)",
+      "g1_desc": "어떤 사실을 전제로 논리적 결론을 이어줘요. 주로 문어체·연설체에서 써요.",
+      "g1_desc_eng": "Connects a premise to a logical conclusion. Mainly in written/literary/speech style.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-(으)ㄹ진대",
+          "할 수 있을진대 해야 해요.",
+          "V 전제",
+          "Given that you can, you should."
+        ],
+        [
+          "A-(으)ㄹ진대",
+          "중요할진대 소홀히 하지 마요.",
+          "A 전제",
+          "Since it is important, don't neglect."
+        ],
+        [
+          "V-았/었을진대",
+          "알았을진대 왜 안 했어요?",
+          "과거 전제",
+          "Given that you knew, why didn't you?"
+        ],
+        [
+          "결론 연결",
+          "전제 → 마땅히/당연히 V",
+          "할 수 있을진대 마땅히 해야 해요.",
+          "Given you can, you ought to do it."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "문어 전용",
+          "일상 구어에서는 거의 사용 안 함",
+          "논문·시·연설에서 주로 사용"
+        ]
+      ],
+      "g1_tip": "-(으)ㄹ진대는 문어·연설체! \"그럴진대 당연히~\"의 논리적 전개예요.",
+      "g1_tip_eng": "-(으)ㄹ진대 = literary premise. Logical: \"given that X, naturally Y\".",
+      "g1_exs": [
+        [
+          "노력할 수 있을진대 포기하지 마세요.",
+          "Given that you can make effort, don't give up."
+        ],
+        [
+          "중요한 것일진대 소홀히 하면 안 됩니다.",
+          "Since it is important, you must not neglect it."
+        ],
+        [
+          "이미 알았을진대 왜 몰랐다 했어요?",
+          "Given that you already knew, why say you didn't?"
+        ]
+      ],
+      "g1_prac": [
+        "1. 할 수 있다 → 할 수 있_____ 해야 해요.",
+        "2. 중요하다 → 중요할_____ 소홀히 말아요.",
+        "3. 알았다(과거) → 알았_____ 왜 안 했어요?"
+      ],
+      "g2_name": "V/A-기는커녕 (강한 부정 강조)",
+      "g2_name_eng": "V/A-기는커녕: far from / not even (strong negation)",
+      "g2_desc": "기대한 것은커녕 그보다 못한 상황임을 나타내요. \"~은 고사하고, ~도 못 함\"의 의미예요.",
+      "g2_desc_eng": "Expresses that not even a lesser expectation was met. \"Far from X, not even Y\".",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-기는커녕",
+          "돕기는커녕 방해했어요.",
+          "V 부정 강조",
+          "Far from helping, they hindered."
+        ],
+        [
+          "A-기는커녕",
+          "좋기는커녕 나쁘기만 해요.",
+          "A 부정 강조",
+          "Far from good, only bad."
+        ],
+        [
+          "N-은/는커녕",
+          "칭찬은커녕 혼났어요.",
+          "N 부정 강조",
+          "Far from praise, I got scolded."
+        ],
+        [
+          "구어 줄임",
+          "V-기는커녕 → V커녕",
+          "도움은커녕 방해했어요.",
+          "Far from helping, hindered."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "강한 부정",
+          "기대 이하를 강조",
+          "쉽기는커녕 오히려 더 어려워요 (예상보다 훨씬 나쁨)"
+        ]
+      ],
+      "g2_tip": "-기는커녕은 \"그것은 고사하고 오히려 반대\"라는 강한 부정이에요!",
+      "g2_tip_eng": "-기는커녕 = \"not only did X not happen, but the opposite occurred\".",
+      "g2_exs": [
+        [
+          "도움이 되기는커녕 문제만 일으켰어요.",
+          "Far from being helpful, only caused problems."
+        ],
+        [
+          "쉽기는커녕 더 어려워졌어요.",
+          "Far from easy, it got harder."
+        ],
+        [
+          "칭찬은커녕 꾸지람을 들었어요.",
+          "Far from praise, I was scolded."
+        ]
+      ],
+      "g2_prac": [
+        "1. 돕다+강한 부정+방해하다 → 돕기는_____ 방해했어요.",
+        "2. 쉽다+강한 부정+어렵다 → 쉽기는_____ 더 어려워요.",
+        "3. 칭찬(N)+커녕+혼나다 → 칭찬_____ 혼났어요."
+      ],
+      "reading_title": "논리적 연결의 힘",
+      "reading_title_eng": "The Power of Logical Connection",
+      "reading_text": [
+        "할 수 있을진대 포기하지 말고 노력해야 해요.",
+        "쉽기는커녕 오히려 어려워졌지만 계속해야 해요.",
+        "노력해 왔으므로 결과가 있을 것입니다.",
+        "어려울진대 당연히 시간이 필요해요.",
+        "포기하기는커녕 더 열심히 해야 해요.",
+        "",
+        "Given you can do it, don't give up and make effort.",
+        "Far from easy, it's gotten harder, but you must continue.",
+        "Since you've been working hard, there will be results.",
+        "Given that it's hard, of course time is needed.",
+        "Far from giving up, you need to work even harder."
+      ],
+      "q_labels": [
+        "Q1. 노력해야 하는 이유는? (Why must you make effort?)",
+        "Q2. 어렵기는커녕 어떻게 됐어요? (Far from easy, what happened?)",
+        "Q3. 맞으면 O, 틀리면 X — 어려우면 포기해도 돼요. (   )"
+      ],
+      "listening_script": [
+        [
+          "유이",
+          "한국어 공부, 쉽기는커녕 점점 어려워지는 것 같아요."
+        ],
+        [
+          "아미나",
+          "맞아요! 하지만 노력해 왔을진대 포기하면 안 되잖아요."
+        ],
+        [
+          "유이",
+          "그렇죠. 어려울진대 당연히 시간이 필요한 거잖아요."
+        ],
+        [
+          "아미나",
+          "포기하기는커녕 더 열심히 해야겠어요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 한국어가 어떻게 됐어요?",
+          [
+            "① 쉬워졌어요.",
+            "② 점점 어려워졌어요.",
+            "③ 변화 없어요.",
+            "④ 재미없어졌어요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 포기하기는커녕 어떻게 해야 해요?",
+          [
+            "① 포기해도 돼요.",
+            "② 더 열심히 해야 해요.",
+            "③ 잠깐 쉬어요.",
+            "④ 천천히 해요."
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "논리적 연결 유형",
+      "topik_tip": "💡 -(으)ㄹ진대(문어 전제 연결) vs -기는커녕(강한 부정 강조) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n노력할 수 있_____ 포기하지 마세요.",
+          [
+            "① 을진대",
+            "② 기는커녕",
+            "③ 으므로",
+            "④ 기에"
+          ],
+          "정답: ① (문어 전제→-(으)ㄹ진대)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n쉽_____ 더 어려워졌어요.",
+          [
+            "① 을진대",
+            "② 기는커녕",
+            "③ 으므로",
+            "④ 기에"
+          ],
+          "정답: ② (강한 부정→-기는커녕)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"도움이 되기는커녕 방해만 했어요.\"",
+          [
+            "① 도움이 됐어요.",
+            "② 도움은커녕 방해를 했어요.",
+            "③ 방해도 하고 도움도 됐어요.",
+            "④ 아무것도 안 했어요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)ㄹ진대",
+          "할 수 있을진대 해야 해요.",
+          "Given you can, you should."
+        ],
+        [
+          "-기는커녕",
+          "돕기는커녕 방해했어요.",
+          "Far from helping, hindered."
+        ],
+        [
+          "N은/는커녕",
+          "칭찬은커녕 혼났어요.",
+          "Far from praise, scolded."
+        ],
+        [
+          "논리 연결",
+          "전제→당연히 결론",
+          "premise → natural conclusion"
+        ],
+        [
+          "강한 부정",
+          "기대 이하 강조",
+          "emphasize below expectation"
+        ]
+      ],
+      "checklist": [
+        "-(으)ㄹ진대로 문어 전제 연결을 표현해요.",
+        "-기는커녕으로 강한 부정을 표현해요.",
+        "두 표현의 문체·뉘앙스를 알아요.",
+        "논리적 글쓰기에 활용해요.",
+        "논리 연결 어휘 10개 이상 알아요."
+      ],
+      "mission": "자신의 공부 경험을 -(으)ㄹ진대와 -기는커녕을 써서 논리적으로 말해보세요.",
+      "mission_eng": "Present your study experience logically using the grammar.",
+      "writing_prompt": "논리적 연결을 포함해 자신의 경험을 3문장으로 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about your experience using logical connectors.",
+      "topik_vocab": [
+        [
+          "T01",
+          "논지",
+          "thesis"
+        ],
+        [
+          "T02",
+          "전제",
+          "premise"
+        ],
+        [
+          "T03",
+          "귀납",
+          "induction"
+        ],
+        [
+          "T04",
+          "연역",
+          "deduction"
+        ],
+        [
+          "T05",
+          "반증",
+          "counter-evidence"
+        ],
+        [
+          "T06",
+          "오류",
+          "fallacy"
+        ],
+        [
+          "T07",
+          "모순",
+          "contradiction"
+        ],
+        [
+          "T08",
+          "일관성",
+          "consistency"
+        ],
+        [
+          "T09",
+          "타당",
+          "validity"
+        ],
+        [
+          "T10",
+          "설득력",
+          "persuasiveness"
+        ]
+      ]
+    }
+  ]
+}

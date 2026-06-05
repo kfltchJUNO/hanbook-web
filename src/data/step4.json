@@ -1,0 +1,2299 @@
+{
+  "step": 4,
+  "level": "B1",
+  "title": "관형형·조건·시간",
+  "color": "#F78FAB",
+  "colorDk": "#8A1A3A",
+  "units": [
+    {
+      "title": "관형형",
+      "title_eng": "Noun-Modifying Forms",
+      "chars": "Ken, Sofia",
+      "must_vocab": [
+        [
+          "01",
+          "📖",
+          "읽다",
+          "to read",
+          "읽는 책이 재미있어요."
+        ],
+        [
+          "02",
+          "🍜",
+          "먹다",
+          "to eat",
+          "먹은 음식이 맛있었어요."
+        ],
+        [
+          "03",
+          "🎬",
+          "보다",
+          "to watch",
+          "볼 영화를 골랐어요."
+        ],
+        [
+          "04",
+          "🏃",
+          "달리다",
+          "to run",
+          "달리는 사람이 누구예요?"
+        ],
+        [
+          "05",
+          "📝",
+          "쓰다",
+          "to write",
+          "쓴 글이 좋아요."
+        ],
+        [
+          "06",
+          "😊",
+          "좋다",
+          "good",
+          "좋은 사람이에요."
+        ],
+        [
+          "07",
+          "🏠",
+          "넓다",
+          "spacious",
+          "넓은 집에 살아요."
+        ],
+        [
+          "08",
+          "💡",
+          "새롭다",
+          "new",
+          "새로운 방법이에요."
+        ],
+        [
+          "09",
+          "🎯",
+          "중요하다",
+          "important",
+          "중요한 것을 먼저 해요."
+        ],
+        [
+          "10",
+          "🔮",
+          "예정",
+          "plan / schedule",
+          "갈 예정이에요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "방법",
+          "method / way",
+          "좋은 방법이 있어요."
+        ],
+        [
+          "12",
+          "이유",
+          "reason",
+          "모르는 이유가 있어요."
+        ],
+        [
+          "13",
+          "사람",
+          "person",
+          "친절한 사람이에요."
+        ],
+        [
+          "14",
+          "음식",
+          "food",
+          "매운 음식을 좋아해요."
+        ],
+        [
+          "15",
+          "장소",
+          "place",
+          "아는 장소예요."
+        ],
+        [
+          "16",
+          "시간",
+          "time",
+          "남는 시간이 없어요."
+        ],
+        [
+          "17",
+          "것",
+          "thing / fact",
+          "아는 것이 힘이에요."
+        ],
+        [
+          "18",
+          "일",
+          "work / matter",
+          "할 일이 많아요."
+        ],
+        [
+          "19",
+          "문제",
+          "problem",
+          "어려운 문제예요."
+        ],
+        [
+          "20",
+          "계획",
+          "plan",
+          "세운 계획이에요."
+        ]
+      ],
+      "g1_name": "V-는/-(으)ㄴ/-(으)ㄹ + N (관형형)",
+      "g1_name_eng": "Noun-modifying forms: present / past / future",
+      "g1_desc": "V/A가 N을 꾸밀 때 형태가 바뀌어요. V현재는 -는, V과거·A는 받침O→-(으)ㄴ/받침X→-ㄴ, V미래는 -(으)ㄹ.",
+      "g1_desc_eng": "V/A modify N by changing form. V present→-는, V past/A: consonant→-(으)ㄴ, vowel→-ㄴ, future→-(으)ㄹ.",
+      "g1_cols": [
+        "시제·품사·받침",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V 현재 (받침 무관)",
+          "V-는 N",
+          "지금 먹는 음식이에요.",
+          "food (that I am) eating now"
+        ],
+        [
+          "V 과거 받침 O",
+          "V-은 N",
+          "어제 먹은 음식이에요.",
+          "food (that I) ate yesterday"
+        ],
+        [
+          "V 과거 받침 X / A",
+          "V-ㄴ / A-(으)ㄴ N",
+          "간 사람 / 좋은 사람",
+          "person who went / good person"
+        ],
+        [
+          "V/A 미래 (받침O)",
+          "V-(으)ㄹ N",
+          "먹을 음식이에요.",
+          "food (that I) will eat"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "ㅂ 불규칙",
+          "덥다→더운 N, 어렵다→어려운 N",
+          "새롭다→새로운 방법, 가볍다→가벼운 가방"
+        ],
+        [
+          "ㄷ 불규칙",
+          "듣다→듣는(현재)/들은(과거) N",
+          "걷다→걷는/걸은"
+        ],
+        [
+          "ㄹ 탈락",
+          "살다→사는(현재)/산(과거) N, 알다→아는/안",
+          "만들다→만드는/만든"
+        ]
+      ],
+      "g1_tip": "V현재→-는 / V과거·A→-(으)ㄴ / 미래→-(으)ㄹ! 시제별 형태를 꼭 기억해요.",
+      "g1_tip_eng": "V present→-는 / V past·A→-(으)ㄴ / future→-(으)ㄹ. Memorize by tense.",
+      "g1_exs": [
+        [
+          "지금 읽는 책이 재미있어요.",
+          "The book (that I'm) reading now is interesting."
+        ],
+        [
+          "어제 먹은 음식이 맛있었어요.",
+          "The food (that I) ate yesterday was delicious."
+        ],
+        [
+          "내일 볼 영화를 골랐어요.",
+          "I chose the movie (that I) will watch tomorrow."
+        ]
+      ],
+      "g1_prac": [
+        "1. 지금 공부하다(현재) → 지금 공부하_____ 학생이에요.",
+        "2. 어제 만나다(과거, 받침X) → 어제 만_____ 친구예요.",
+        "3. 내일 먹다(미래, 받침O) → 내일 먹_____ 음식이에요."
+      ],
+      "g2_name": "V/A-(으)ㄴ/는 것 (명사화)",
+      "g2_name_eng": "V/A-(으)ㄴ/는 것: the act of / the fact that (nominalization)",
+      "g2_desc": "V/A를 명사처럼 쓸 때 것을 붙여요. 관형형+것으로 주어·목적어·보어 위치에 쓸 수 있어요.",
+      "g2_desc_eng": "Attach 것 to noun-modifying form to use V/A as a noun (subject, object, complement).",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "기능",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-는 것 (현재)",
+          "한국어를 배우는 것이 재미있어요.",
+          "주어",
+          "Learning Korean is fun."
+        ],
+        [
+          "V-(으)ㄴ 것 (과거)",
+          "어제 먹은 것이 뭐예요?",
+          "주어",
+          "What is the thing (that you) ate yesterday?"
+        ],
+        [
+          "V-(으)ㄹ 것 (미래)",
+          "할 것이 많아요.",
+          "주어",
+          "There's a lot to do."
+        ],
+        [
+          "A-(으)ㄴ 것 (상태)",
+          "중요한 것은 건강이에요.",
+          "주어",
+          "The important thing is health."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "-는 것 vs -기",
+          "공부하는 것이 좋아요 / 공부하기가 어려워요",
+          "것: 구체적 장면 / 기: 추상적 행위"
+        ]
+      ],
+      "g2_tip": "관형형 + 것 = 명사절! 주어·목적어 자리에 자유롭게 써요.",
+      "g2_tip_eng": "Noun-modifying form + 것 = noun clause. Use as subject or object freely.",
+      "g2_exs": [
+        [
+          "한국어를 공부하는 것이 즐거워요.",
+          "Studying Korean is enjoyable."
+        ],
+        [
+          "중요한 것은 포기하지 않는 거예요.",
+          "The important thing is not giving up."
+        ],
+        [
+          "할 것이 너무 많아요.",
+          "There's too much to do."
+        ]
+      ],
+      "g2_prac": [
+        "1. 운동하다(현재)+것+주어 → 운동하_____ 것이 건강에 좋아요.",
+        "2. 중요하다(A)+것 → 중요_____ 것이 뭐예요?",
+        "3. 할 것+많다 → 오늘 할 _____ 많아요."
+      ],
+      "reading_title": "켄의 버킷리스트",
+      "reading_title_eng": "Ken's Bucket List",
+      "reading_text": [
+        "켄이 하고 싶은 것들이 많아요.",
+        "배우고 싶은 것은 기타와 요리예요.",
+        "가 보고 싶은 곳은 제주도와 부산이에요.",
+        "읽을 책도 많고 볼 영화도 많아요.",
+        "중요한 것은 하나씩 도전하는 거예요.",
+        "",
+        "Ken has many things he wants to do.",
+        "Things he wants to learn are guitar and cooking.",
+        "Places he wants to visit are Jeju and Busan.",
+        "There are many books to read and movies to watch.",
+        "The important thing is to challenge them one by one."
+      ],
+      "q_labels": [
+        "Q1. 켄이 배우고 싶은 것은 뭐예요? (What does Ken want to learn?)",
+        "Q2. 켄이 가 보고 싶은 곳은? (Where does Ken want to go?)",
+        "Q3. 맞으면 O, 틀리면 X — 켄은 하고 싶은 것이 없어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "소피아",
+          "켄, 요즘 읽는 책이 있어요?"
+        ],
+        [
+          "켄",
+          "네, 한국어로 쓴 소설을 읽고 있어요."
+        ],
+        [
+          "소피아",
+          "어려운 것 같아요. 이해하는 게 쉬워요?"
+        ],
+        [
+          "켄",
+          "처음엔 어려웠는데 이제 아는 단어가 많아졌어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 켄이 읽는 책은 어떤 책이에요?",
+          [
+            "① 영어 소설",
+            "② 한국어 소설",
+            "③ 일본어 만화",
+            "④ 교과서"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 처음에 한국어 소설이 어땠어요?",
+          [
+            "① 쉬웠어요.",
+            "② 재미있었어요.",
+            "③ 어려웠어요.",
+            "④ 지루했어요."
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "관형형 유형",
+      "topik_tip": "💡 V-는(현재) / V-(으)ㄴ(과거) / V-(으)ㄹ(미래) 형태를 구별해요!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n지금 공부하_____ 학생이에요.",
+          [
+            "① 는",
+            "② 은",
+            "③ ㄴ",
+            "④ ㄹ"
+          ],
+          "정답: ① (V현재→-는)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n어제 먹_____ 음식이 맛있었어요.",
+          [
+            "① 는",
+            "② 은",
+            "③ 를",
+            "④ ㄹ"
+          ],
+          "정답: ② (V과거 받침O→-은)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"중요한 것은 포기하지 않는 거예요.\"",
+          [
+            "① 포기하는 것이 중요해요.",
+            "② 중요한 것은 포기하지 않는 것이에요.",
+            "③ 포기해야 해요.",
+            "④ 중요한 게 없어요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "V-는 N",
+          "읽는 책 / 사는 곳",
+          "book I'm reading / place I live"
+        ],
+        [
+          "V-(으)ㄴ N",
+          "먹은 음식 / 간 곳",
+          "food I ate / place I went"
+        ],
+        [
+          "V-(으)ㄹ N",
+          "볼 영화 / 할 일",
+          "movie to watch / thing to do"
+        ],
+        [
+          "A-(으)ㄴ N",
+          "좋은 사람 / 넓은 집",
+          "good person / spacious house"
+        ],
+        [
+          "-(으)ㄴ/는 것",
+          "공부하는 것이 좋아요.",
+          "Studying is good."
+        ]
+      ],
+      "checklist": [
+        "V현재·과거·미래 관형형을 구별해요.",
+        "A의 관형형을 만들어요.",
+        "관형형+것으로 명사절을 만들어요.",
+        "ㅂ·ㄷ·ㄹ 불규칙 관형형을 알아요.",
+        "관형형을 활용한 문장을 만들어요."
+      ],
+      "mission": "자신이 좋아하는 것, 하고 싶은 것, 해야 할 것을 관형형으로 말해보세요.",
+      "mission_eng": "Describe things you like, want to do, and need to do using noun-modifying forms.",
+      "writing_prompt": "관형형을 사용해 자신을 소개하는 문장 3개를 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences introducing yourself using noun-modifying forms.",
+      "topik_vocab": [
+        [
+          "T01",
+          "수식",
+          "modification"
+        ],
+        [
+          "T02",
+          "명사절",
+          "noun clause"
+        ],
+        [
+          "T03",
+          "관계절",
+          "relative clause"
+        ],
+        [
+          "T04",
+          "전제",
+          "premise"
+        ],
+        [
+          "T05",
+          "맥락",
+          "context"
+        ],
+        [
+          "T06",
+          "문맥",
+          "context"
+        ],
+        [
+          "T07",
+          "서술",
+          "description"
+        ],
+        [
+          "T08",
+          "수식어",
+          "modifier"
+        ],
+        [
+          "T09",
+          "관형사",
+          "determiner"
+        ],
+        [
+          "T10",
+          "의존명사",
+          "dependent noun"
+        ]
+      ]
+    },
+    {
+      "title": "추측 · 판단",
+      "title_eng": "Guesses & Judgments",
+      "chars": "Linh, Ahmad",
+      "must_vocab": [
+        [
+          "01",
+          "🤔",
+          "아마",
+          "probably / perhaps",
+          "아마 집에 있을 거예요."
+        ],
+        [
+          "02",
+          "💭",
+          "같다",
+          "to seem / be like",
+          "그런 것 같아요."
+        ],
+        [
+          "03",
+          "🌧️",
+          "올 것 같다",
+          "seems like it will come",
+          "비가 올 것 같아요."
+        ],
+        [
+          "04",
+          "😌",
+          "괜찮겠다",
+          "will probably be okay",
+          "괜찮겠어요."
+        ],
+        [
+          "05",
+          "👀",
+          "보이다",
+          "to appear / seem",
+          "어려워 보여요."
+        ],
+        [
+          "06",
+          "📊",
+          "확실하다",
+          "to be certain",
+          "확실한 것 같아요."
+        ],
+        [
+          "07",
+          "❓",
+          "불확실하다",
+          "uncertain",
+          "잘 모르겠어요."
+        ],
+        [
+          "08",
+          "🔍",
+          "추측하다",
+          "to guess",
+          "추측해 봐요."
+        ],
+        [
+          "09",
+          "💡",
+          "판단하다",
+          "to judge",
+          "판단하기 어려워요."
+        ],
+        [
+          "10",
+          "🌟",
+          "분명히",
+          "clearly / surely",
+          "분명히 올 것 같아요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "혹시",
+          "by any chance",
+          "혹시 알겠어요?"
+        ],
+        [
+          "12",
+          "글쎄요",
+          "well... / hmm",
+          "글쎄요, 잘 모르겠어요."
+        ],
+        [
+          "13",
+          "왠지",
+          "somehow / for some reason",
+          "왠지 좋을 것 같아요."
+        ],
+        [
+          "14",
+          "틀림없이",
+          "without a doubt",
+          "틀림없이 올 거예요."
+        ],
+        [
+          "15",
+          "어쩌면",
+          "maybe / perhaps",
+          "어쩌면 늦을 것 같아요."
+        ],
+        [
+          "16",
+          "그럴 것 같다",
+          "seems like that will happen",
+          "그럴 것 같아요."
+        ],
+        [
+          "17",
+          "맞을 것 같다",
+          "seems correct",
+          "맞을 것 같아요."
+        ],
+        [
+          "18",
+          "다를 것 같다",
+          "seems different",
+          "다를 것 같아요."
+        ],
+        [
+          "19",
+          "힘들겠다",
+          "must be tough",
+          "많이 힘들겠어요."
+        ],
+        [
+          "20",
+          "좋겠다",
+          "sounds nice / I wish",
+          "좋겠다!"
+        ]
+      ],
+      "g1_name": "V/A-(으)ㄴ/는 것 같다 (추측·판단)",
+      "g1_name_eng": "V/A-(으)ㄴ/는 것 같다: seems / looks like (guess)",
+      "g1_desc": "현재 상황을 보고 추측하거나 판단해요. 관형형+것 같다 구조로, 시제에 따라 형태가 달라요.",
+      "g1_desc_eng": "Expresses a guess or judgment. Uses noun-modifying form + 것 같다. Form changes by tense.",
+      "g1_cols": [
+        "시제·품사·받침",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V 현재 (무관)",
+          "V-는 것 같다",
+          "지금 자는 것 같아요.",
+          "It seems like they're sleeping."
+        ],
+        [
+          "V 과거 받침 O",
+          "V-은 것 같다",
+          "밥을 먹은 것 같아요.",
+          "It seems like they ate."
+        ],
+        [
+          "V 과거 받침 X",
+          "V-ㄴ 것 같다",
+          "집에 간 것 같아요.",
+          "It seems like they went home."
+        ],
+        [
+          "A 현재 받침 O",
+          "A-은 것 같다",
+          "좀 비싼 것 같아요.",
+          "It seems a bit expensive."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "미래·추측",
+          "V/A-(으)ㄹ 것 같다",
+          "비가 올 것 같아요 / 비쌀 것 같아요"
+        ],
+        [
+          "ㅂ 불규칙",
+          "덥다→더운 것 같다",
+          "어렵다→어려운 것 같다"
+        ]
+      ],
+      "g1_tip": "것 같다 앞 형태(-는/-은/-ㄴ/-ㄹ)가 시제와 품사를 결정해요!",
+      "g1_tip_eng": "The form before 것 같다 (-는/-은/-ㄴ/-ㄹ) determines tense and POS.",
+      "g1_exs": [
+        [
+          "오늘 비가 올 것 같아요.",
+          "It seems like it will rain today."
+        ],
+        [
+          "아흐마드가 피곤한 것 같아요.",
+          "Ahmad seems tired."
+        ],
+        [
+          "벌써 집에 간 것 같아요.",
+          "It seems like they already went home."
+        ]
+      ],
+      "g1_prac": [
+        "1. 비가 오다(미래) → 비가 올 _____.",
+        "2. 피곤하다(A현재,받침X) → 많이 피곤_____ 것 같아요.",
+        "3. 이미 먹다(과거,받침O) → 이미 먹_____ 것 같아요."
+      ],
+      "g2_name": "V/A-겠- (추측·의지·완곡)",
+      "g2_name_eng": "V/A-겠-: will / would / must (inference, intention, softening)",
+      "g2_desc": "추측, 의지, 완곡 표현에 써요. V/A 어간에 받침 여부 관계없이 항상 -겠-.",
+      "g2_desc_eng": "Expresses inference, intention, or politeness/softening. Always attach -겠- to bare stem.",
+      "g2_cols": [
+        "용도",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "추측",
+          "V/A-겠어요",
+          "많이 힘드겠어요.",
+          "You must be very tired."
+        ],
+        [
+          "의지",
+          "V-겠어요 (1인칭)",
+          "제가 하겠어요.",
+          "I will do it. (firm)"
+        ],
+        [
+          "완곡 (모름)",
+          "잘 모르겠어요.",
+          "잘 모르겠어요.",
+          "I'm not quite sure. (softened)"
+        ],
+        [
+          "날씨 예보",
+          "V/A-겠습니다",
+          "내일은 맑겠습니다.",
+          "Tomorrow will be clear. (formal)"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -(으)ㄹ 거예요",
+          "-겠-: 추측·완곡·의지(격식) / -(으)ㄹ 거예요: 일반 예정·예측",
+          "힘들겠어요 (공감 추측) / 힘들 거예요 (단순 예측)"
+        ]
+      ],
+      "g2_tip": "-겠-은 추측·의지·완곡 세 가지! 문맥에 따라 의미가 달라져요.",
+      "g2_tip_eng": "-겠- has 3 uses: inference, intention, and politeness/softening.",
+      "g2_exs": [
+        [
+          "시험이 어렵겠어요.",
+          "The exam must be difficult."
+        ],
+        [
+          "제가 도와드리겠어요.",
+          "I will help you. (formal)"
+        ],
+        [
+          "잘 모르겠어요.",
+          "I'm not quite sure."
+        ]
+      ],
+      "g2_prac": [
+        "1. 힘들다+추측 → 많이 힘드_____.",
+        "2. 내가 하다+의지 → 제가 _____.",
+        "3. 모르다+완곡 → 잘 모르_____."
+      ],
+      "reading_title": "내일 날씨는?",
+      "reading_title_eng": "What's Tomorrow's Weather?",
+      "reading_text": [
+        "오늘 하늘이 흐리고 구름이 많아요.",
+        "아마 내일 비가 올 것 같아요.",
+        "기온도 많이 낮아질 것 같아요.",
+        "밖에 나가는 사람들은 우산을 챙기는 게 좋겠어요.",
+        "따뜻한 옷을 입는 것도 중요할 것 같아요.",
+        "",
+        "Today the sky is cloudy with many clouds.",
+        "It seems like it will probably rain tomorrow.",
+        "The temperature also seems like it will drop a lot.",
+        "People going outside would be wise to bring an umbrella.",
+        "It also seems important to wear warm clothes."
+      ],
+      "q_labels": [
+        "Q1. 오늘 날씨는 어때요? (What is today's weather like?)",
+        "Q2. 내일 날씨는 어떨 것 같아요? (What does tomorrow's weather seem like?)",
+        "Q3. 맞으면 O, 틀리면 X — 내일 따뜻할 것 같아요. (   )"
+      ],
+      "listening_script": [
+        [
+          "린",
+          "아흐마드, 오늘 많이 피곤해 보여요."
+        ],
+        [
+          "아흐마드",
+          "맞아요. 어제 잠을 못 잔 것 같아요."
+        ],
+        [
+          "린",
+          "많이 힘들겠어요. 오늘 쉬는 게 좋겠어요."
+        ],
+        [
+          "아흐마드",
+          "그래야겠어요. 내일은 더 잘 할 수 있을 것 같아요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 아흐마드는 왜 피곤해요?",
+          [
+            "① 공부를 많이 해서",
+            "② 어제 잠을 못 잔 것 같아서",
+            "③ 운동을 많이 해서",
+            "④ 밥을 못 먹어서"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 린이 아흐마드에게 한 말은?",
+          [
+            "① 빨리 가세요.",
+            "② 더 공부하세요.",
+            "③ 오늘 쉬는 게 좋겠어요.",
+            "④ 병원에 가세요."
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "추측·판단 유형",
+      "topik_tip": "💡 -(으)ㄴ/는 것 같다(추측·판단) vs -겠-(추측·의지·완곡) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n비가 올 _____.",
+          [
+            "① 것 같아요",
+            "② 겠어요",
+            "③ 수 있어요",
+            "④ 편이에요"
+          ],
+          "정답: ① (추측→것 같다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n많이 힘드_____.",
+          [
+            "① 것 같아요",
+            "② 겠어요",
+            "③ 아도 돼요",
+            "④ 면 안 돼요"
+          ],
+          "정답: ② (공감 추측→-겠-)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"하늘이 흐려서 비가 올 것 같아요.\"",
+          [
+            "① 비가 오고 있어요.",
+            "② 날씨가 맑아요.",
+            "③ 하늘이 흐려서 비가 올 것 같아요.",
+            "④ 눈이 올 것 같아요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "V-는 것 같다",
+          "지금 자는 것 같아요.",
+          "Seems like sleeping now."
+        ],
+        [
+          "V-(으)ㄴ 것 같다",
+          "먹은 것 같아요.",
+          "Seems like they ate."
+        ],
+        [
+          "V-(으)ㄹ 것 같다",
+          "비가 올 것 같아요.",
+          "Seems like it will rain."
+        ],
+        [
+          "-겠- (추측)",
+          "힘들겠어요.",
+          "Must be tough."
+        ],
+        [
+          "-겠- (완곡)",
+          "잘 모르겠어요.",
+          "I'm not quite sure."
+        ]
+      ],
+      "checklist": [
+        "것 같다의 시제별 형태를 알아요.",
+        "-겠-의 세 가지 용법을 구별해요.",
+        "추측 표현으로 자연스럽게 말해요.",
+        "공감 표현(-겠어요)을 대화에 써요.",
+        "추측 어휘 10개 이상 알아요."
+      ],
+      "mission": "주변 상황을 보고 -(으)ㄴ/는 것 같다와 -겠-으로 추측해보세요.",
+      "mission_eng": "Look around and make guesses using -(으)ㄴ/는 것 같다 and -겠-.",
+      "writing_prompt": "친구의 상황을 보고 추측하는 문장을 3개 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences guessing about your friend's situation.",
+      "topik_vocab": [
+        [
+          "T01",
+          "추측",
+          "inference"
+        ],
+        [
+          "T02",
+          "판단",
+          "judgment"
+        ],
+        [
+          "T03",
+          "예측",
+          "prediction"
+        ],
+        [
+          "T04",
+          "가능성",
+          "possibility"
+        ],
+        [
+          "T05",
+          "확률",
+          "probability"
+        ],
+        [
+          "T06",
+          "근거",
+          "evidence"
+        ],
+        [
+          "T07",
+          "논리",
+          "logic"
+        ],
+        [
+          "T08",
+          "타당성",
+          "validity"
+        ],
+        [
+          "T09",
+          "불확실",
+          "uncertainty"
+        ],
+        [
+          "T10",
+          "확신",
+          "conviction"
+        ]
+      ]
+    },
+    {
+      "title": "조건 · 가정",
+      "title_eng": "Conditions & Hypotheses",
+      "chars": "Carlos, Natasha",
+      "must_vocab": [
+        [
+          "01",
+          "🤔",
+          "만약",
+          "if (hypothetical)",
+          "만약 돈이 있으면 여행 갈 거예요."
+        ],
+        [
+          "02",
+          "🌈",
+          "이루어지다",
+          "to come true",
+          "꿈이 이루어지면 좋겠어요."
+        ],
+        [
+          "03",
+          "☀️",
+          "날씨",
+          "weather",
+          "날씨가 좋으면 나가요."
+        ],
+        [
+          "04",
+          "📚",
+          "열심히",
+          "diligently",
+          "열심히 하면 할 수 있어요."
+        ],
+        [
+          "05",
+          "💪",
+          "노력하다",
+          "to make effort",
+          "노력하면 돼요."
+        ],
+        [
+          "06",
+          "❄️",
+          "춥다",
+          "cold",
+          "추워도 운동해요."
+        ],
+        [
+          "07",
+          "😴",
+          "피곤하다",
+          "tired",
+          "피곤해도 해야 해요."
+        ],
+        [
+          "08",
+          "💰",
+          "돈",
+          "money",
+          "돈이 없어도 행복해요."
+        ],
+        [
+          "09",
+          "🎯",
+          "목표",
+          "goal",
+          "목표가 있으면 열심히 해요."
+        ],
+        [
+          "10",
+          "🙏",
+          "부탁",
+          "request / favor",
+          "부탁이 있으면 말하세요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "아무리",
+          "no matter how",
+          "아무리 어려워도 해요."
+        ],
+        [
+          "12",
+          "설령",
+          "even if (strong)",
+          "설령 비가 와도 가요."
+        ],
+        [
+          "13",
+          "혹시",
+          "by any chance",
+          "혹시 시간이 있으면 와요."
+        ],
+        [
+          "14",
+          "언제든지",
+          "anytime / whenever",
+          "언제든지 오면 돼요."
+        ],
+        [
+          "15",
+          "그렇지 않으면",
+          "otherwise",
+          "그렇지 않으면 늦어요."
+        ],
+        [
+          "16",
+          "포기하다",
+          "to give up",
+          "포기하지 않으면 할 수 있어요."
+        ],
+        [
+          "17",
+          "준비하다",
+          "to prepare",
+          "준비하면 괜찮아요."
+        ],
+        [
+          "18",
+          "시작하다",
+          "to start",
+          "시작하면 반이에요."
+        ],
+        [
+          "19",
+          "후회하다",
+          "to regret",
+          "후회하면 늦어요."
+        ],
+        [
+          "20",
+          "도전하다",
+          "to challenge",
+          "도전하면 알 수 있어요."
+        ]
+      ],
+      "g1_name": "V/A-(으)면 (조건·가정)",
+      "g1_name_eng": "V/A-(으)면: if / when (condition / hypothesis)",
+      "g1_desc": "조건이나 가정을 나타내요. 받침 O이면 -으면, 없으면 -면, ㄹ받침은 -면.",
+      "g1_desc_eng": "Expresses conditions or hypotheses. Consonant→-으면, vowel/ㄹ→-면.",
+      "g1_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "받침 O",
+          "-으면",
+          "시간이 있으면 와요.",
+          "If you have time, come."
+        ],
+        [
+          "받침 X",
+          "-면",
+          "날씨가 좋으면 나가요. / 가면 알아요.",
+          "If the weather is nice, go out."
+        ],
+        [
+          "하다",
+          "-하면",
+          "열심히 하면 돼요.",
+          "If you work hard, it's fine."
+        ],
+        [
+          "과거 가정",
+          "-았/었으면 좋겠다",
+          "갔으면 좋겠어요.",
+          "I wish I had gone / could go."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "ㄹ받침",
+          "알다→알면, 만들다→만들면",
+          "ㄹ탈락 없이 그대로 -면"
+        ],
+        [
+          "시간 조건",
+          "봄이 오면 / 시간이 되면 = when~",
+          "특정 미래 시점 조건"
+        ]
+      ],
+      "g1_tip": "-(으)면은 영어 \"if / when\"! 조건이 이루어지면 결과가 따라와요.",
+      "g1_tip_eng": "-(으)면 = \"if / when\". The result follows when the condition is met.",
+      "g1_exs": [
+        [
+          "열심히 공부하면 합격할 수 있어요.",
+          "If you study hard, you can pass."
+        ],
+        [
+          "돈이 있으면 여행을 갈 거예요.",
+          "If I have money, I will travel."
+        ],
+        [
+          "더 일찍 왔으면 좋겠어요.",
+          "I wish you had come earlier."
+        ]
+      ],
+      "g1_prac": [
+        "1. 비가 오다 → 비가 _____ 집에 있어요.",
+        "2. 시간이 있다 → 시간이 _____ 같이 가요.",
+        "3. 열심히 하다 → 열심히 _____ 돼요."
+      ],
+      "g2_name": "V/A-아/어도 (양보·역접)",
+      "g2_name_eng": "V/A-아/어도: even if / even though (concession)",
+      "g2_desc": "어떤 상황에서도 결과가 변하지 않음을 나타내요. 어간 모음이 ㅏ/ㅗ이면 -아도, 그 외이면 -어도, 하다이면 -해도.",
+      "g2_desc_eng": "Expresses that the result remains unchanged regardless of the condition. ㅏ/ㅗ→-아도, others→-어도.",
+      "g2_cols": [
+        "어간 모음",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "ㅏ/ㅗ 모음",
+          "-아도",
+          "비가 와도 갈 거예요.",
+          "Even if it rains, I will go."
+        ],
+        [
+          "그 외 모음",
+          "-어도",
+          "피곤해도 해야 해요.",
+          "Even though I'm tired, I must do it."
+        ],
+        [
+          "하다",
+          "-해도",
+          "아무리 해도 안 돼요.",
+          "No matter how hard, it won't work."
+        ],
+        [
+          "허가 (복습)",
+          "V-아/어도 돼요",
+          "여기 앉아도 돼요.",
+          "You may sit here."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "아무리 ~아/어도",
+          "no matter how + -아/어도",
+          "아무리 비싸도 살 거예요"
+        ],
+        [
+          "vs -(으)면",
+          "-(으)면: 결과 달라짐 / -아/어도: 결과 안 달라짐",
+          "비가 오면 안 가요 (조건) / 비가 와도 가요 (양보)"
+        ]
+      ],
+      "g2_tip": "-아/어도는 \"~해도 결과는 변하지 않는다\"! -(으)면과 반드시 구별해요.",
+      "g2_tip_eng": "-아/어도 = the result stays the same regardless. Contrast with -(으)면.",
+      "g2_exs": [
+        [
+          "바빠도 운동은 꼭 해요.",
+          "Even though I'm busy, I always exercise."
+        ],
+        [
+          "비가 와도 나갈 거예요.",
+          "Even if it rains, I will go out."
+        ],
+        [
+          "아무리 어려워도 포기하지 않아요.",
+          "No matter how hard, I don't give up."
+        ]
+      ],
+      "g2_prac": [
+        "1. 비가 오다 → 비가 와_____ 갈 거예요.",
+        "2. 피곤하다 → 피곤해_____ 해야 해요.",
+        "3. 아무리 어렵다 → 아무리 어려_____ 포기 안 해요."
+      ],
+      "reading_title": "카를로스의 다짐",
+      "reading_title_eng": "Carlos's Resolution",
+      "reading_text": [
+        "카를로스는 한국어를 잘하고 싶어요.",
+        "아무리 바빠도 매일 30분씩 공부할 거예요.",
+        "열심히 하면 꼭 실력이 늘 것 같아요.",
+        "어려워도 포기하지 않을 거예요.",
+        "나타샤도 같이 공부하면 더 잘할 수 있을 것 같아요.",
+        "",
+        "Carlos wants to get good at Korean.",
+        "No matter how busy, he will study 30 minutes every day.",
+        "If he works hard, it seems like his skills will definitely improve.",
+        "Even if it's hard, he won't give up.",
+        "It seems like he could do better if Natasha studies together."
+      ],
+      "q_labels": [
+        "Q1. 카를로스는 매일 얼마나 공부할 거예요? (How long will Carlos study each day?)",
+        "Q2. 카를로스는 어려워도 어떻게 할 거예요? (What will Carlos do even if it's hard?)",
+        "Q3. 맞으면 O, 틀리면 X — 카를로스는 바쁘면 공부를 안 해요. (   )"
+      ],
+      "listening_script": [
+        [
+          "나타샤",
+          "카를로스, 날씨가 나빠도 운동해요?"
+        ],
+        [
+          "카를로스",
+          "네, 비가 와도 실내에서 운동해요."
+        ],
+        [
+          "나타샤",
+          "대단해요! 저는 피곤하면 안 하게 되는 편이에요."
+        ],
+        [
+          "카를로스",
+          "습관이 되면 안 해도 이상해요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 카를로스는 비가 와도 어떻게 해요?",
+          [
+            "① 운동 안 해요.",
+            "② 실내에서 운동해요.",
+            "③ 집에서 쉬어요.",
+            "④ 밖에서 운동해요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 나타샤는 어떤 편이에요?",
+          [
+            "① 바빠도 운동하는 편이에요.",
+            "② 날씨가 나빠도 운동하는 편이에요.",
+            "③ 피곤하면 운동 안 하게 되는 편이에요.",
+            "④ 매일 운동하는 편이에요."
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "조건·양보 유형",
+      "topik_tip": "💡 -(으)면(조건, 결과 달라짐) vs -아/어도(양보, 결과 안 달라짐)!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n열심히 공부하_____ 합격할 수 있어요.",
+          [
+            "① 면",
+            "② 아도",
+            "③ 아서",
+            "④ 고"
+          ],
+          "정답: ① (조건→-(으)면)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n바빠_____ 운동은 꼭 해요.",
+          [
+            "① 면",
+            "② 도",
+            "③ 서",
+            "④ 고"
+          ],
+          "정답: ② (양보→-아/어도)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"아무리 어려워도 포기하지 않을 거예요.\"",
+          [
+            "① 어려우면 포기할 거예요.",
+            "② 포기하면 어려워요.",
+            "③ 어려워도 포기 안 할 거예요.",
+            "④ 쉬우니까 할 수 있어요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)면 (조건)",
+          "시간이 있으면 와요.",
+          "If you have time, come."
+        ],
+        [
+          "-아/어도 (양보)",
+          "바빠도 운동해요.",
+          "Even if busy, I exercise."
+        ],
+        [
+          "아무리 ~아/어도",
+          "아무리 어려워도 해요.",
+          "No matter how hard, I do it."
+        ],
+        [
+          "과거 가정",
+          "갔으면 좋겠어요.",
+          "I wish I had gone."
+        ],
+        [
+          "-아/어도 돼요",
+          "앉아도 돼요.",
+          "You may sit. (permission)"
+        ]
+      ],
+      "checklist": [
+        "-(으)면으로 조건을 표현해요.",
+        "-아/어도로 양보를 표현해요.",
+        "두 표현의 차이를 명확히 알아요.",
+        "아무리 ~아/어도를 써요.",
+        "조건·가정 어휘 10개 이상 알아요."
+      ],
+      "mission": "자신의 목표를 -(으)면과 -아/어도를 써서 말해보세요.",
+      "mission_eng": "Talk about your goals using -(으)면 and -아/어도.",
+      "writing_prompt": "올해 목표를 조건과 양보를 포함해 3문장으로 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about this year's goals with conditions and concessions.",
+      "topik_vocab": [
+        [
+          "T01",
+          "가정",
+          "hypothesis"
+        ],
+        [
+          "T02",
+          "전제",
+          "premise"
+        ],
+        [
+          "T03",
+          "조건",
+          "condition"
+        ],
+        [
+          "T04",
+          "결과",
+          "result"
+        ],
+        [
+          "T05",
+          "반사실",
+          "counterfactual"
+        ],
+        [
+          "T06",
+          "예외",
+          "exception"
+        ],
+        [
+          "T07",
+          "원칙",
+          "principle"
+        ],
+        [
+          "T08",
+          "기준",
+          "criterion"
+        ],
+        [
+          "T09",
+          "규정",
+          "regulation"
+        ],
+        [
+          "T10",
+          "제도",
+          "system"
+        ]
+      ]
+    },
+    {
+      "title": "시간 표현",
+      "title_eng": "Time Expressions",
+      "chars": "Yui, David",
+      "must_vocab": [
+        [
+          "01",
+          "⏳",
+          "전에",
+          "before",
+          "자기 전에 이를 닦아요."
+        ],
+        [
+          "02",
+          "⌛",
+          "후에",
+          "after",
+          "수업 후에 만나요."
+        ],
+        [
+          "03",
+          "🔄",
+          "면서",
+          "while (doing)",
+          "음악을 들으면서 공부해요."
+        ],
+        [
+          "04",
+          "📅",
+          "동안",
+          "during / for",
+          "방학 동안 여행했어요."
+        ],
+        [
+          "05",
+          "✅",
+          "이미",
+          "already",
+          "이미 끝났어요."
+        ],
+        [
+          "06",
+          "🕐",
+          "아직",
+          "not yet",
+          "아직 안 끝났어요."
+        ],
+        [
+          "07",
+          "🔜",
+          "곧",
+          "soon",
+          "곧 도착할 거예요."
+        ],
+        [
+          "08",
+          "🔙",
+          "예전에",
+          "in the past",
+          "예전에는 달랐어요."
+        ],
+        [
+          "09",
+          "🔛",
+          "요즘",
+          "these days",
+          "요즘 어때요?"
+        ],
+        [
+          "10",
+          "⚡",
+          "동시에",
+          "at the same time",
+          "동시에 할 수 없어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "먼저",
+          "first / ahead of",
+          "먼저 씻고 나서 자요."
+        ],
+        [
+          "12",
+          "그 다음에",
+          "after that",
+          "그 다음에 공부해요."
+        ],
+        [
+          "13",
+          "마지막으로",
+          "lastly",
+          "마지막으로 일기를 써요."
+        ],
+        [
+          "14",
+          "항상",
+          "always",
+          "항상 이를 닦아요."
+        ],
+        [
+          "15",
+          "매일",
+          "every day",
+          "매일 운동해요."
+        ],
+        [
+          "16",
+          "가끔",
+          "sometimes",
+          "가끔 영화를 봐요."
+        ],
+        [
+          "17",
+          "이따가",
+          "later (today)",
+          "이따가 만나요."
+        ],
+        [
+          "18",
+          "나중에",
+          "later (future)",
+          "나중에 연락할게요."
+        ],
+        [
+          "19",
+          "오래",
+          "for a long time",
+          "오래 기다렸어요."
+        ],
+        [
+          "20",
+          "잠깐",
+          "for a moment",
+          "잠깐만 기다려요."
+        ]
+      ],
+      "g1_name": "V-기 전에 / V-(으)ㄴ 후에·-고 나서",
+      "g1_name_eng": "V-기 전에: before V / V-(으)ㄴ 후에: after V",
+      "g1_desc": "동작의 전후 순서를 나타내요. 기 전에는 아직 안 한 동작 앞에, -(으)ㄴ 후에·-고 나서는 완료된 동작 뒤에.",
+      "g1_desc_eng": "Expresses order of actions. 기 전에 = before (not yet done). -(으)ㄴ 후에/-고 나서 = after (completed).",
+      "g1_cols": [
+        "표현",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V + -기 전에",
+          "V-기 전에",
+          "자기 전에 이를 닦아요.",
+          "Before sleeping, I brush teeth."
+        ],
+        [
+          "V + -은 후에 (받침O)",
+          "V-은 후에",
+          "밥을 먹은 후에 쉬어요.",
+          "After eating, I rest."
+        ],
+        [
+          "V + -ㄴ 후에 (받침X)",
+          "V-ㄴ 후에",
+          "수업이 끝난 후에 만나요.",
+          "After class ends, we meet."
+        ],
+        [
+          "V + -고 나서 (순서)",
+          "V-고 나서",
+          "씻고 나서 잠을 자요.",
+          "After washing up, I sleep."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "N+전에/후에",
+          "N 직접 사용 가능",
+          "수업 전에 / 수업 후에 (N 직접)"
+        ],
+        [
+          "-고 나서 vs -(으)ㄴ 후에",
+          "의미 비슷, -고 나서가 순서 강조",
+          "씻고 나서 자요 (순서 강조)"
+        ]
+      ],
+      "g1_tip": "기 전에 = before / -(으)ㄴ 후에 = after / -고 나서 = after (순서 강조)",
+      "g1_tip_eng": "-기 전에 = before. -(으)ㄴ 후에 = after. -고 나서 = after (sequence emphasis).",
+      "g1_exs": [
+        [
+          "자기 전에 스마트폰을 내려놓아요.",
+          "Before sleeping, I put down my phone."
+        ],
+        [
+          "수업이 끝난 후에 친구를 만나요.",
+          "After class ends, I meet friends."
+        ],
+        [
+          "밥을 먹고 나서 산책해요.",
+          "After eating, I take a walk."
+        ]
+      ],
+      "g1_prac": [
+        "1. 자다+전에 → 자_____ 전에 이를 닦아요.",
+        "2. 먹다+후에(받침O) → 먹_____ 후에 쉬어요.",
+        "3. 씻다+고 나서 → 씻_____ 잠을 자요."
+      ],
+      "g2_name": "V-(으)면서 (동시 동작)",
+      "g2_name_eng": "V-(으)면서: while / as (simultaneous actions)",
+      "g2_desc": "두 동작을 동시에 함을 나타내요. 받침 O이면 -으면서, 없으면 -면서. 주어가 반드시 같아야 해요.",
+      "g2_desc_eng": "Expresses two simultaneous actions by the SAME subject. Consonant→-으면서, vowel→-면서.",
+      "g2_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "받침 O",
+          "-으면서",
+          "밥을 먹으면서 TV를 봐요.",
+          "I watch TV while eating."
+        ],
+        [
+          "받침 X",
+          "-면서",
+          "음악을 들으면서 공부해요.",
+          "I study while listening."
+        ],
+        [
+          "하다",
+          "-하면서",
+          "운동하면서 음악을 들어요.",
+          "I listen while exercising."
+        ],
+        [
+          "대조",
+          "-으면서도",
+          "바쁘면서도 도와줘요.",
+          "Even though busy, still helps."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "❌ 주어 다름",
+          "-(으)면서는 주어가 같아야!",
+          "제가 먹으면서 친구가 와요 (X)"
+        ]
+      ],
+      "g2_tip": "-(으)면서는 같은 사람이 두 동작 동시에! 주어가 다르면 절대 못 써요.",
+      "g2_tip_eng": "-(으)면서 requires the SAME subject doing both actions simultaneously.",
+      "g2_exs": [
+        [
+          "음악을 들으면서 공부해요.",
+          "I study while listening to music."
+        ],
+        [
+          "걸으면서 전화해요.",
+          "I talk on the phone while walking."
+        ],
+        [
+          "바쁘면서도 도와줘서 고마워요.",
+          "Thank you for helping even though you're busy."
+        ]
+      ],
+      "g2_prac": [
+        "1. 음악 듣다+공부하다 → 음악을 들_____ 공부해요.",
+        "2. 걷다+전화하다 → 걸_____ 전화해요.",
+        "3. 밥 먹다+TV 보다 → 밥을 먹_____ TV를 봐요."
+      ],
+      "reading_title": "유이의 하루",
+      "reading_title_eng": "Yui's Day",
+      "reading_text": [
+        "유이는 아침마다 커피를 마시면서 뉴스를 봐요.",
+        "학교에 가기 전에 꼭 운동을 해요.",
+        "수업이 끝난 후에 도서관에서 공부해요.",
+        "저녁을 먹고 나서 데이비드와 이야기해요.",
+        "자기 전에 일기를 쓰는 것이 습관이에요.",
+        "",
+        "Every morning Yui watches the news while drinking coffee.",
+        "She always exercises before going to school.",
+        "After class ends, she studies at the library.",
+        "After dinner, she talks with David.",
+        "Writing in her diary before sleeping is a habit."
+      ],
+      "q_labels": [
+        "Q1. 유이는 뭘 하면서 뉴스를 봐요? (What does Yui do while watching the news?)",
+        "Q2. 학교에 가기 전에 뭘 해요? (What does she do before school?)",
+        "Q3. 맞으면 O, 틀리면 X — 유이는 수업 전에 도서관에서 공부해요. (   )"
+      ],
+      "listening_script": [
+        [
+          "데이비드",
+          "유이, 공부할 때 음악 들어요?"
+        ],
+        [
+          "유이",
+          "네, 음악을 들으면서 공부해요. 더 잘 돼요."
+        ],
+        [
+          "데이비드",
+          "저는 밥 먹고 나서 공부하는 편이에요."
+        ],
+        [
+          "유이",
+          "저는 밥 먹기 전에 공부해요. 더 집중돼요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 유이는 뭘 하면서 공부해요?",
+          [
+            "① 밥을 먹으면서",
+            "② 음악을 들으면서",
+            "③ TV를 보면서",
+            "④ 전화하면서"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 유이는 언제 공부해요?",
+          [
+            "① 밥 먹으면서",
+            "② 밥 먹기 전에",
+            "③ 밥 먹고 나서",
+            "④ 밥 먹는 동안"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "시간 표현 유형",
+      "topik_tip": "💡 -기 전에(전) / -(으)ㄴ 후에·-고 나서(후) / -(으)면서(동시)!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n자_____ 전에 이를 닦아요.",
+          [
+            "① 기",
+            "② 고",
+            "③ 아서",
+            "④ 으면서"
+          ],
+          "정답: ① (-기 전에)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n음악을 들_____ 공부해요.",
+          [
+            "① 기 전에",
+            "② 고 나서",
+            "③ 으면서",
+            "④ 은 후에"
+          ],
+          "정답: ③ (-으면서)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"밥을 먹은 후에 산책을 해요.\"",
+          [
+            "① 산책하고 나서 밥 먹어요.",
+            "② 밥 먹기 전에 산책해요.",
+            "③ 밥 먹으면서 산책해요.",
+            "④ 밥 먹은 다음에 산책해요."
+          ],
+          "정답: ④"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-기 전에",
+          "자기 전에 이를 닦아요.",
+          "Before sleeping, brush teeth."
+        ],
+        [
+          "-(으)ㄴ 후에",
+          "먹은 후에 쉬어요.",
+          "After eating, rest."
+        ],
+        [
+          "-고 나서",
+          "씻고 나서 자요.",
+          "After washing up, sleep."
+        ],
+        [
+          "-(으)면서",
+          "들으면서 공부해요.",
+          "Study while listening."
+        ],
+        [
+          "순서 어휘",
+          "먼저·그 다음에·마지막으로",
+          "first / next / lastly"
+        ]
+      ],
+      "checklist": [
+        "-기 전에와 -(으)ㄴ 후에로 순서를 표현해요.",
+        "-(으)면서로 동시 동작을 표현해요.",
+        "-(으)면서 주어 동일 조건을 알아요.",
+        "-고 나서와 -(으)ㄴ 후에의 차이를 알아요.",
+        "시간 순서 어휘 10개 이상 알아요."
+      ],
+      "mission": "오늘 하루 일과 순서를 -기 전에, -(으)ㄴ 후에, -(으)면서를 써서 말해보세요.",
+      "mission_eng": "Describe today's routine using -기 전에, -(으)ㄴ 후에, and -(으)면서.",
+      "writing_prompt": "일과를 시간 표현을 포함해 5문장으로 써보세요.",
+      "writing_prompt_eng": "Write 5 sentences about your daily routine using time expressions.",
+      "topik_vocab": [
+        [
+          "T01",
+          "순서",
+          "sequence"
+        ],
+        [
+          "T02",
+          "과정",
+          "process"
+        ],
+        [
+          "T03",
+          "단계",
+          "stage"
+        ],
+        [
+          "T04",
+          "동시",
+          "simultaneously"
+        ],
+        [
+          "T05",
+          "연속",
+          "successive"
+        ],
+        [
+          "T06",
+          "간격",
+          "interval"
+        ],
+        [
+          "T07",
+          "기간",
+          "period"
+        ],
+        [
+          "T08",
+          "시기",
+          "time/period"
+        ],
+        [
+          "T09",
+          "현재",
+          "present"
+        ],
+        [
+          "T10",
+          "미래",
+          "future"
+        ]
+      ]
+    },
+    {
+      "title": "당위 · 변화",
+      "title_eng": "Obligation & Change of Situation",
+      "chars": "Minjun, Amina",
+      "must_vocab": [
+        [
+          "01",
+          "📋",
+          "해야 하다",
+          "must do / have to",
+          "매일 운동해야 해요."
+        ],
+        [
+          "02",
+          "⚠️",
+          "되다",
+          "to become / work out",
+          "이렇게 하면 돼요."
+        ],
+        [
+          "03",
+          "🔄",
+          "게 되다",
+          "to end up / come to",
+          "한국어를 잘하게 됐어요."
+        ],
+        [
+          "04",
+          "📈",
+          "발전하다",
+          "to develop / improve",
+          "많이 발전하게 됐어요."
+        ],
+        [
+          "05",
+          "💡",
+          "알게 되다",
+          "to come to know",
+          "나중에 알게 됐어요."
+        ],
+        [
+          "06",
+          "🌱",
+          "변하다",
+          "to change",
+          "생각이 변하게 됐어요."
+        ],
+        [
+          "07",
+          "🎓",
+          "졸업하다",
+          "to graduate",
+          "드디어 졸업하게 됐어요."
+        ],
+        [
+          "08",
+          "🏢",
+          "일하다",
+          "to work",
+          "회사에서 일하게 됐어요."
+        ],
+        [
+          "09",
+          "❗",
+          "꼭",
+          "definitely / must",
+          "꼭 해야 해요."
+        ],
+        [
+          "10",
+          "✅",
+          "반드시",
+          "without fail",
+          "반드시 지켜야 해요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "의무",
+          "obligation",
+          "의무가 있어요."
+        ],
+        [
+          "12",
+          "규칙",
+          "rule",
+          "규칙을 지켜야 해요."
+        ],
+        [
+          "13",
+          "안전",
+          "safety",
+          "안전을 위해 해야 해요."
+        ],
+        [
+          "14",
+          "습관",
+          "habit",
+          "습관이 되게 됐어요."
+        ],
+        [
+          "15",
+          "자연스럽다",
+          "natural",
+          "자연스럽게 되게 됐어요."
+        ],
+        [
+          "16",
+          "결국",
+          "in the end",
+          "결국 잘하게 됐어요."
+        ],
+        [
+          "17",
+          "드디어",
+          "finally",
+          "드디어 할 수 있게 됐어요."
+        ],
+        [
+          "18",
+          "어쩌다",
+          "somehow / by chance",
+          "어쩌다 알게 됐어요."
+        ],
+        [
+          "19",
+          "점점",
+          "gradually",
+          "점점 늘게 됐어요."
+        ],
+        [
+          "20",
+          "저절로",
+          "on its own / naturally",
+          "저절로 알게 됐어요."
+        ]
+      ],
+      "g1_name": "V/A-아/어야 하다/되다 (의무·당위)",
+      "g1_name_eng": "V/A-아/어야 하다/되다: must / have to (obligation)",
+      "g1_desc": "반드시 해야 함을 나타내요. 어간 모음이 ㅏ/ㅗ이면 -아야 하다, 그 외이면 -어야 하다, 하다이면 -해야 하다.",
+      "g1_desc_eng": "Expresses obligation or necessity. ㅏ/ㅗ→-아야 하다, others→-어야 하다, 하다→-해야 하다.",
+      "g1_cols": [
+        "어간 모음",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "ㅏ/ㅗ 모음",
+          "-아야 해요",
+          "많이 먹어야 해요. / 가야 해요.",
+          "I have to eat a lot. / go."
+        ],
+        [
+          "그 외 모음",
+          "-어야 해요",
+          "공부해야 해요. / 쉬어야 해요.",
+          "I have to study. / rest."
+        ],
+        [
+          "하다",
+          "-해야 해요",
+          "운동해야 해요. / 준비해야 해요.",
+          "I have to exercise. / prepare."
+        ],
+        [
+          "부정",
+          "안 ~아/어도 돼요",
+          "안 가도 돼요.",
+          "You don't have to go."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "-아야 되다",
+          "-아야 하다와 같은 의미, 구어에서 더 자연스러움",
+          "가야 돼요 = 가야 해요"
+        ],
+        [
+          "당위 정도",
+          "꼭/반드시 + -아/어야 하다 = 강한 의무",
+          "꼭 가야 해요 (must absolutely go)"
+        ]
+      ],
+      "g1_tip": "-아/어야 해요는 \"꼭 해야 한다\"! 부정은 안 ~아/어도 돼요 (안 해도 됨).",
+      "g1_tip_eng": "-아/어야 해요 = \"must do\". Negative = 안 ~아/어도 돼요 (don't have to).",
+      "g1_exs": [
+        [
+          "약을 꼭 먹어야 해요.",
+          "You must take the medicine."
+        ],
+        [
+          "규칙을 지켜야 해요.",
+          "You have to follow the rules."
+        ],
+        [
+          "안 가도 돼요.",
+          "You don't have to go."
+        ]
+      ],
+      "g1_prac": [
+        "1. 운동하다 → 매일 _____.",
+        "2. 공부하다 → 시험 전에 _____.",
+        "3. 안 가다(부정) → 오늘은 _____."
+      ],
+      "g2_name": "V/A-게 되다 (변화 결과)",
+      "g2_name_eng": "V/A-게 되다: come to / end up (unintended/natural change)",
+      "g2_desc": "의도하지 않은 변화나 자연스러운 결과를 나타내요. V/A 어간에 받침 여부 관계없이 항상 -게 되다.",
+      "g2_desc_eng": "Expresses an unintended or natural change/result. Always V/A-게 되다 regardless of ending.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-게 됐어요 (완료)",
+          "한국어를 잘하게 됐어요.",
+          "자연스러운 변화 완료",
+          "I've come to speak Korean well."
+        ],
+        [
+          "V-게 될 거예요 (미래)",
+          "곧 알게 될 거예요.",
+          "변화 예정",
+          "You'll come to know soon."
+        ],
+        [
+          "A-게 됐어요",
+          "한국이 좋게 됐어요.",
+          "상태 변화",
+          "I've come to like Korea."
+        ],
+        [
+          "자연스러운 결과",
+          "어쩌다 보니 알게 됐어요.",
+          "우연한 결과",
+          "Somehow I came to know it."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -아/어지다",
+          "-아/어지다: 상태 변화 / -게 되다: 상황·계기로 인한 변화",
+          "좋아졌어요 (상태) / 좋아하게 됐어요 (계기)"
+        ]
+      ],
+      "g2_tip": "-게 되다는 의도 없이 자연스럽게 된 변화! \"어쩌다 보니~\"의 느낌이에요.",
+      "g2_tip_eng": "-게 되다 = unplanned/natural result. Feels like \"somehow ended up ~\".",
+      "g2_exs": [
+        [
+          "한국에 살게 됐어요.",
+          "I've ended up living in Korea."
+        ],
+        [
+          "나중에 알게 됐어요.",
+          "I came to know it later."
+        ],
+        [
+          "한국 음식을 좋아하게 됐어요.",
+          "I came to like Korean food."
+        ]
+      ],
+      "g2_prac": [
+        "1. 한국어 잘하다 → 한국어를 잘하_____.",
+        "2. 나중에 알다 → 나중에 알_____.",
+        "3. 한국에 살다(미래) → 한국에 살_____ 될 거예요."
+      ],
+      "reading_title": "아미나의 한국 생활",
+      "reading_title_eng": "Amina's Life in Korea",
+      "reading_text": [
+        "아미나는 처음에 한국어를 전혀 못 했어요.",
+        "매일 공부해야 했고 열심히 해야 했어요.",
+        "1년이 지나니까 자연스럽게 말하게 됐어요.",
+        "한국 음식도 처음엔 매웠지만 이제 좋아하게 됐어요.",
+        "한국에 살게 된 것이 정말 잘 됐어요.",
+        "",
+        "Amina couldn't speak Korean at all at first.",
+        "She had to study every day and had to work hard.",
+        "After a year, she came to speak naturally.",
+        "Korean food was spicy at first but now she's come to like it.",
+        "It turned out really well that she came to live in Korea."
+      ],
+      "q_labels": [
+        "Q1. 아미나는 처음에 한국어를 어떻게 했어요? (How was Amina's Korean at first?)",
+        "Q2. 1년 후에 어떻게 됐어요? (What happened after a year?)",
+        "Q3. 맞으면 O, 틀리면 X — 아미나는 이제 한국 음식을 좋아해요. (   )"
+      ],
+      "listening_script": [
+        [
+          "민준",
+          "아미나, 한국 생활이 어때요?"
+        ],
+        [
+          "아미나",
+          "처음엔 힘들었는데 이제 익숙하게 됐어요."
+        ],
+        [
+          "민준",
+          "한국어도 많이 늘었네요. 열심히 해야 했겠어요."
+        ],
+        [
+          "아미나",
+          "맞아요! 매일 공부해야 했어요. 이제 잘하게 됐어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 아미나의 한국 생활은 처음에 어땠어요?",
+          [
+            "① 쉬웠어요.",
+            "② 재미있었어요.",
+            "③ 힘들었어요.",
+            "④ 외로웠어요."
+          ],
+          "③"
+        ],
+        [
+          "Q2. 아미나는 어떻게 한국어를 잘하게 됐어요?",
+          [
+            "① 학원에 다녀서",
+            "② 매일 공부해서",
+            "③ 한국 친구가 있어서",
+            "④ 드라마를 봐서"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "당위·변화 유형",
+      "topik_tip": "💡 -아/어야 하다(의무) vs -게 되다(자연스러운 변화) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n매일 운동_____.",
+          [
+            "① 해야 해요",
+            "② 하게 됐어요",
+            "③ 할 수 있어요",
+            "④ 하는 편이에요"
+          ],
+          "정답: ① (의무→-아/어야 하다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n한국어를 잘하_____.",
+          [
+            "① 야 해요",
+            "② 게 됐어요",
+            "③ 아도 돼요",
+            "④ 면 안 돼요"
+          ],
+          "정답: ② (자연스러운 변화→-게 되다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"매일 공부해야 했어요. 1년 후에 한국어를 잘하게 됐어요.\"",
+          [
+            "① 한국어 공부를 안 했어요.",
+            "② 갑자기 잘하게 됐어요.",
+            "③ 매일 공부한 결과 잘하게 됐어요.",
+            "④ 한국어가 여전히 어려워요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-아/어야 해요",
+          "매일 운동해야 해요.",
+          "I have to exercise every day."
+        ],
+        [
+          "안 ~아/어도 돼요",
+          "안 가도 돼요.",
+          "You don't have to go."
+        ],
+        [
+          "-게 됐어요",
+          "잘하게 됐어요.",
+          "I've come to do it well."
+        ],
+        [
+          "-게 될 거예요",
+          "알게 될 거예요.",
+          "You'll come to know."
+        ],
+        [
+          "변화 어휘",
+          "점점 / 드디어 / 결국",
+          "gradually / finally / in the end"
+        ]
+      ],
+      "checklist": [
+        "-아/어야 하다로 의무를 표현해요.",
+        "부정(안 ~아/어도 돼요)을 써요.",
+        "-게 되다로 자연스러운 변화를 표현해요.",
+        "-아/어지다와 -게 되다의 차이를 알아요.",
+        "당위·변화 어휘 10개 이상 알아요."
+      ],
+      "mission": "지금 해야 하는 것과 자연스럽게 하게 된 것을 말해보세요.",
+      "mission_eng": "Talk about things you must do and things you've naturally come to do.",
+      "writing_prompt": "의무와 변화를 -아/어야 하다와 -게 되다로 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -아/어야 하다 and -게 되다.",
+      "topik_vocab": [
+        [
+          "T01",
+          "의무",
+          "obligation"
+        ],
+        [
+          "T02",
+          "당위",
+          "ought-to"
+        ],
+        [
+          "T03",
+          "필요",
+          "necessity"
+        ],
+        [
+          "T04",
+          "변화",
+          "change"
+        ],
+        [
+          "T05",
+          "발전",
+          "development"
+        ],
+        [
+          "T06",
+          "성장",
+          "growth"
+        ],
+        [
+          "T07",
+          "향상",
+          "improvement"
+        ],
+        [
+          "T08",
+          "저하",
+          "decline"
+        ],
+        [
+          "T09",
+          "유지",
+          "maintenance"
+        ],
+        [
+          "T10",
+          "전환",
+          "transition"
+        ]
+      ]
+    }
+  ]
+}

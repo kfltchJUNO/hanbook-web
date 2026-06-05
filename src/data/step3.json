@@ -1,0 +1,2274 @@
+{
+  "step": 3,
+  "level": "A2+",
+  "title": "경험·가능·이유",
+  "color": "#56C1E8",
+  "colorDk": "#0A6A8A",
+  "units": [
+    {
+      "title": "시도 · 경험",
+      "title_eng": "Attempts & Experiences",
+      "chars": "Sofia, Ahmad",
+      "must_vocab": [
+        [
+          "01",
+          "🍜",
+          "먹어 보다",
+          "to try eating",
+          "김치를 먹어 봤어요."
+        ],
+        [
+          "02",
+          "🎸",
+          "배워 보다",
+          "to try learning",
+          "기타를 배워 봤어요."
+        ],
+        [
+          "03",
+          "🏂",
+          "타 보다",
+          "to try riding",
+          "스키를 탄 적이 있어요."
+        ],
+        [
+          "04",
+          "✍️",
+          "써 보다",
+          "to try writing",
+          "한국어로 써 봤어요."
+        ],
+        [
+          "05",
+          "🗣️",
+          "말해 보다",
+          "to try speaking",
+          "한국어로 말해 봤어요."
+        ],
+        [
+          "06",
+          "🌏",
+          "가 보다",
+          "to try going",
+          "제주도에 가 봤어요?"
+        ],
+        [
+          "07",
+          "🎬",
+          "보다",
+          "to watch / see",
+          "이 영화 본 적 있어요?"
+        ],
+        [
+          "08",
+          "🍳",
+          "해 보다",
+          "to try doing",
+          "직접 해 봤어요."
+        ],
+        [
+          "09",
+          "💭",
+          "처음",
+          "first time",
+          "처음 먹어 봤어요."
+        ],
+        [
+          "10",
+          "⭐",
+          "한번",
+          "once / for once",
+          "한번 해 봐요!"
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "아직",
+          "not yet",
+          "아직 못 해 봤어요."
+        ],
+        [
+          "12",
+          "이미",
+          "already",
+          "이미 해 봤어요."
+        ],
+        [
+          "13",
+          "예전에",
+          "in the past",
+          "예전에 가 본 적이 있어요."
+        ],
+        [
+          "14",
+          "한 번도",
+          "not even once",
+          "한 번도 없어요."
+        ],
+        [
+          "15",
+          "꼭",
+          "definitely",
+          "꼭 먹어 봐야 해요."
+        ],
+        [
+          "16",
+          "추천하다",
+          "to recommend",
+          "이거 꼭 먹어 보세요."
+        ],
+        [
+          "17",
+          "신기하다",
+          "to be amazing / novel",
+          "신기한 경험이었어요."
+        ],
+        [
+          "18",
+          "놀랍다",
+          "to be surprising",
+          "결과가 놀라웠어요."
+        ],
+        [
+          "19",
+          "후회하다",
+          "to regret",
+          "안 해 봐서 후회해요."
+        ],
+        [
+          "20",
+          "도전하다",
+          "to challenge / try",
+          "새로운 것에 도전해 봐요."
+        ]
+      ],
+      "g1_name": "V-아/어 보다 (시도·권유)",
+      "g1_name_eng": "V-아/어 보다: try to / give it a try (attempt)",
+      "g1_desc": "처음으로 시도하거나 경험을 나타내요. 어간 모음이 ㅏ/ㅗ이면 -아 보다, 그 외이면 -어 보다, 하다이면 -해 보다.",
+      "g1_desc_eng": "Expresses trying something. ㅏ/ㅗ→-아 보다, others→-어 보다, 하다→-해 보다.",
+      "g1_cols": [
+        "어간 모음/형태",
+        "활용형",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "ㅏ/ㅗ → -아 보다",
+          "V-아 봤어요",
+          "먹어 봤어요. / 타봤어요.",
+          "I tried eating. / riding."
+        ],
+        [
+          "그 외 → -어 보다",
+          "V-어 봤어요",
+          "입어 봤어요. / 들어 봤어요.",
+          "I tried wearing. / listening."
+        ],
+        [
+          "하다 → -해 보다",
+          "V-해 봤어요",
+          "요리해 봤어요. / 공부해 봤어요.",
+          "I tried cooking. / studying."
+        ],
+        [
+          "권유",
+          "V-아/어 봐요/보세요",
+          "한번 먹어 봐요!",
+          "Try eating it once!"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "vs -아/어 보이다",
+          "-아/어 보다: 시도·경험 / -아/어 보이다: 외모 인상",
+          "먹어 봤어요 (경험) / 맛있어 보여요 (인상)"
+        ]
+      ],
+      "g1_tip": "-아/어 봐요는 권유, -아/어 봤어요는 과거 경험이에요!",
+      "g1_tip_eng": "-아/어 봐요 = \"give it a try!\" (suggestion). -아/어 봤어요 = past experience.",
+      "g1_exs": [
+        [
+          "삼겹살을 먹어 봤어요?",
+          "Have you tried eating 삼겹살?"
+        ],
+        [
+          "한국어로 편지를 써봤어요.",
+          "I tried writing a letter in Korean."
+        ],
+        [
+          "한번 입어 봐도 돼요?",
+          "May I try wearing it?"
+        ]
+      ],
+      "g1_prac": [
+        "1. 김치 먹다 → 김치를 먹_____.",
+        "2. 한국어로 말하다 → 한국어로 말_____.",
+        "3. 권유: 이 음식 → 이 음식 한번 _____."
+      ],
+      "g2_name": "V-(으)ㄴ 적이 있다/없다 (경험 유무)",
+      "g2_name_eng": "V-(으)ㄴ 적이 있다/없다: have/haven't ever (experience)",
+      "g2_desc": "과거에 한 번이라도 경험했는지를 나타내요. 받침 O이면 -은 적이 있다, 없으면 -ㄴ 적이 있다.",
+      "g2_desc_eng": "Expresses whether one has had an experience. Consonant→-은 적이 있다, vowel/ㄹ→-ㄴ 적이 있다.",
+      "g2_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "받침 O",
+          "-은 적이 있다",
+          "먹은 적이 있어요. / 읽은 적이 있어요.",
+          "I have eaten it. / read it."
+        ],
+        [
+          "받침 X",
+          "-ㄴ 적이 있다",
+          "간 적이 있어요. / 본 적이 있어요.",
+          "I have been there. / seen it."
+        ],
+        [
+          "부정",
+          "-은/ㄴ 적이 없다",
+          "스키 탄 적이 없어요.",
+          "I have never skied."
+        ],
+        [
+          "의문",
+          "-(으)ㄴ 적이 있어요?",
+          "한국 간 적이 있어요?",
+          "Have you ever been to Korea?"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -아/어 보다",
+          "-아/어 보다: 시도 강조 / -(으)ㄴ 적이 있다: 경험 유무 확인",
+          "먹어 봤어요 (시도 경험) / 먹은 적이 있어요 (경험 여부)"
+        ]
+      ],
+      "g2_tip": "-(으)ㄴ 적이 있다/없다는 \"ever/never\"! 경험 유무를 물을 때 써요.",
+      "g2_tip_eng": "-(으)ㄴ 적이 있다/없다 = \"have ever / have never\".",
+      "g2_exs": [
+        [
+          "한국에 간 적이 있어요?",
+          "Have you ever been to Korea?"
+        ],
+        [
+          "이 영화를 본 적이 있어요.",
+          "I have seen this movie before."
+        ],
+        [
+          "스키를 탄 적이 없어요.",
+          "I have never skied."
+        ]
+      ],
+      "g2_prac": [
+        "1. 한국 가다 → 한국에 간 _____.",
+        "2. 스키 타다(경험 없음) → 스키를 탄 _____.",
+        "3. 이 책 읽다(경험 있음) → 이 책을 읽_____."
+      ],
+      "reading_title": "처음 먹어 본 김치찌개",
+      "reading_title_eng": "Kimchi Jjigae I Tried for the First Time",
+      "reading_text": [
+        "소피아는 한국 요리를 해 보고 싶었어요.",
+        "한국에 오기 전에는 한국 음식을 먹어 본 적이 없었어요.",
+        "처음으로 김치찌개를 만들어 봤어요.",
+        "생각보다 맛있어서 정말 기뻤어요.",
+        "아흐마드도 먹어 봤는데 맛있다고 했어요.",
+        "",
+        "Sofia wanted to try Korean cooking.",
+        "Before coming to Korea, she had never tried Korean food.",
+        "She tried making kimchi jjigae for the first time.",
+        "It was tastier than expected, so she was really happy.",
+        "Ahmad tried it too and said it was delicious."
+      ],
+      "q_labels": [
+        "Q1. 소피아는 한국에 오기 전에 한국 음식을 먹어 본 적이 있어요? (Had Sofia tried Korean food before coming to Korea?)",
+        "Q2. 처음 만들어 본 음식은 뭐예요? (What was the first dish she made?)",
+        "Q3. 맞으면 O, 틀리면 X — 아흐마드도 김치찌개를 먹어 봤어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "소피아",
+          "아흐마드, 한국 음식 먹어 본 적 있어요?"
+        ],
+        [
+          "아흐마드",
+          "네, 불고기를 먹어 봤어요. 정말 맛있었어요!"
+        ],
+        [
+          "소피아",
+          "삼겹살도 먹어 봐요. 더 맛있어요."
+        ],
+        [
+          "아흐마드",
+          "삼겹살은 먹어 본 적이 없어요. 꼭 먹어 볼게요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 아흐마드가 먹어 본 한국 음식은?",
+          [
+            "① 김치찌개",
+            "② 비빔밥",
+            "③ 불고기",
+            "④ 삼겹살"
+          ],
+          "③"
+        ],
+        [
+          "Q2. 아흐마드가 아직 먹어 본 적 없는 것은?",
+          [
+            "① 불고기",
+            "② 삼겹살",
+            "③ 김치",
+            "④ 비빔밥"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "시도·경험 유형",
+      "topik_tip": "💡 -아/어 보다(시도·권유) vs -(으)ㄴ 적이 있다(경험 유무) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n한국에서 살_____ 싶어요.",
+          [
+            "① 아 봐요",
+            "② 은 적이 있어요",
+            "③ 고",
+            "④ 어 봤어요"
+          ],
+          "정답: ③ (소망→-고 싶다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n이 음식을 먹_____?",
+          [
+            "① 어 봤어요",
+            "② 은 적이 있어요",
+            "③ 아 보이다",
+            "④ 고 싶어요"
+          ],
+          "정답: ② (경험 유무→-(으)ㄴ 적이 있다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"소피아는 한국에 오기 전에 한국 음식을 먹어 본 적이 없었어요.\"",
+          [
+            "① 한국 음식을 자주 먹었어요.",
+            "② 한국에 오기 전에는 한국 음식 경험이 없었어요.",
+            "③ 한국 음식을 싫어해요.",
+            "④ 한국에 온 후에도 안 먹었어요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-아/어 보다",
+          "먹어 봤어요. / 먹어 봐요!",
+          "I tried eating. / Try eating!"
+        ],
+        [
+          "-(으)ㄴ 적이 있다",
+          "한국 간 적이 있어요.",
+          "I have been to Korea."
+        ],
+        [
+          "-(으)ㄴ 적이 없다",
+          "스키 탄 적이 없어요.",
+          "I have never skied."
+        ],
+        [
+          "권유",
+          "한번 해 봐요!",
+          "Give it a try!"
+        ],
+        [
+          "경험 묻기",
+          "먹어 봤어요? / 가 본 적 있어요?",
+          "Have you tried? / Have you ever been?"
+        ]
+      ],
+      "checklist": [
+        "-아/어 보다로 시도·경험을 표현해요.",
+        "-아/어 봐요로 권유해요.",
+        "-(으)ㄴ 적이 있다/없다로 경험 유무를 말해요.",
+        "-아/어 보다와 -(으)ㄴ 적이 있다의 차이를 알아요.",
+        "경험 관련 어휘 10개 이상 알아요."
+      ],
+      "mission": "해 보고 싶은 것, 해 본 적 있는 것, 해 본 적 없는 것을 말해보세요.",
+      "mission_eng": "Talk about things you want to try, have tried, and have never tried.",
+      "writing_prompt": "처음 해 본 경험을 -아/어 보다와 -(으)ㄴ 적이 있다로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about a first-time experience.",
+      "topik_vocab": [
+        [
+          "T01",
+          "도전",
+          "challenge"
+        ],
+        [
+          "T02",
+          "시도",
+          "attempt"
+        ],
+        [
+          "T03",
+          "실습",
+          "practice/hands-on"
+        ],
+        [
+          "T04",
+          "체험",
+          "experience"
+        ],
+        [
+          "T05",
+          "훈련",
+          "training"
+        ],
+        [
+          "T06",
+          "연습",
+          "practice"
+        ],
+        [
+          "T07",
+          "반복",
+          "repetition"
+        ],
+        [
+          "T08",
+          "숙련",
+          "proficiency"
+        ],
+        [
+          "T09",
+          "능력",
+          "ability"
+        ],
+        [
+          "T10",
+          "자격",
+          "qualification"
+        ]
+      ]
+    },
+    {
+      "title": "가능 · 허가 · 금지",
+      "title_eng": "Ability · Permission · Prohibition",
+      "chars": "Carlos, Natasha",
+      "must_vocab": [
+        [
+          "01",
+          "💪",
+          "할 수 있다",
+          "can do / be able to",
+          "저는 수영할 수 있어요."
+        ],
+        [
+          "02",
+          "🚫",
+          "할 수 없다",
+          "cannot do",
+          "저는 운전을 할 수 없어요."
+        ],
+        [
+          "03",
+          "✅",
+          "해도 되다",
+          "may / it's okay to",
+          "여기 앉아도 돼요?"
+        ],
+        [
+          "04",
+          "❌",
+          "하면 안 되다",
+          "must not",
+          "여기서 사진 찍으면 안 돼요."
+        ],
+        [
+          "05",
+          "🎹",
+          "피아노",
+          "piano",
+          "피아노를 칠 수 있어요?"
+        ],
+        [
+          "06",
+          "🌍",
+          "외국어",
+          "foreign language",
+          "외국어를 할 수 있어요?"
+        ],
+        [
+          "07",
+          "🏊",
+          "수영",
+          "swimming",
+          "수영을 배울 수 있어요."
+        ],
+        [
+          "08",
+          "🚗",
+          "운전",
+          "driving",
+          "운전을 할 수 없어요."
+        ],
+        [
+          "09",
+          "📷",
+          "사진",
+          "photo",
+          "여기서 사진 찍어도 돼요?"
+        ],
+        [
+          "10",
+          "🔑",
+          "허락",
+          "permission",
+          "허락을 받았어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "가능하다",
+          "to be possible",
+          "내일 가능해요?"
+        ],
+        [
+          "12",
+          "불가능하다",
+          "to be impossible",
+          "지금은 불가능해요."
+        ],
+        [
+          "13",
+          "금지",
+          "prohibition",
+          "촬영 금지예요."
+        ],
+        [
+          "14",
+          "괜찮다",
+          "to be okay",
+          "이거 써도 괜찮아요?"
+        ],
+        [
+          "15",
+          "연습하다",
+          "to practice",
+          "연습하면 할 수 있어요."
+        ],
+        [
+          "16",
+          "잘",
+          "well",
+          "잘 할 수 있어요."
+        ],
+        [
+          "17",
+          "조금",
+          "a little",
+          "조금 할 수 있어요."
+        ],
+        [
+          "18",
+          "전혀",
+          "not at all",
+          "전혀 못 해요."
+        ],
+        [
+          "19",
+          "노력하다",
+          "to make effort",
+          "노력하면 가능해요."
+        ],
+        [
+          "20",
+          "실력",
+          "skill / ability",
+          "한국어 실력이 좋아요."
+        ]
+      ],
+      "g1_name": "V-(으)ㄹ 수 있다/없다 (가능·능력)",
+      "g1_name_eng": "V-(으)ㄹ 수 있다/없다: can / cannot (ability)",
+      "g1_desc": "능력이나 가능성을 나타내요. 받침 O이면 -을 수 있다, 없으면 -ㄹ 수 있다.",
+      "g1_desc_eng": "Expresses ability or possibility. Consonant→-을 수 있다, vowel/ㄹ→-ㄹ 수 있다.",
+      "g1_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "받침 O",
+          "-을 수 있어요",
+          "먹을 수 있어요. / 읽을 수 있어요.",
+          "I can eat. / read."
+        ],
+        [
+          "받침 X",
+          "-ㄹ 수 있어요",
+          "갈 수 있어요. / 배울 수 있어요.",
+          "I can go. / learn."
+        ],
+        [
+          "ㄹ받침",
+          "-ㄹ 수 있어요",
+          "만들 수 있어요. / 알 수 있어요.",
+          "I can make. / know."
+        ],
+        [
+          "부정",
+          "-을/ㄹ 수 없어요",
+          "갈 수 없어요. / 못 가요.",
+          "I cannot go. (못=informal)"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "안 vs 못",
+          "안 가요: 의지 없음 / 못 가요: 상황·능력 불가",
+          "오늘 안 가요 (안 가고 싶음) / 오늘 못 가요 (사정 있음)"
+        ]
+      ],
+      "g1_tip": "못 V = -(으)ㄹ 수 없다(구어). 안 = 의지, 못 = 상황·능력 불가!",
+      "g1_tip_eng": "못 = cannot (situation/ability). 안 = choose not to (willful). 못 V = -(으)ㄹ 수 없다 (informal).",
+      "g1_exs": [
+        [
+          "저는 피아노를 칠 수 있어요.",
+          "I can play the piano."
+        ],
+        [
+          "오늘은 시간이 없어서 갈 수 없어요.",
+          "I can't go today because I have no time."
+        ],
+        [
+          "연습하면 할 수 있어요!",
+          "You can do it if you practice!"
+        ]
+      ],
+      "g1_prac": [
+        "1. 수영하다 → 수영을 할 _____.",
+        "2. 운전하다(부정) → 운전을 할 _____.",
+        "3. 피아노 치다 → 피아노를 _____."
+      ],
+      "g2_name": "V-아/어도 되다 / V-(으)면 안 되다 (허가·금지)",
+      "g2_name_eng": "V-아/어도 되다: may / V-(으)면 안 되다: must not",
+      "g2_desc": "허가는 -아/어도 되다, 금지는 -(으)면 안 되다로 나타내요. 허가: 어간 모음에 따라 -아도/-어도, 금지: 받침에 따라 -으면/-면 안 되다.",
+      "g2_desc_eng": "Permission: -아/어도 되다. Prohibition: -(으)면 안 되다. Match vowel for 아/어, consonant for 으.",
+      "g2_cols": [
+        "의미",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "허가 (ㅏ/ㅗ)",
+          "-아도 돼요",
+          "여기 앉아도 돼요.",
+          "You may sit here."
+        ],
+        [
+          "허가 (그 외)",
+          "-어도 돼요",
+          "이거 먹어도 돼요.",
+          "You may eat this."
+        ],
+        [
+          "금지 (받침O)",
+          "-으면 안 돼요",
+          "여기 들어가면 안 돼요.",
+          "You must not enter here."
+        ],
+        [
+          "금지 (받침X)",
+          "-면 안 돼요",
+          "늦으면 안 돼요.",
+          "You must not be late."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "질문형",
+          "해도 돼요? = May I~?",
+          "사진 찍어도 돼요? / 여기 앉아도 돼요?"
+        ]
+      ],
+      "g2_tip": "허가: -아/어도 돼요 (해도 OK) / 금지: -(으)면 안 돼요 (하면 NO)!",
+      "g2_tip_eng": "Permission: -아/어도 돼요 (OK to do). Prohibition: -(으)면 안 돼요 (NOT okay).",
+      "g2_exs": [
+        [
+          "여기서 사진 찍어도 돼요?",
+          "May I take photos here?"
+        ],
+        [
+          "수업 중에 전화하면 안 돼요.",
+          "You must not call during class."
+        ],
+        [
+          "여기 앉아도 돼요.",
+          "You may sit here."
+        ]
+      ],
+      "g2_prac": [
+        "1. 여기 앉다(허가) → 여기 _____.",
+        "2. 수업 중 전화(금지) → 수업 중에 전화하_____.",
+        "3. 질문: 이거 쓰다(허가?) → 이거 써_____ ?"
+      ],
+      "reading_title": "나타샤의 버킷리스트",
+      "reading_title_eng": "Natasha's Bucket List",
+      "reading_text": [
+        "나타샤는 할 수 있는 것이 많아요.",
+        "수영도 할 수 있고 기타도 칠 수 있어요.",
+        "하지만 스키를 탄 적이 없어요.",
+        "스키장에서는 혼자 타면 안 되고 강사와 같이 타야 해요.",
+        "카를로스가 가르쳐 줄 수 있어서 같이 가려고 해요.",
+        "",
+        "Natasha can do many things.",
+        "She can swim and play guitar.",
+        "But she has never skied.",
+        "At the ski resort you must not ski alone — you need an instructor.",
+        "Carlos can teach her so they plan to go together."
+      ],
+      "q_labels": [
+        "Q1. 나타샤는 뭘 할 수 있어요? (What can Natasha do?)",
+        "Q2. 스키장에서 혼자 타면 어때요? (What about skiing alone at the resort?)",
+        "Q3. 맞으면 O, 틀리면 X — 카를로스가 나타샤에게 스키를 가르쳐 줄 수 있어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "카를로스",
+          "나타샤, 스키 탄 적 있어요?"
+        ],
+        [
+          "나타샤",
+          "아니요, 한 번도 탄 적이 없어요. 배울 수 있을까요?"
+        ],
+        [
+          "카를로스",
+          "물론이죠! 제가 잘 가르쳐 줄 수 있어요."
+        ],
+        [
+          "나타샤",
+          "여기서 사진 찍어도 돼요?"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 나타샤는 스키를 탄 적이 있어요?",
+          [
+            "① 네, 잘 타요.",
+            "② 아니요, 없어요.",
+            "③ 조금 타요.",
+            "④ 잘 모르겠어요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 카를로스는 뭘 할 수 있어요?",
+          [
+            "① 수영",
+            "② 기타",
+            "③ 스키",
+            "④ 요리"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "가능·허가·금지 유형",
+      "topik_tip": "💡 -(으)ㄹ 수 있다(능력) / -아/어도 되다(허가) / -(으)면 안 되다(금지) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n저는 피아노를 칠 _____.",
+          [
+            "① 수 있어요",
+            "② 적이 있어요",
+            "③ 아도 돼요",
+            "④ 면 안 돼요"
+          ],
+          "정답: ① (능력→-(으)ㄹ 수 있다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n여기서 사진을 찍_____.",
+          [
+            "① 을 수 있어요",
+            "② 어도 돼요",
+            "③ 으면 안 돼요",
+            "④ 어 봤어요"
+          ],
+          "정답: ③ (금지→-(으)면 안 되다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"나는 수영을 할 수 있지만 스키를 탄 적이 없어요.\"",
+          [
+            "① 수영도 못 해요.",
+            "② 스키를 잘 타요.",
+            "③ 수영은 하지만 스키 경험이 없어요.",
+            "④ 스키를 배우고 싶지 않아요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)ㄹ 수 있다",
+          "수영할 수 있어요.",
+          "I can swim."
+        ],
+        [
+          "-(으)ㄹ 수 없다 / 못",
+          "운전 못 해요.",
+          "I cannot drive."
+        ],
+        [
+          "-아/어도 되다",
+          "여기 앉아도 돼요.",
+          "You may sit here."
+        ],
+        [
+          "-(으)면 안 되다",
+          "늦으면 안 돼요.",
+          "You must not be late."
+        ],
+        [
+          "허가 묻기",
+          "해도 돼요?",
+          "May I~?"
+        ]
+      ],
+      "checklist": [
+        "-(으)ㄹ 수 있다/없다로 가능·불가능을 표현해요.",
+        "안 vs 못의 차이를 이해해요.",
+        "-아/어도 되다로 허가를 표현해요.",
+        "-(으)면 안 되다로 금지를 표현해요.",
+        "가능·허가·금지 어휘 10개 이상 알아요."
+      ],
+      "mission": "자신이 할 수 있는 것과 허가·금지 규칙을 말해보세요.",
+      "mission_eng": "Talk about what you can do and express permission/prohibition rules.",
+      "writing_prompt": "자신의 능력과 규칙을 -(으)ㄹ 수 있다, -아/어도 되다, -(으)면 안 되다로 써보세요.",
+      "writing_prompt_eng": "Write about abilities and rules using the three grammar patterns.",
+      "topik_vocab": [
+        [
+          "T01",
+          "가능성",
+          "possibility"
+        ],
+        [
+          "T02",
+          "불가능",
+          "impossibility"
+        ],
+        [
+          "T03",
+          "제한",
+          "limitation"
+        ],
+        [
+          "T04",
+          "허용",
+          "allowance"
+        ],
+        [
+          "T05",
+          "승인",
+          "approval"
+        ],
+        [
+          "T06",
+          "거부",
+          "refusal"
+        ],
+        [
+          "T07",
+          "조건",
+          "condition"
+        ],
+        [
+          "T08",
+          "자유",
+          "freedom"
+        ],
+        [
+          "T09",
+          "권한",
+          "authority"
+        ],
+        [
+          "T10",
+          "책임",
+          "responsibility"
+        ]
+      ]
+    },
+    {
+      "title": "격식 이유 · 목적",
+      "title_eng": "Formal Reasons & Purposes",
+      "chars": "David, Yui",
+      "must_vocab": [
+        [
+          "01",
+          "📋",
+          "이유",
+          "reason",
+          "이유가 있어요."
+        ],
+        [
+          "02",
+          "🎯",
+          "목적",
+          "purpose / goal",
+          "목적이 뭐예요?"
+        ],
+        [
+          "03",
+          "🏫",
+          "공부하다",
+          "to study",
+          "한국어를 공부하기 위해 왔어요."
+        ],
+        [
+          "04",
+          "💼",
+          "취업",
+          "getting a job",
+          "취업을 위해 노력해요."
+        ],
+        [
+          "05",
+          "🌍",
+          "환경",
+          "environment",
+          "환경을 위해 노력해요."
+        ],
+        [
+          "06",
+          "📰",
+          "뉴스",
+          "news",
+          "뉴스를 보기 때문에 알아요."
+        ],
+        [
+          "07",
+          "🔬",
+          "연구하다",
+          "to research",
+          "연구하기 위해 유학을 갔어요."
+        ],
+        [
+          "08",
+          "💡",
+          "따라서",
+          "therefore (formal)",
+          "따라서 조심해야 해요."
+        ],
+        [
+          "09",
+          "🧠",
+          "지식",
+          "knowledge",
+          "지식을 쌓기 위해 공부해요."
+        ],
+        [
+          "10",
+          "🤝",
+          "협력하다",
+          "to cooperate",
+          "협력하기 위해 모였어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "논리적",
+          "logical",
+          "논리적인 이유예요."
+        ],
+        [
+          "12",
+          "원인",
+          "cause",
+          "원인을 알아야 해요."
+        ],
+        [
+          "13",
+          "결과",
+          "result",
+          "결과가 나왔어요."
+        ],
+        [
+          "14",
+          "공식적",
+          "official / formal",
+          "공식적인 자리예요."
+        ],
+        [
+          "15",
+          "발전하다",
+          "to develop",
+          "발전하기 위해 노력해요."
+        ],
+        [
+          "16",
+          "보호하다",
+          "to protect",
+          "환경을 보호하기 위해서예요."
+        ],
+        [
+          "17",
+          "절약하다",
+          "to save / conserve",
+          "에너지를 절약하기 때문이에요."
+        ],
+        [
+          "18",
+          "건강",
+          "health",
+          "건강하기 때문에 가능해요."
+        ],
+        [
+          "19",
+          "안전",
+          "safety",
+          "안전을 위해 규칙을 지켜요."
+        ],
+        [
+          "20",
+          "사회",
+          "society",
+          "사회를 위해 일해요."
+        ]
+      ],
+      "g1_name": "V/A-기 때문에 (격식 이유)",
+      "g1_name_eng": "V/A-기 때문에: because (formal/written reason)",
+      "g1_desc": "이유를 격식 있게 나타내요. V/A에는 -기 때문에, N에는 N(이)기 때문에. 앞에 -아/어서 이미 배웠으니 격식 상황에서 -기 때문에를 써요.",
+      "g1_desc_eng": "Formal/written expression of reason. V/A→-기 때문에, N→N(이)기 때문에. Use in formal/written contexts.",
+      "g1_cols": [
+        "결합 대상",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V/A",
+          "-기 때문에",
+          "바쁘기 때문에 못 가요.",
+          "Because I'm busy, I can't go."
+        ],
+        [
+          "N (받침O)",
+          "N+이기 때문에",
+          "학생이기 때문에 할인돼요.",
+          "Because I'm a student, I get a discount."
+        ],
+        [
+          "N (받침X)",
+          "N+이기 때문에",
+          "의사이기 때문에 알아요.",
+          "Because she's a doctor, she knows."
+        ],
+        [
+          "구어 비교",
+          "-아/어서 (구어)",
+          "바빠서 못 가요.",
+          "Because I'm busy. (spoken)"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "어순",
+          "이유 먼저 → 결과 나중 (영어와 동일)",
+          "바쁘기 때문에 못 가요. (이유+결과)"
+        ],
+        [
+          "-기 때문이다",
+          "결론 문장 끝",
+          "그것이 문제이기 때문이다."
+        ]
+      ],
+      "g1_tip": "-기 때문에는 격식·논리! 구어에서는 -아/어서, -(으)니까가 더 자연스러워요.",
+      "g1_tip_eng": "-기 때문에 = formal/logical. In casual speech, -아/어서 or -(으)니까 are more natural.",
+      "g1_exs": [
+        [
+          "시험이기 때문에 열심히 공부해요.",
+          "Because it's an exam, I study hard."
+        ],
+        [
+          "비가 오기 때문에 집에 있어요.",
+          "Because it's raining, I'm staying home."
+        ],
+        [
+          "건강하기 때문에 매일 운동해요.",
+          "Because I'm healthy, I exercise every day."
+        ]
+      ],
+      "g1_prac": [
+        "1. 피곤하다 → 피곤하기 _____ 쉬고 싶어요.",
+        "2. 비가 오다 → 비가 오기 _____ 집에 있어요.",
+        "3. 학생이다(N) → 학생이기 _____ 할인돼요."
+      ],
+      "g2_name": "V-기 위해(서) (목적)",
+      "g2_name_eng": "V-기 위해(서): in order to / for the purpose of",
+      "g2_desc": "목적이나 의도를 나타내요. V 어간에 받침 여부 관계없이 항상 -기 위해(서). N은 N을/를 위해(서).",
+      "g2_desc_eng": "Expresses purpose or goal. Always V-기 위해(서) regardless of ending. N→N을/를 위해(서).",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "비교",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-기 위해서",
+          "한국어를 배우기 위해서 왔어요.",
+          "목적",
+          "I came in order to learn Korean."
+        ],
+        [
+          "V-기 위해",
+          "건강하기 위해 운동해요.",
+          "목적 (서 생략 가능)",
+          "I exercise to be healthy."
+        ],
+        [
+          "N을/를 위해",
+          "환경을 위해 노력해요.",
+          "N 목적",
+          "I work hard for the environment."
+        ],
+        [
+          "vs -(으)려고",
+          "한국에 가려고 공부해요.",
+          "구어",
+          "I study to go to Korea. (casual)"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "격식 차이",
+          "-기 위해(서): 격식·문어 / -(으)려고: 구어·일상",
+          "논문: -기 위해 / 대화: -(으)려고"
+        ]
+      ],
+      "g2_tip": "-기 위해(서)는 목적! 격식 글쓰기나 발표에서 자주 써요.",
+      "g2_tip_eng": "-기 위해(서) = \"in order to\". Common in formal writing and presentations.",
+      "g2_exs": [
+        [
+          "취업하기 위해서 열심히 공부해요.",
+          "I study hard in order to get a job."
+        ],
+        [
+          "건강을 위해 매일 운동해요.",
+          "I exercise every day for my health."
+        ],
+        [
+          "한국어를 잘하기 위해 왔어요.",
+          "I came in order to get good at Korean."
+        ]
+      ],
+      "g2_prac": [
+        "1. 한국어 배우다 → 한국어를 배우기 _____ 한국에 왔어요.",
+        "2. 환경 보호(N) → 환경_____ 위해 노력해요.",
+        "3. 건강하다 → 건강하기 _____ 운동해요."
+      ],
+      "reading_title": "유이의 유학 목적",
+      "reading_title_eng": "Yui's Study Abroad Purpose",
+      "reading_text": [
+        "유이는 한국어를 공부하기 위해 한국에 왔어요.",
+        "한국 문화를 좋아하기 때문에 유학을 결정했어요.",
+        "취업을 위해 한국어 자격증도 따려고 해요.",
+        "데이비드도 연구를 위해 한국에 왔어요.",
+        "두 사람은 같은 목적이기 때문에 잘 맞아요.",
+        "",
+        "Yui came to Korea in order to study Korean.",
+        "Because she loves Korean culture, she decided to study abroad.",
+        "She also plans to get a Korean language certification for employment.",
+        "David also came to Korea for research.",
+        "Because they have the same purpose, they get along well."
+      ],
+      "q_labels": [
+        "Q1. 유이는 왜 한국에 왔어요? (Why did Yui come to Korea?)",
+        "Q2. 유이는 취업을 위해 무엇을 하려고 해요? (What does Yui plan to do for employment?)",
+        "Q3. 맞으면 O, 틀리면 X — 데이비드도 한국어 공부를 위해 왔어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "유이",
+          "데이비드, 한국에 왜 왔어요?"
+        ],
+        [
+          "데이비드",
+          "저는 연구를 하기 위해서 왔어요. 유이 씨는요?"
+        ],
+        [
+          "유이",
+          "저는 한국어를 좋아하기 때문에 왔어요."
+        ],
+        [
+          "데이비드",
+          "좋은 이유네요! 같이 열심히 해봐요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 데이비드가 한국에 온 목적은?",
+          [
+            "① 한국어 공부",
+            "② 여행",
+            "③ 연구",
+            "④ 취업"
+          ],
+          "③"
+        ],
+        [
+          "Q2. 유이가 한국에 온 이유는?",
+          [
+            "① 연구 때문에",
+            "② 취업 때문에",
+            "③ 한국어를 좋아해서",
+            "④ 가족이 있어서"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "격식 이유·목적 유형",
+      "topik_tip": "💡 -기 때문에(격식 이유) vs -기 위해(서)(목적) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n바쁘기 _____ 못 가요.",
+          [
+            "① 때문에",
+            "② 위해서",
+            "③ 전에",
+            "④ 후에"
+          ],
+          "정답: ① (격식 이유→-기 때문에)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n한국어를 배우기 _____ 한국에 왔어요.",
+          [
+            "① 때문에",
+            "② 위해서",
+            "③ 전에",
+            "④ 후에"
+          ],
+          "정답: ② (목적→-기 위해서)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"유이는 한국어를 공부하기 위해서 한국에 왔어요.\"",
+          [
+            "① 유이는 연구하러 왔어요.",
+            "② 유이는 여행하러 왔어요.",
+            "③ 유이는 한국어 공부를 목적으로 왔어요.",
+            "④ 유이는 취업 때문에 왔어요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-기 때문에",
+          "바쁘기 때문에 못 가요.",
+          "Because I'm busy, I can't go."
+        ],
+        [
+          "-기 위해(서)",
+          "공부하기 위해 왔어요.",
+          "I came in order to study."
+        ],
+        [
+          "N을/를 위해",
+          "환경을 위해 노력해요.",
+          "I work for the environment."
+        ],
+        [
+          "격식 vs 구어",
+          "-기 때문에 vs -아/어서",
+          "formal vs spoken"
+        ],
+        [
+          "이유·목적 묻기",
+          "왜요? / 무엇을 위해?",
+          "Why? / For what purpose?"
+        ]
+      ],
+      "checklist": [
+        "-기 때문에로 격식 이유를 표현해요.",
+        "-기 위해(서)로 목적을 표현해요.",
+        "-아/어서와 -기 때문에의 문체 차이를 알아요.",
+        "-기 위해(서)와 -(으)려고의 차이를 알아요.",
+        "격식 이유·목적 어휘 10개 이상 알아요."
+      ],
+      "mission": "자신이 한국어를 배우는 이유와 목적을 -기 때문에와 -기 위해(서)로 말해보세요.",
+      "mission_eng": "Explain why and for what purpose you study Korean.",
+      "writing_prompt": "자신의 목표와 이유를 -기 때문에와 -기 위해(서)로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about your goal and reason.",
+      "topik_vocab": [
+        [
+          "T01",
+          "목적",
+          "purpose"
+        ],
+        [
+          "T02",
+          "수단",
+          "means/method"
+        ],
+        [
+          "T03",
+          "방법",
+          "method"
+        ],
+        [
+          "T04",
+          "효과",
+          "effect"
+        ],
+        [
+          "T05",
+          "효율",
+          "efficiency"
+        ],
+        [
+          "T06",
+          "전략",
+          "strategy"
+        ],
+        [
+          "T07",
+          "접근",
+          "approach"
+        ],
+        [
+          "T08",
+          "해결",
+          "solution"
+        ],
+        [
+          "T09",
+          "개선",
+          "improvement"
+        ],
+        [
+          "T10",
+          "발전",
+          "development"
+        ]
+      ]
+    },
+    {
+      "title": "감정 · 외양 · 변화",
+      "title_eng": "Emotions · Appearance · Change",
+      "chars": "Linh, Ken",
+      "must_vocab": [
+        [
+          "01",
+          "😊",
+          "기쁘다",
+          "joyful / happy",
+          "정말 기뻐 보여요."
+        ],
+        [
+          "02",
+          "😢",
+          "슬프다",
+          "sad",
+          "슬퍼 보여요."
+        ],
+        [
+          "03",
+          "😡",
+          "화나다",
+          "angry",
+          "화나 보여요."
+        ],
+        [
+          "04",
+          "😰",
+          "걱정되다",
+          "worried",
+          "걱정돼 보여요."
+        ],
+        [
+          "05",
+          "😌",
+          "행복하다",
+          "happy (fulfilled)",
+          "행복해 보여요."
+        ],
+        [
+          "06",
+          "😩",
+          "피곤하다",
+          "tired",
+          "많이 피곤해 보여요."
+        ],
+        [
+          "07",
+          "💪",
+          "건강해지다",
+          "to become healthy",
+          "요즘 건강해졌어요."
+        ],
+        [
+          "08",
+          "📈",
+          "좋아지다",
+          "to get better",
+          "점점 좋아지고 있어요."
+        ],
+        [
+          "09",
+          "🌡️",
+          "나빠지다",
+          "to get worse",
+          "날씨가 나빠졌어요."
+        ],
+        [
+          "10",
+          "⚡",
+          "갑자기",
+          "suddenly",
+          "갑자기 변했어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "표정",
+          "facial expression",
+          "표정이 밝아요."
+        ],
+        [
+          "12",
+          "기분",
+          "mood / feeling",
+          "기분이 좋아 보여요."
+        ],
+        [
+          "13",
+          "점점",
+          "gradually",
+          "점점 나아지고 있어요."
+        ],
+        [
+          "14",
+          "드디어",
+          "finally",
+          "드디어 나아졌어요."
+        ],
+        [
+          "15",
+          "요즘",
+          "these days",
+          "요즘 어때 보여요?"
+        ],
+        [
+          "16",
+          "훨씬",
+          "much more",
+          "훨씬 좋아졌어요."
+        ],
+        [
+          "17",
+          "달라지다",
+          "to become different",
+          "많이 달라졌어요."
+        ],
+        [
+          "18",
+          "심각하다",
+          "to be serious",
+          "심각해 보여요."
+        ],
+        [
+          "19",
+          "밝다",
+          "bright / cheerful",
+          "표정이 밝아 보여요."
+        ],
+        [
+          "20",
+          "어둡다",
+          "dark / gloomy",
+          "표정이 어두워 보여요."
+        ]
+      ],
+      "g1_name": "V/A-아/어 보이다 (외양·추측)",
+      "g1_name_eng": "V/A-아/어 보이다: looks / seems (appearance)",
+      "g1_desc": "겉모습을 보고 느낌이나 상태를 추측해요. 어간 모음이 ㅏ/ㅗ이면 -아 보이다, 그 외이면 -어 보이다, 하다이면 -해 보이다.",
+      "g1_desc_eng": "Expresses appearance-based guess. ㅏ/ㅗ→-아 보이다, others→-어 보이다, 하다→-해 보이다.",
+      "g1_cols": [
+        "어간 모음/유형",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "ㅏ/ㅗ 모음",
+          "-아 보여요",
+          "좋아 보여요. / 밝아 보여요.",
+          "You look good. / bright."
+        ],
+        [
+          "그 외 모음",
+          "-어 보여요",
+          "피곤해 보여요. / 슬퍼보여요.",
+          "You look tired. / sad."
+        ],
+        [
+          "하다 A",
+          "-해 보여요",
+          "행복해 보여요. / 건강해 보여요.",
+          "You look happy. / healthy."
+        ],
+        [
+          "ㅂ 불규칙",
+          "-워 보여요",
+          "어려워 보여요. / 무거워 보여요.",
+          "It looks hard. / heavy."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "vs -는 것 같다",
+          "-아/어 보이다: 시각적 인상 / -는 것 같다: 상황 추측",
+          "피곤해 보여요 (보임) / 피곤한 것 같아요 (추측)"
+        ]
+      ],
+      "g1_tip": "-아/어 보이다는 눈에 보이는 인상! 상황 추측은 -는 것 같다(Step 4)로.",
+      "g1_tip_eng": "-아/어 보이다= visual impression. -는 것 같다 (Step 4) = situational guess.",
+      "g1_exs": [
+        [
+          "오늘 많이 피곤해 보여요.",
+          "You look very tired today."
+        ],
+        [
+          "이 문제가 어려워 보여요.",
+          "This problem looks difficult."
+        ],
+        [
+          "소피아가 오늘 행복해 보여요.",
+          "Sofia looks happy today."
+        ]
+      ],
+      "g1_prac": [
+        "1. 기쁘다 → 정말 _____.",
+        "2. 피곤하다(하다A) → 많이 _____.",
+        "3. 어렵다(ㅂ불규칙) → 좀 _____?"
+      ],
+      "g2_name": "V/A-아/어지다 (상태 변화)",
+      "g2_name_eng": "A/V-아/어지다: become / get (change of state)",
+      "g2_desc": "상태의 변화를 나타내요. 어간 모음이 ㅏ/ㅗ이면 -아지다, 그 외이면 -어지다, 하다이면 -해지다.",
+      "g2_desc_eng": "Expresses a change of state. ㅏ/ㅗ→-아지다, others→-어지다, 하다→-해지다.",
+      "g2_cols": [
+        "어간 모음/유형",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "ㅏ/ㅗ 모음",
+          "-아지다→-아졌어요",
+          "좋아졌어요. / 밝아졌어요.",
+          "It got better. / brighter."
+        ],
+        [
+          "그 외 모음",
+          "-어지다→-어졌어요",
+          "힘들어졌어요. / 나빠졌어요.",
+          "It got harder. / worse."
+        ],
+        [
+          "하다 A",
+          "-해지다→-해졌어요",
+          "행복해졌어요. / 건강해졌어요.",
+          "I became happy. / healthy."
+        ],
+        [
+          "ㅂ 불규칙",
+          "-워지다→-워졌어요",
+          "어려워졌어요. / 가벼워졌어요.",
+          "It got harder. / lighter."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "진행형",
+          "점점 -아/어지고 있어요 = 변화 진행 중",
+          "점점 좋아지고 있어요"
+        ]
+      ],
+      "g2_tip": "-아/어지다는 변화! 점점(gradually)·갑자기(suddenly)와 잘 어울려요.",
+      "g2_tip_eng": "-아/어지다 = change of state. Often paired with 점점 or 갑자기.",
+      "g2_exs": [
+        [
+          "요즘 한국어 실력이 좋아지고 있어요.",
+          "My Korean is getting better these days."
+        ],
+        [
+          "날씨가 갑자기 나빠졌어요.",
+          "The weather suddenly got worse."
+        ],
+        [
+          "시험이 끝나서 기분이 좋아졌어요.",
+          "I feel better because the exam is over."
+        ]
+      ],
+      "g2_prac": [
+        "1. 날씨 좋아지다 → 날씨가 _____.",
+        "2. 점점 피곤해지다(하다A) → 요즘 _____.",
+        "3. 갑자기 슬퍼지다 → 갑자기 _____."
+      ],
+      "reading_title": "켄의 변화",
+      "reading_title_eng": "Ken's Change",
+      "reading_text": [
+        "요즘 켄이 많이 달라 보여요.",
+        "예전에는 피곤해 보였는데 요즘은 밝아 보여요.",
+        "한국어 실력도 많이 좋아졌어요.",
+        "열심히 공부하기 때문에 점점 나아지고 있어요.",
+        "린도 켄이 건강해 보인다고 했어요.",
+        "",
+        "Ken seems very different these days.",
+        "Before he looked tired, but these days he looks bright.",
+        "His Korean skills have also improved a lot.",
+        "Because he studies hard, he is gradually getting better.",
+        "Linh also said Ken looks healthy."
+      ],
+      "q_labels": [
+        "Q1. 요즘 켄은 어떻게 보여요? (How does Ken look these days?)",
+        "Q2. 왜 켄의 한국어 실력이 좋아졌어요? (Why has Ken's Korean improved?)",
+        "Q3. 맞으면 O, 틀리면 X — 예전에 켄은 밝아 보였어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "린",
+          "켄, 요즘 많이 좋아 보여요."
+        ],
+        [
+          "켄",
+          "정말요? 요즘 운동을 시작해서 건강해졌어요."
+        ],
+        [
+          "린",
+          "저도 운동을 해 보고 싶어요. 어렵지 않아요?"
+        ],
+        [
+          "켄",
+          "처음에는 힘들었는데 점점 쉬워졌어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 켄이 좋아 보이는 이유는?",
+          [
+            "① 잠을 많이 자서",
+            "② 운동을 시작해서",
+            "③ 밥을 잘 먹어서",
+            "④ 공부를 열심히 해서"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 처음에 운동은 어떠했어요?",
+          [
+            "① 쉬웠어요.",
+            "② 재미있었어요.",
+            "③ 힘들었어요.",
+            "④ 무서웠어요."
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "외양·변화 유형",
+      "topik_tip": "💡 -아/어 보이다(외모 인상) vs -아/어지다(상태 변화) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n얼굴이 많이 피곤해_____.",
+          [
+            "① 보여요",
+            "② 졌어요",
+            "③ 해요",
+            "④ 있어요"
+          ],
+          "정답: ① (외모 인상→-아/어 보이다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n한국어 실력이 많이 좋아_____.",
+          [
+            "① 보여요",
+            "② 졌어요",
+            "③ 해요",
+            "④ 있어요"
+          ],
+          "정답: ② (상태 변화→-아/어지다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"오늘 켄이 피곤해 보였다. 운동을 시작한 후 건강해졌다.\"",
+          [
+            "① 처음부터 건강했어요.",
+            "② 운동 후에 건강해졌어요.",
+            "③ 켄은 피곤하지 않아요.",
+            "④ 운동을 싫어해요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-아/어 보이다",
+          "피곤해 보여요. / 행복해 보여요.",
+          "looks tired / happy"
+        ],
+        [
+          "-아/어지다",
+          "좋아졌어요. / 힘들어져요.",
+          "got better / is getting harder"
+        ],
+        [
+          "감정 어휘",
+          "기쁘다 / 슬프다 / 화나다",
+          "happy / sad / angry"
+        ],
+        [
+          "변화 표현",
+          "점점 / 갑자기 / 훨씬",
+          "gradually / suddenly / much more"
+        ],
+        [
+          "위로·공감",
+          "많이 힘들죠? / 괜찮아질 거예요.",
+          "It must be tough / You'll be fine."
+        ]
+      ],
+      "checklist": [
+        "-아/어 보이다로 외모 인상을 표현해요.",
+        "-아/어지다로 상태 변화를 표현해요.",
+        "두 문법의 차이를 구별해요.",
+        "감정·변화 어휘 10개 이상 알아요.",
+        "감정을 묻고 위로해요."
+      ],
+      "mission": "오늘 만난 사람의 외모와 자신의 감정 변화를 말해보세요.",
+      "mission_eng": "Describe how someone looks and how your feelings have changed.",
+      "writing_prompt": "최근 변화를 -아/어 보이다와 -아/어지다를 포함해 3문장으로 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about recent changes.",
+      "topik_vocab": [
+        [
+          "T01",
+          "감정",
+          "emotion"
+        ],
+        [
+          "T02",
+          "표현",
+          "expression"
+        ],
+        [
+          "T03",
+          "느낌",
+          "feeling"
+        ],
+        [
+          "T04",
+          "인상",
+          "impression"
+        ],
+        [
+          "T05",
+          "분위기",
+          "atmosphere"
+        ],
+        [
+          "T06",
+          "태도",
+          "attitude"
+        ],
+        [
+          "T07",
+          "반응",
+          "reaction"
+        ],
+        [
+          "T08",
+          "공감",
+          "empathy"
+        ],
+        [
+          "T09",
+          "위로",
+          "comfort"
+        ],
+        [
+          "T10",
+          "격려",
+          "encouragement"
+        ]
+      ]
+    },
+    {
+      "title": "비교 · 경향",
+      "title_eng": "Comparison & Tendency",
+      "chars": "Minjun, Amina",
+      "must_vocab": [
+        [
+          "01",
+          "⚖️",
+          "비교하다",
+          "to compare",
+          "두 가지를 비교해요."
+        ],
+        [
+          "02",
+          "📈",
+          "더",
+          "more",
+          "이게 더 비싸요."
+        ],
+        [
+          "03",
+          "📉",
+          "덜",
+          "less",
+          "저게 덜 비싸요."
+        ],
+        [
+          "04",
+          "🏆",
+          "훨씬",
+          "much more / far",
+          "훨씬 좋아요."
+        ],
+        [
+          "05",
+          "🟰",
+          "비슷하다",
+          "to be similar",
+          "가격이 비슷해요."
+        ],
+        [
+          "06",
+          "📊",
+          "차이",
+          "difference",
+          "차이가 있어요."
+        ],
+        [
+          "07",
+          "🛒",
+          "시장",
+          "market",
+          "시장이 더 싸요."
+        ],
+        [
+          "08",
+          "🏬",
+          "백화점",
+          "department store",
+          "백화점이 더 비싸요."
+        ],
+        [
+          "09",
+          "👗",
+          "사이즈",
+          "size",
+          "사이즈가 맞아요?"
+        ],
+        [
+          "10",
+          "✨",
+          "예쁘다",
+          "pretty / beautiful",
+          "이게 더 예쁜 편이에요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "조용하다",
+          "to be quiet",
+          "저는 조용한 편이에요."
+        ],
+        [
+          "12",
+          "활발하다",
+          "to be active",
+          "활발한 편이에요."
+        ],
+        [
+          "13",
+          "부지런하다",
+          "to be diligent",
+          "부지런한 편이에요."
+        ],
+        [
+          "14",
+          "게으르다",
+          "to be lazy",
+          "게으른 편이에요."
+        ],
+        [
+          "15",
+          "내성적",
+          "introverted",
+          "내성적인 편이에요."
+        ],
+        [
+          "16",
+          "외향적",
+          "extroverted",
+          "외향적인 편이에요."
+        ],
+        [
+          "17",
+          "일반적으로",
+          "generally",
+          "일반적으로 그런 편이에요."
+        ],
+        [
+          "18",
+          "대체로",
+          "generally / mostly",
+          "대체로 조용한 편이에요."
+        ],
+        [
+          "19",
+          "그다지",
+          "not particularly",
+          "그다지 비싸지 않는 편이에요."
+        ],
+        [
+          "20",
+          "상대적으로",
+          "relatively",
+          "상대적으로 싼 편이에요."
+        ]
+      ],
+      "g1_name": "N보다 더/덜 A (비교)",
+      "g1_name_eng": "N보다 더/덜 A: more/less than N (comparison)",
+      "g1_desc": "두 대상을 비교할 때 써요. 「A가 B보다 더/덜 + 형용사」 어순을 꼭 지켜요. 보다=than, 더=more, 덜=less.",
+      "g1_desc_eng": "Compare two things. Fixed order: subject + 보다(than) + 더/덜(more/less) + adjective.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "A가 B보다 더 C",
+          "이게 저것보다 더 비싸요.",
+          "A > B",
+          "This is more expensive than that."
+        ],
+        [
+          "A가 B보다 덜 C",
+          "이게 저것보다 덜 비싸요.",
+          "A < B",
+          "This is less expensive than that."
+        ],
+        [
+          "A와 B 중에서 더",
+          "둘 중에서 뭐가 더 예뻐요?",
+          "선택 비교",
+          "Which is more pretty of the two?"
+        ],
+        [
+          "N만큼 + A",
+          "저만큼 키가 커요.",
+          "동등",
+          "As tall as me."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "어순 주의",
+          "보다+더/덜+형용사 순서 절대 유지",
+          "이게 저것보다 더 비싸요 ✅ / 이게 더 비싸요 저것보다 ❌"
+        ],
+        [
+          "훨씬",
+          "보다 훨씬 더 = much more",
+          "이게 저것보다 훨씬 더 비싸요"
+        ]
+      ],
+      "g1_tip": "보다=than / 더=more / 덜=less 이 순서가 핵심이에요!",
+      "g1_tip_eng": "보다=than. 더=more. 덜=less. Always: A + 보다 + 더/덜 + adjective.",
+      "g1_exs": [
+        [
+          "시장이 백화점보다 더 싸요.",
+          "The market is cheaper than a department store."
+        ],
+        [
+          "파란 옷이 빨간 옷보다 훨씬 예뻐요.",
+          "The blue outfit is much prettier than the red one."
+        ],
+        [
+          "둘 중에서 어느 것이 더 좋아요?",
+          "Which is better of the two?"
+        ]
+      ],
+      "g1_prac": [
+        "1. 이것이 저것보다 크다 → 이것이 저것보다 _____.",
+        "2. A가 B보다 싸다 → A가 B보다 _____.",
+        "3. 둘 중 더 좋다? → 둘 중에서 어느 것이 _____ 좋아요?"
+      ],
+      "g2_name": "V/A-(으)ㄴ/는 편이다 (경향·정도)",
+      "g2_name_eng": "V/A-(으)ㄴ/는 편이다: tend to / rather (tendency)",
+      "g2_desc": "어떤 경향이나 성향을 나타내요. V현재는 -는 편이다, A는 받침 O이면 -(으)ㄴ 편이다, 받침 X이면 -ㄴ 편이다.",
+      "g2_desc_eng": "Expresses tendency. Action V (present)→-는 편이다. State A: consonant→-(으)ㄴ, vowel→-ㄴ.",
+      "g2_cols": [
+        "품사·받침",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V 현재 (무관)",
+          "V-는 편이다",
+          "운동하는 편이에요.",
+          "I tend to exercise."
+        ],
+        [
+          "A 받침 O",
+          "A-(으)ㄴ 편이다",
+          "조용한 편이에요.",
+          "I'm rather quiet."
+        ],
+        [
+          "A 받침 X",
+          "A-ㄴ 편이다",
+          "바쁜 편이에요. / 큰 편이에요.",
+          "I'm rather busy. / big."
+        ],
+        [
+          "부정",
+          "별로 -지 않는 편이다",
+          "많이 먹지 않는 편이에요.",
+          "I tend not to eat much."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs 자주/항상",
+          "-(으)ㄴ/는 편이다: 대체적 경향 / 자주·항상: 빈도 횟수",
+          "자주 운동해요 (빈도) / 운동하는 편이에요 (경향)"
+        ]
+      ],
+      "g2_tip": "-(으)ㄴ/는 편이다는 \"대체로 ~한 경향이 있다\"! 단정적 표현보다 부드러워요.",
+      "g2_tip_eng": "-(으)ㄴ/는 편이다= \"tend to / rather ~\". Softer and less absolute than direct statements.",
+      "g2_exs": [
+        [
+          "저는 조용한 편이에요.",
+          "I'm rather quiet (by nature)."
+        ],
+        [
+          "책을 자주 읽는 편이에요.",
+          "I tend to read books often."
+        ],
+        [
+          "별로 바쁘지 않는 편이에요.",
+          "I tend not to be very busy."
+        ]
+      ],
+      "g2_prac": [
+        "1. 조용하다(A,받침O) → 저는 _____.",
+        "2. 운동하다(V) → 저는 운동하는 _____.",
+        "3. 많이 안 먹다(부정) → 저는 많이 먹지 않는 _____."
+      ],
+      "reading_title": "아미나의 쇼핑",
+      "reading_title_eng": "Amina's Shopping",
+      "reading_text": [
+        "아미나는 절약하는 편이에요.",
+        "시장이 백화점보다 훨씬 싸기 때문에 시장을 자주 가요.",
+        "파란 옷과 빨간 옷 중에서 고민했는데",
+        "파란 옷이 빨간 옷보다 더 예쁜 것 같아서 샀어요.",
+        "민준은 비싼 것을 사는 편인데 오늘은 절약했어요.",
+        "",
+        "Amina tends to be frugal.",
+        "Because the market is much cheaper than a department store, she often goes there.",
+        "She was deciding between a blue and red outfit,",
+        "and she bought the blue one because it seemed prettier.",
+        "Minjun tends to buy expensive things but today he was frugal."
+      ],
+      "q_labels": [
+        "Q1. 아미나는 어디서 자주 쇼핑해요? (Where does Amina often shop?)",
+        "Q2. 아미나는 왜 파란 옷을 샀어요? (Why did Amina buy the blue outfit?)",
+        "Q3. 맞으면 O, 틀리면 X — 아미나는 비싼 것을 좋아하는 편이에요. (   )"
+      ],
+      "listening_script": [
+        [
+          "아미나",
+          "민준, 이 두 옷 중에서 어느 게 더 예뻐 보여요?"
+        ],
+        [
+          "민준",
+          "파란 옷이 더 예뻐 보여요. 근데 빨간 옷이 더 싼 것 같아요."
+        ],
+        [
+          "아미나",
+          "저는 절약하는 편이라서 싼 걸 사야 해요."
+        ],
+        [
+          "민준",
+          "그럼 빨간 옷이 파란 옷보다 훨씬 싸니까 빨간 옷 사세요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 어느 옷이 더 예뻐 보여요?",
+          [
+            "① 빨간 옷",
+            "② 파란 옷",
+            "③ 둘 다",
+            "④ 모름"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 아미나는 왜 싼 것을 사야 해요?",
+          [
+            "① 돈이 없어서",
+            "② 절약하는 편이라서",
+            "③ 비싼 게 싫어서",
+            "④ 민준이 말해서"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "비교·경향 유형",
+      "topik_tip": "💡 N보다 더/덜(비교) vs -(으)ㄴ/는 편이다(경향) 같이 써보세요!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n시장이 백화점_____ 더 싸요.",
+          [
+            "① 보다",
+            "② 만큼",
+            "③ 처럼",
+            "④ 보고"
+          ],
+          "정답: ① (비교 기준→보다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n저는 조용한_____.",
+          [
+            "① 편이에요",
+            "② 거예요",
+            "③ 적이에요",
+            "④ 게요"
+          ],
+          "정답: ① (경향→-(으)ㄴ/는 편이다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"파란 옷이 빨간 옷보다 더 비싸지만 더 예뻐요.\"",
+          [
+            "① 빨간 옷이 더 비싸요.",
+            "② 파란 옷이 더 싸요.",
+            "③ 파란 옷이 더 비싸고 더 예뻐요.",
+            "④ 두 옷의 가격이 같아요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "N보다 더",
+          "시장이 백화점보다 더 싸요.",
+          "Market is cheaper than department store."
+        ],
+        [
+          "N보다 덜",
+          "이게 저것보다 덜 비싸요.",
+          "This is less expensive than that."
+        ],
+        [
+          "-(으)ㄴ/는 편이다",
+          "조용한 편이에요.",
+          "I'm rather quiet."
+        ],
+        [
+          "훨씬",
+          "훨씬 더 싸요.",
+          "Much cheaper."
+        ],
+        [
+          "비교 묻기",
+          "어느 게 더 좋아요?",
+          "Which is better?"
+        ]
+      ],
+      "checklist": [
+        "N보다 더/덜로 두 가지를 비교해요.",
+        "비교 표현의 어순을 지켜요.",
+        "-(으)ㄴ/는 편이다로 경향을 표현해요.",
+        "V와 A에 따른 편이다 형태를 알아요.",
+        "비교·성격 어휘 10개 이상 알아요."
+      ],
+      "mission": "자신의 성향과 두 가지 물건을 비교하는 말을 해보세요.",
+      "mission_eng": "Describe your personality tendencies and compare two things.",
+      "writing_prompt": "자신의 성격을 -(으)ㄴ/는 편이다로, 두 가지 비교를 N보다 더/덜로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences: personality with 편이다, comparison with 보다 더/덜.",
+      "topik_vocab": [
+        [
+          "T01",
+          "비교",
+          "comparison"
+        ],
+        [
+          "T02",
+          "차이",
+          "difference"
+        ],
+        [
+          "T03",
+          "공통점",
+          "similarity"
+        ],
+        [
+          "T04",
+          "특징",
+          "characteristic"
+        ],
+        [
+          "T05",
+          "장점",
+          "advantage"
+        ],
+        [
+          "T06",
+          "단점",
+          "disadvantage"
+        ],
+        [
+          "T07",
+          "경향",
+          "tendency"
+        ],
+        [
+          "T08",
+          "추세",
+          "trend"
+        ],
+        [
+          "T09",
+          "변화",
+          "change"
+        ],
+        [
+          "T10",
+          "현상",
+          "phenomenon"
+        ]
+      ]
+    }
+  ]
+}

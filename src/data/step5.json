@@ -1,0 +1,2264 @@
+{
+  "step": 5,
+  "level": "B1+",
+  "title": "인용·보조동사·피동",
+  "color": "#4ECDC4",
+  "colorDk": "#1A6B65",
+  "units": [
+    {
+      "title": "간접 인용",
+      "title_eng": "Indirect Quotation",
+      "chars": "Linh, Ken",
+      "must_vocab": [
+        [
+          "01",
+          "💬",
+          "말하다",
+          "to say",
+          "선생님이 말했어요."
+        ],
+        [
+          "02",
+          "📢",
+          "전하다",
+          "to convey",
+          "메시지를 전했어요."
+        ],
+        [
+          "03",
+          "🗣️",
+          "물어보다",
+          "to ask",
+          "뭐라고 물어봤어요?"
+        ],
+        [
+          "04",
+          "📝",
+          "대답하다",
+          "to answer",
+          "뭐라고 대답했어요?"
+        ],
+        [
+          "05",
+          "📰",
+          "뉴스",
+          "news",
+          "뉴스에서 뭐라고 했어요?"
+        ],
+        [
+          "06",
+          "🤫",
+          "속삭이다",
+          "to whisper",
+          "뭐라고 했는지 몰라요."
+        ],
+        [
+          "07",
+          "📖",
+          "설명하다",
+          "to explain",
+          "어떻게 설명했어요?"
+        ],
+        [
+          "08",
+          "🔔",
+          "알리다",
+          "to inform / notify",
+          "뭐라고 알렸어요?"
+        ],
+        [
+          "09",
+          "👂",
+          "듣다",
+          "to hear",
+          "뭐라고 들었어요?"
+        ],
+        [
+          "10",
+          "💌",
+          "전달하다",
+          "to deliver / pass on",
+          "전달해 드릴게요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "요청하다",
+          "to request",
+          "뭐라고 요청했어요?"
+        ],
+        [
+          "12",
+          "부탁하다",
+          "to ask a favor",
+          "어떻게 부탁했어요?"
+        ],
+        [
+          "13",
+          "칭찬하다",
+          "to compliment",
+          "뭐라고 칭찬했어요?"
+        ],
+        [
+          "14",
+          "비판하다",
+          "to criticize",
+          "뭐라고 비판했어요?"
+        ],
+        [
+          "15",
+          "동의하다",
+          "to agree",
+          "동의한다고 했어요."
+        ],
+        [
+          "16",
+          "거절하다",
+          "to decline",
+          "거절한다고 했어요."
+        ],
+        [
+          "17",
+          "확인하다",
+          "to confirm",
+          "뭐라고 확인했어요?"
+        ],
+        [
+          "18",
+          "소개하다",
+          "to introduce",
+          "어떻게 소개했어요?"
+        ],
+        [
+          "19",
+          "발표하다",
+          "to present / announce",
+          "뭐라고 발표했어요?"
+        ],
+        [
+          "20",
+          "약속하다",
+          "to promise",
+          "뭐라고 약속했어요?"
+        ]
+      ],
+      "g1_name": "V/A-다고 하다 (간접 인용: 평서)",
+      "g1_name_eng": "V/A-다고 하다: says that / said that (indirect statement)",
+      "g1_desc": "남이 한 말을 간접적으로 전달해요. V현재→-ㄴ/는다고, V과거→-았/었다고, A→-(으)ㄴ다고(문어)/-(으)ㄴ다고, N→(이)라고.",
+      "g1_desc_eng": "Reports what someone said indirectly. V present→-ㄴ/는다고, V past→-았/었다고, A→-다고, N→(이)라고.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V 현재 -ㄴ/는다고",
+          "내일 온다고 했어요.",
+          "현재 진술 인용",
+          "Said they are coming tomorrow."
+        ],
+        [
+          "V 과거 -았/었다고",
+          "어제 갔다고 했어요.",
+          "과거 진술 인용",
+          "Said they went yesterday."
+        ],
+        [
+          "A -다고",
+          "맛있다고 했어요.",
+          "형용사 인용",
+          "Said it is delicious."
+        ],
+        [
+          "N -(이)라고",
+          "학생이라고 했어요.",
+          "명사 인용",
+          "Said they are a student."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "줄임말",
+          "한다고 해요 → 한대요 (구어 줄임)",
+          "맛있다고 해요 → 맛있대요"
+        ]
+      ],
+      "g1_tip": "-다고 해요는 \"~라고 말한다\"! 구어에서는 -대요로 줄여요.",
+      "g1_tip_eng": "-다고 해요 = indirect statement. Shortened to -대요 in casual speech.",
+      "g1_exs": [
+        [
+          "켄이 내일 온다고 했어요.",
+          "Ken said he's coming tomorrow."
+        ],
+        [
+          "선생님이 시험이 쉽다고 했어요.",
+          "The teacher said the exam is easy."
+        ],
+        [
+          "린이 베트남 사람이라고 했어요.",
+          "Linh said she's Vietnamese."
+        ]
+      ],
+      "g1_prac": [
+        "1. 켄: 내일 가다 → 켄이 내일 간_____ 했어요.",
+        "2. 선생님: 어렵다 → 선생님이 어렵_____ 했어요.",
+        "3. 소피아: 의사이다 → 소피아가 의사_____ 했어요."
+      ],
+      "g2_name": "V-(으)라고·냐고 하다 (명령·의문 인용)",
+      "g2_name_eng": "V-(으)라고 하다: told to / V-(으)냐고 하다: asked if/whether",
+      "g2_desc": "명령 인용은 -(으)라고 하다, 의문 인용은 -(으)냐고 하다, 청유 인용은 -자고 하다.",
+      "g2_desc_eng": "Command quote: -(으)라고 하다. Question quote: -(으)냐고 하다. Suggestion quote: -자고 하다.",
+      "g2_cols": [
+        "유형",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "명령 인용",
+          "V-(으)라고 했어요",
+          "가라고 했어요.",
+          "Told (me) to go."
+        ],
+        [
+          "부정명령 인용",
+          "V-지 말라고 했어요",
+          "가지 말라고 했어요.",
+          "Told (me) not to go."
+        ],
+        [
+          "의문 인용",
+          "V/A-(으)냐고 했어요",
+          "어디 가냐고 했어요.",
+          "Asked where (I'm) going."
+        ],
+        [
+          "청유 인용",
+          "V-자고 했어요",
+          "같이 가자고 했어요.",
+          "Suggested (we) go together."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "줄임말",
+          "-(으)라고 해요→-(으)래요 / -(으)냐고 해요→-(으)냬요",
+          "가라고 해요→가래요 / 가냐고 해요→가냬요"
+        ]
+      ],
+      "g2_tip": "명령→(으)라고 / 의문→(으)냐고 / 청유→자고! 구어에선 각각 래요·냬요·재요로 줄여요.",
+      "g2_tip_eng": "Command→(으)라고 / Question→(으)냐고 / Suggestion→자고. Shortened in casual speech.",
+      "g2_exs": [
+        [
+          "선생님이 앉으라고 했어요.",
+          "The teacher told us to sit down."
+        ],
+        [
+          "어디 가냐고 물어봤어요.",
+          "(They) asked where I was going."
+        ],
+        [
+          "같이 밥 먹자고 했어요.",
+          "(They) suggested eating together."
+        ]
+      ],
+      "g2_prac": [
+        "1. 선생님: 앉으세요 → 선생님이 앉_____ 했어요.",
+        "2. 친구: 어디 가요? → 친구가 어디 가_____ 했어요.",
+        "3. 린: 같이 가자 → 린이 같이 가_____ 했어요."
+      ],
+      "reading_title": "소문이 퍼졌어요",
+      "reading_title_eng": "Rumors Spread",
+      "reading_text": [
+        "켄이 린한테 내일 파티가 있다고 했어요.",
+        "린은 소피아한테 파티에 오라고 했어요.",
+        "소피아는 아흐마드한테 몇 시냐고 물어봤어요.",
+        "아흐마드는 저녁 7시라고 했어요.",
+        "모두 같이 가자고 해서 신나요!",
+        "",
+        "Ken told Linh there's a party tomorrow.",
+        "Linh told Sofia to come to the party.",
+        "Sofia asked Ahmad what time it is.",
+        "Ahmad said it's 7 PM.",
+        "Everyone suggested going together so it's exciting!"
+      ],
+      "q_labels": [
+        "Q1. 켄이 린한테 뭐라고 했어요? (What did Ken tell Linh?)",
+        "Q2. 파티는 몇 시예요? (What time is the party?)",
+        "Q3. 맞으면 O, 틀리면 X — 소피아가 파티를 열어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "린",
+          "켄, 선생님이 뭐라고 했어요?"
+        ],
+        [
+          "켄",
+          "내일 시험이 있다고 했어요. 어렵지 않다고도 했어요."
+        ],
+        [
+          "린",
+          "숙제도 내라고 했어요?"
+        ],
+        [
+          "켄",
+          "네, 오늘까지 제출하라고 했어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 선생님이 뭐라고 했어요?",
+          [
+            "① 시험이 없다고",
+            "② 내일 시험이 있다고",
+            "③ 숙제가 없다고",
+            "④ 쉬라고"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 숙제를 언제까지 내야 해요?",
+          [
+            "① 내일까지",
+            "② 이번 주말까지",
+            "③ 오늘까지",
+            "④ 다음 주까지"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "간접 인용 유형",
+      "topik_tip": "💡 -다고(평서) / -(으)라고(명령) / -(으)냐고(의문) / -자고(청유) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n켄이 내일 온_____.",
+          [
+            "① 다고 했어요",
+            "② 라고 했어요",
+            "③ 냐고 했어요",
+            "④ 자고 했어요"
+          ],
+          "정답: ① (평서 인용)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n선생님이 앉_____.",
+          [
+            "① 다고 했어요",
+            "② 으라고 했어요",
+            "③ 냐고 했어요",
+            "④ 자고 했어요"
+          ],
+          "정답: ② (명령 인용)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"린이 파티에 오라고 했어요.\"",
+          [
+            "① 린이 파티에 갔어요.",
+            "② 린이 파티에 오지 말라고 했어요.",
+            "③ 린이 파티에 오라고 했어요.",
+            "④ 린이 파티를 열었어요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-다고 했어요",
+          "온다고 했어요.",
+          "Said they're coming."
+        ],
+        [
+          "-(으)라고 했어요",
+          "앉으라고 했어요.",
+          "Told (me) to sit."
+        ],
+        [
+          "-(으)냐고 했어요",
+          "어디 가냐고 했어요.",
+          "Asked where going."
+        ],
+        [
+          "-자고 했어요",
+          "같이 가자고 했어요.",
+          "Suggested going together."
+        ],
+        [
+          "줄임말",
+          "-대요 / -래요 / -냬요 / -재요",
+          "casual shortened forms"
+        ]
+      ],
+      "checklist": [
+        "평서문 간접 인용(-다고)을 써요.",
+        "명령문 간접 인용(-(으)라고)을 써요.",
+        "의문문 간접 인용(-(으)냐고)을 써요.",
+        "청유문 간접 인용(-자고)을 써요.",
+        "구어 줄임말(-대요/-래요)을 알아요."
+      ],
+      "mission": "친구나 선생님이 한 말을 간접 인용으로 전달해보세요.",
+      "mission_eng": "Report what a friend or teacher said using indirect quotation.",
+      "writing_prompt": "오늘 들은 말을 간접 인용으로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences reporting what you heard today.",
+      "topik_vocab": [
+        [
+          "T01",
+          "인용",
+          "quotation"
+        ],
+        [
+          "T02",
+          "전달",
+          "conveyance"
+        ],
+        [
+          "T03",
+          "보고",
+          "report"
+        ],
+        [
+          "T04",
+          "주장",
+          "claim"
+        ],
+        [
+          "T05",
+          "발언",
+          "statement"
+        ],
+        [
+          "T06",
+          "언급",
+          "mention"
+        ],
+        [
+          "T07",
+          "설명",
+          "explanation"
+        ],
+        [
+          "T08",
+          "묘사",
+          "description"
+        ],
+        [
+          "T09",
+          "표현",
+          "expression"
+        ],
+        [
+          "T10",
+          "전달자",
+          "conveyor"
+        ]
+      ]
+    },
+    {
+      "title": "보조동사",
+      "title_eng": "Auxiliary Verbs",
+      "chars": "Sofia, Ahmad",
+      "must_vocab": [
+        [
+          "01",
+          "🤝",
+          "도와주다",
+          "to help",
+          "도와주셔서 감사해요."
+        ],
+        [
+          "02",
+          "📦",
+          "가져다주다",
+          "to bring for someone",
+          "가져다줄게요."
+        ],
+        [
+          "03",
+          "📖",
+          "읽어 주다",
+          "to read for someone",
+          "읽어 주세요."
+        ],
+        [
+          "04",
+          "😤",
+          "버리다",
+          "to throw away",
+          "먹어 버렸어요."
+        ],
+        [
+          "05",
+          "✅",
+          "끝내다",
+          "to finish",
+          "끝내 버렸어요."
+        ],
+        [
+          "06",
+          "😮",
+          "놀라다",
+          "to be surprised",
+          "놀라 버렸어요."
+        ],
+        [
+          "07",
+          "💪",
+          "해내다",
+          "to accomplish",
+          "해내 버렸어요."
+        ],
+        [
+          "08",
+          "🎁",
+          "선물하다",
+          "to give as gift",
+          "선물해 줄게요."
+        ],
+        [
+          "09",
+          "📝",
+          "써 주다",
+          "to write for someone",
+          "써 주세요."
+        ],
+        [
+          "10",
+          "🗑️",
+          "치우다",
+          "to clean up / clear away",
+          "치워 버렸어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "설명해 주다",
+          "to explain for someone",
+          "설명해 주세요."
+        ],
+        [
+          "12",
+          "가르쳐 주다",
+          "to teach (for someone)",
+          "가르쳐 주셔서 감사해요."
+        ],
+        [
+          "13",
+          "번역해 주다",
+          "to translate for someone",
+          "번역해 줄 수 있어요?"
+        ],
+        [
+          "14",
+          "기다려 주다",
+          "to wait for someone",
+          "기다려 줘서 고마워요."
+        ],
+        [
+          "15",
+          "골라 버리다",
+          "to choose and be done",
+          "골라 버렸어요."
+        ],
+        [
+          "16",
+          "잊어버리다",
+          "to forget completely",
+          "잊어버렸어요."
+        ],
+        [
+          "17",
+          "먹어버리다",
+          "to eat it all up",
+          "다 먹어버렸어요."
+        ],
+        [
+          "18",
+          "잃어버리다",
+          "to lose completely",
+          "잃어버렸어요."
+        ],
+        [
+          "19",
+          "써 버리다",
+          "to use up",
+          "다 써버렸어요."
+        ],
+        [
+          "20",
+          "떠나 버리다",
+          "to just leave / leave for good",
+          "떠나 버렸어요."
+        ]
+      ],
+      "g1_name": "V-아/어 주다 (행위 제공·부탁)",
+      "g1_name_eng": "V-아/어 주다: do something for someone (benefactive)",
+      "g1_desc": "남을 위해 무언가 해줄 때 써요. 어간 모음이 ㅏ/ㅗ이면 -아 주다, 그 외이면 -어 주다, 하다이면 -해 주다.",
+      "g1_desc_eng": "Expresses doing something for someone's benefit. ㅏ/ㅗ→-아 주다, others→-어 주다, 하다→-해 주다.",
+      "g1_cols": [
+        "어간 모음",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "ㅏ/ㅗ 모음",
+          "-아 주다",
+          "도와 줘요. / 사줬어요.",
+          "Help (me). / bought (for me)."
+        ],
+        [
+          "그 외 모음",
+          "-어 주다",
+          "읽어 줘요. / 가르쳐 줘요.",
+          "Read (for me). / teach (me)."
+        ],
+        [
+          "하다",
+          "-해 주다",
+          "설명해 줘요. / 준비해 줬어요.",
+          "Explain (for me). / prepared."
+        ],
+        [
+          "공손형",
+          "-아/어 주시다",
+          "말씀해 주세요.",
+          "Please tell me. (honorific)"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "드리다",
+          "손윗사람에게는 주다→드리다",
+          "도와드릴게요 / 가르쳐 드릴게요"
+        ]
+      ],
+      "g1_tip": "손윗사람에게는 주다→드리다! 도와줘요 vs 도와드릴게요.",
+      "g1_tip_eng": "For seniors/elders: 주다→드리다. 도와줘요 (to peer) vs 도와드릴게요 (to elder).",
+      "g1_exs": [
+        [
+          "숙제를 도와 줬어요.",
+          "(They) helped me with my homework."
+        ],
+        [
+          "한국어를 가르쳐 주세요.",
+          "Please teach me Korean."
+        ],
+        [
+          "짐을 들어 드릴게요.",
+          "I'll carry your luggage. (to elder)"
+        ]
+      ],
+      "g1_prac": [
+        "1. 도와주다 → 숙제를 _____ 줄 수 있어요?",
+        "2. 설명해 주다 → 이거 _____ 주세요.",
+        "3. 어른+가르치다 → 가르쳐 _____."
+      ],
+      "g2_name": "V-아/어 버리다 (완료·아쉬움·후련)",
+      "g2_name_eng": "V-아/어 버리다: do completely / end up doing (regret or relief)",
+      "g2_desc": "행동이 완전히 끝났음을 나타내요. 아쉬운 완료(잃어버렸어요)와 후련한 완료(끝내 버렸어요) 두 가지 의미로 써요.",
+      "g2_desc_eng": "Expresses completion of an action. Can express regret (lost it) or relief (finally done).",
+      "g2_cols": [
+        "어간 모음",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "ㅏ/ㅗ 모음",
+          "-아 버리다",
+          "잊어버렸어요. / 잃어버렸어요.",
+          "Completely forgot. / lost it."
+        ],
+        [
+          "그 외 모음",
+          "-어 버리다",
+          "먹어 버렸어요. / 끝내버렸어요.",
+          "Ate it all up. / finished it."
+        ],
+        [
+          "하다",
+          "-해 버리다",
+          "말해버렸어요. / 포기해버렸어요.",
+          "Blurted it out. / gave up."
+        ],
+        [
+          "후련한 완료",
+          "-어 버리다",
+          "드디어 끝내버렸어요!",
+          "Finally got it done! (relief)"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "문맥 의존",
+          "같은 형태, 다른 감정",
+          "잃어버렸어요 (아쉬움) / 끝내버렸어요 (후련)"
+        ]
+      ],
+      "g2_tip": "-아/어 버리다는 완전히 끝! 문맥에 따라 아쉬움 또는 후련함이에요.",
+      "g2_tip_eng": "-아/어 버리다 = completely done. Context decides: regret or relief.",
+      "g2_exs": [
+        [
+          "숙제를 다 끝내버렸어요!",
+          "I've completely finished all my homework! (relief)"
+        ],
+        [
+          "지갑을 잃어버렸어요.",
+          "I've completely lost my wallet. (regret)"
+        ],
+        [
+          "비밀을 말해버렸어요.",
+          "I blurted out the secret. (regret)"
+        ]
+      ],
+      "g2_prac": [
+        "1. 숙제 끝내다(후련) → 드디어 숙제를 끝내_____.",
+        "2. 지갑 잃다(아쉬움) → 지갑을 잃어_____.",
+        "3. 다 먹다(완료) → 음식을 다 먹어_____."
+      ],
+      "reading_title": "소피아의 부탁",
+      "reading_title_eng": "Sofia's Request",
+      "reading_text": [
+        "소피아가 아흐마드한테 부탁을 했어요.",
+        "한국어 숙제를 도와 달라고 했어요.",
+        "아흐마드는 기꺼이 도와줬어요.",
+        "두 시간 동안 설명해 줬는데 소피아가 다 이해해 버렸어요.",
+        "아흐마드는 가르치는 것이 재미있게 됐어요.",
+        "",
+        "Sofia made a request to Ahmad.",
+        "She asked him to help with her Korean homework.",
+        "Ahmad gladly helped her.",
+        "He explained for two hours and Sofia completely understood it.",
+        "Ahmad has come to enjoy teaching."
+      ],
+      "q_labels": [
+        "Q1. 소피아는 아흐마드에게 무슨 부탁을 했어요? (What did Sofia request from Ahmad?)",
+        "Q2. 아흐마드는 얼마나 설명해 줬어요? (How long did Ahmad explain?)",
+        "Q3. 맞으면 O, 틀리면 X — 소피아는 이해를 못 했어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "소피아",
+          "아흐마드, 이거 좀 설명해 줄 수 있어요?"
+        ],
+        [
+          "아흐마드",
+          "물론이죠! 도와드릴게요."
+        ],
+        [
+          "소피아",
+          "감사해요. 혼자 해 보려고 했는데 잊어버렸어요."
+        ],
+        [
+          "아흐마드",
+          "괜찮아요. 같이 하면 금방 끝내버릴 수 있어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 소피아가 요청한 것은?",
+          [
+            "① 같이 밥 먹기",
+            "② 설명해 주기",
+            "③ 숙제 대신 해 주기",
+            "④ 번역해 주기"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 소피아가 왜 도움을 요청했어요?",
+          [
+            "① 시간이 없어서",
+            "② 잊어버려서",
+            "③ 어려워서",
+            "④ 귀찮아서"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "보조동사 유형",
+      "topik_tip": "💡 -아/어 주다(혜택 제공) vs 드리다(손윗사람) / -아/어 버리다(완전 완료)!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n선생님께 설명해 _____.",
+          [
+            "① 줬어요",
+            "② 드렸어요",
+            "③ 버렸어요",
+            "④ 있어요"
+          ],
+          "정답: ② (손윗사람→드리다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n숙제를 다 끝내_____!",
+          [
+            "① 줬어요",
+            "② 드렸어요",
+            "③ 버렸어요",
+            "④ 있어요"
+          ],
+          "정답: ③ (완전 완료→버리다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"아흐마드가 소피아 숙제를 도와줬어요.\"",
+          [
+            "① 소피아가 아흐마드를 도왔어요.",
+            "② 아흐마드가 소피아를 위해 도움을 줬어요.",
+            "③ 소피아가 숙제를 혼자 했어요.",
+            "④ 아흐마드가 숙제를 대신 했어요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-아/어 주다",
+          "도와줬어요. / 가르쳐 줬어요.",
+          "helped / taught (for me)"
+        ],
+        [
+          "-아/어 드리다",
+          "도와드렸어요.",
+          "helped (for elder)"
+        ],
+        [
+          "-아/어 버리다 (후련)",
+          "끝내버렸어요!",
+          "completely finished!"
+        ],
+        [
+          "-아/어 버리다 (아쉬움)",
+          "잃어버렸어요.",
+          "completely lost (regret)"
+        ],
+        [
+          "부탁 표현",
+          "-아/어 줄 수 있어요?",
+          "Can you do ~ for me?"
+        ]
+      ],
+      "checklist": [
+        "-아/어 주다로 혜택 행위를 표현해요.",
+        "손윗사람에게 드리다를 써요.",
+        "-아/어 버리다의 두 감정(후련·아쉬움)을 알아요.",
+        "부탁 표현을 자연스럽게 써요.",
+        "보조동사 어휘 10개 이상 알아요."
+      ],
+      "mission": "친구에게 부탁하는 대화와 완전히 끝낸 일을 말해보세요.",
+      "mission_eng": "Ask a friend for a favor and talk about something you completely finished.",
+      "writing_prompt": "도움을 주고받은 경험을 -아/어 주다와 -아/어 버리다로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about giving/receiving help and completing something.",
+      "topik_vocab": [
+        [
+          "T01",
+          "혜택",
+          "benefit"
+        ],
+        [
+          "T02",
+          "봉사",
+          "service/volunteer"
+        ],
+        [
+          "T03",
+          "지원",
+          "support"
+        ],
+        [
+          "T04",
+          "협력",
+          "cooperation"
+        ],
+        [
+          "T05",
+          "기여",
+          "contribution"
+        ],
+        [
+          "T06",
+          "도움",
+          "help"
+        ],
+        [
+          "T07",
+          "책임",
+          "responsibility"
+        ],
+        [
+          "T08",
+          "의무",
+          "obligation"
+        ],
+        [
+          "T09",
+          "역할",
+          "role"
+        ],
+        [
+          "T10",
+          "참여",
+          "participation"
+        ]
+      ]
+    },
+    {
+      "title": "결과 지속",
+      "title_eng": "Resultant States",
+      "chars": "Carlos, David",
+      "must_vocab": [
+        [
+          "01",
+          "🚪",
+          "열리다",
+          "to be open",
+          "문이 열려 있어요."
+        ],
+        [
+          "02",
+          "🔒",
+          "잠기다",
+          "to be locked",
+          "문이 잠겨 있어요."
+        ],
+        [
+          "03",
+          "🛋️",
+          "앉다",
+          "to sit",
+          "소파에 앉아 있어요."
+        ],
+        [
+          "04",
+          "🖼️",
+          "걸다",
+          "to hang",
+          "벽에 그림이 걸려 있어요."
+        ],
+        [
+          "05",
+          "📦",
+          "놓다",
+          "to place / set down",
+          "책상에 책을 놓아 뒀어요."
+        ],
+        [
+          "06",
+          "🗄️",
+          "보관하다",
+          "to store",
+          "냉장고에 넣어 뒀어요."
+        ],
+        [
+          "07",
+          "✏️",
+          "준비하다",
+          "to prepare",
+          "미리 준비해 놨어요."
+        ],
+        [
+          "08",
+          "💻",
+          "켜다",
+          "to turn on",
+          "컴퓨터가 켜져 있어요."
+        ],
+        [
+          "09",
+          "💡",
+          "끄다",
+          "to turn off",
+          "불이 꺼져 있어요."
+        ],
+        [
+          "10",
+          "📋",
+          "적다",
+          "to write down",
+          "메모해 놨어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "펼치다",
+          "to spread out",
+          "책을 펼쳐 놨어요."
+        ],
+        [
+          "12",
+          "접다",
+          "to fold",
+          "종이를 접어 놨어요."
+        ],
+        [
+          "13",
+          "붙이다",
+          "to stick / attach",
+          "벽에 붙여 놨어요."
+        ],
+        [
+          "14",
+          "세우다",
+          "to set up / erect",
+          "계획을 세워 놨어요."
+        ],
+        [
+          "15",
+          "사다",
+          "to buy",
+          "미리 사 놨어요."
+        ],
+        [
+          "16",
+          "예약하다",
+          "to reserve",
+          "예약해 놨어요."
+        ],
+        [
+          "17",
+          "고치다",
+          "to fix",
+          "고쳐 놨어요."
+        ],
+        [
+          "18",
+          "정리하다",
+          "to organize",
+          "정리해 놨어요."
+        ],
+        [
+          "19",
+          "씻다",
+          "to wash",
+          "씻어 놨어요."
+        ],
+        [
+          "20",
+          "남기다",
+          "to leave behind",
+          "메모를 남겨 놨어요."
+        ]
+      ],
+      "g1_name": "V-아/어 있다 (상태 지속)",
+      "g1_name_eng": "V-아/어 있다: to be in the state of (resultant state)",
+      "g1_desc": "어떤 동작의 결과 상태가 지속됨을 나타내요. 자동사(자다·열리다 등)+아/어 있다. -고 있다(진행)와 구별해야 해요.",
+      "g1_desc_eng": "Expresses the continuing state resulting from an action. Intransitive V+아/어 있다. Distinct from -고 있다 (in progress).",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-아/어 있어요",
+          "문이 열려 있어요.",
+          "결과 상태 지속",
+          "The door is open. (state)"
+        ],
+        [
+          "V-아/어 있어요",
+          "소파에 앉아 있어요.",
+          "자세 상태 지속",
+          "(They) are sitting on the sofa."
+        ],
+        [
+          "V-아/어 있어요",
+          "벽에 그림이 걸려 있어요.",
+          "위치 상태 지속",
+          "A picture is hanging on the wall."
+        ],
+        [
+          "vs -고 있어요",
+          "문을 열고 있어요.",
+          "동작 진행 중",
+          "Is opening the door. (action)"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "자동사만",
+          "열리다·잠기다·앉다·서다·켜지다·꺼지다 등",
+          "열려 있어요 (O) / 먹어 있어요 (X)"
+        ]
+      ],
+      "g1_tip": "-아/어 있다는 결과 상태! -고 있다는 진행 동작! 자동사에만 써요.",
+      "g1_tip_eng": "-아/어 있다 = resultant state (intransitive V only). -고 있다 = ongoing action.",
+      "g1_exs": [
+        [
+          "문이 열려 있어요.",
+          "The door is open. (resulting state)"
+        ],
+        [
+          "창문이 닫혀 있어요.",
+          "The window is closed. (resulting state)"
+        ],
+        [
+          "벽에 사진이 붙어 있어요.",
+          "A photo is stuck on the wall."
+        ]
+      ],
+      "g1_prac": [
+        "1. 문 열리다 → 문이 열려 _____.",
+        "2. 창문 닫히다 → 창문이 닫혀 _____.",
+        "3. 소파 앉다 → 소파에 앉아 _____."
+      ],
+      "g2_name": "V-아/어 놓다·두다 (결과 유지)",
+      "g2_name_eng": "V-아/어 놓다·두다: do and keep / prepare in advance",
+      "g2_desc": "나중을 위해 미리 해두거나 상태를 유지할 때 써요. 놓다와 두다 의미가 비슷하나 두다가 더 구어적이에요.",
+      "g2_desc_eng": "Expresses doing something in advance or keeping a state for future use. 놓다 and 두다 are interchangeable; 두다 is more colloquial.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-아/어 놓다",
+          "미리 준비해 놨어요.",
+          "미리 해두기",
+          "Prepared it in advance."
+        ],
+        [
+          "V-아/어 두다",
+          "냉장고에 넣어 뒀어요.",
+          "보관·유지",
+          "Kept it in the fridge."
+        ],
+        [
+          "V-아/어 놓다 (상태)",
+          "책을 펼쳐 놓았어요.",
+          "상태 유지",
+          "Left the book open."
+        ],
+        [
+          "vs -아/어 있다",
+          "문이 열려 있어요 vs 열어 뒀어요",
+          "상태(있다) vs 의도(놓다/두다)",
+          "state vs intentional keeping"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "놓다 vs 두다",
+          "의미 거의 같음, 두다가 더 구어적",
+          "써 놓다 = 써 두다 (거의 동일)"
+        ]
+      ],
+      "g2_tip": "-아/어 놓다/두다는 \"미리 해뒀다\"는 의도! -아/어 있다는 그냥 상태예요.",
+      "g2_tip_eng": "-아/어 놓다/두다 = intentionally prepared/kept. -아/어 있다 = just a state.",
+      "g2_exs": [
+        [
+          "파티를 위해 음식을 만들어 뒀어요.",
+          "I prepared food in advance for the party."
+        ],
+        [
+          "중요한 내용을 메모해 놨어요.",
+          "I wrote down the important content."
+        ],
+        [
+          "숙제를 미리 해 뒀어요.",
+          "I did the homework in advance."
+        ]
+      ],
+      "g2_prac": [
+        "1. 음식 준비하다(미리) → 미리 음식을 준비해 _____.",
+        "2. 메모하다 → 중요한 내용을 메모해 _____.",
+        "3. 숙제 하다(미리) → 숙제를 미리 해 _____."
+      ],
+      "reading_title": "파티 준비",
+      "reading_title_eng": "Party Preparations",
+      "reading_text": [
+        "카를로스가 파티를 위해 미리 준비해 뒀어요.",
+        "음식은 오전에 만들어 놨어요.",
+        "꽃도 사서 탁자에 올려 놨어요.",
+        "손님들이 앉아 있을 의자도 정리해 뒀어요.",
+        "문이 활짝 열려 있어서 손님들이 들어올 수 있어요.",
+        "",
+        "Carlos had prepared everything in advance for the party.",
+        "He made the food in the morning.",
+        "He also bought flowers and placed them on the table.",
+        "He also organized the chairs for guests to sit in.",
+        "The door is wide open so guests can come in."
+      ],
+      "q_labels": [
+        "Q1. 카를로스는 음식을 언제 만들어 놨어요? (When did Carlos prepare the food?)",
+        "Q2. 탁자 위에 무엇을 올려 놨어요? (What did he place on the table?)",
+        "Q3. 맞으면 O, 틀리면 X — 문이 닫혀 있어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "데이비드",
+          "카를로스, 파티 준비 다 됐어요?"
+        ],
+        [
+          "카를로스",
+          "네, 음식은 아침에 만들어 놨어요."
+        ],
+        [
+          "데이비드",
+          "의자는요?"
+        ],
+        [
+          "카를로스",
+          "다 정리해 뒀어요. 문도 열어 뒀어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 음식은 언제 만들었어요?",
+          [
+            "① 어제 저녁",
+            "② 오늘 아침",
+            "③ 방금 전",
+            "④ 파티 시작 후"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 문은 어떻게 됐어요?",
+          [
+            "① 잠겨 있어요.",
+            "② 닫혀 있어요.",
+            "③ 열어 뒀어요.",
+            "④ 고장났어요."
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "결과 지속 유형",
+      "topik_tip": "💡 -아/어 있다(결과 상태) vs -아/어 놓다/두다(의도적 유지) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n문이 열려 _____.",
+          [
+            "① 있어요",
+            "② 놨어요",
+            "③ 버렸어요",
+            "④ 줬어요"
+          ],
+          "정답: ① (결과 상태→-아/어 있다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n미리 음식을 만들어 _____.",
+          [
+            "① 있어요",
+            "② 뒀어요",
+            "③ 버렸어요",
+            "④ 줬어요"
+          ],
+          "정답: ② (의도적 준비→-아/어 두다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"창문이 열려 있어요.\"",
+          [
+            "① 누군가 창문을 열고 있어요.",
+            "② 창문이 열린 상태예요.",
+            "③ 창문을 열어 드릴게요.",
+            "④ 창문을 닫을 거예요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-아/어 있다",
+          "문이 열려 있어요.",
+          "The door is open. (state)"
+        ],
+        [
+          "-아/어 놓다",
+          "준비해 놨어요.",
+          "Prepared in advance."
+        ],
+        [
+          "-아/어 두다",
+          "넣어 뒀어요.",
+          "Kept/stored it."
+        ],
+        [
+          "상태 어휘",
+          "열리다·닫히다·앉다·서다",
+          "open/closed/sitting/standing"
+        ],
+        [
+          "준비 표현",
+          "미리 ~아/어 놓다/두다",
+          "do in advance"
+        ]
+      ],
+      "checklist": [
+        "-아/어 있다로 결과 상태를 표현해요.",
+        "-아/어 놓다/두다로 미리 준비를 표현해요.",
+        "두 표현의 차이를 알아요.",
+        "-고 있다와 -아/어 있다를 구별해요.",
+        "결과·상태 어휘 10개 이상 알아요."
+      ],
+      "mission": "지금 있는 공간의 상태와 미리 준비한 것을 말해보세요.",
+      "mission_eng": "Describe the state of your space and what you've prepared in advance.",
+      "writing_prompt": "결과 상태와 미리 준비한 것을 -아/어 있다와 -아/어 놓다/두다로 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -아/어 있다 and -아/어 놓다/두다.",
+      "topik_vocab": [
+        [
+          "T01",
+          "상태",
+          "state"
+        ],
+        [
+          "T02",
+          "지속",
+          "continuity"
+        ],
+        [
+          "T03",
+          "유지",
+          "maintenance"
+        ],
+        [
+          "T04",
+          "변화",
+          "change"
+        ],
+        [
+          "T05",
+          "완료",
+          "completion"
+        ],
+        [
+          "T06",
+          "보존",
+          "preservation"
+        ],
+        [
+          "T07",
+          "보관",
+          "storage"
+        ],
+        [
+          "T08",
+          "관리",
+          "management"
+        ],
+        [
+          "T09",
+          "처리",
+          "handling"
+        ],
+        [
+          "T10",
+          "정리",
+          "organization"
+        ]
+      ]
+    },
+    {
+      "title": "피동 · 사동",
+      "title_eng": "Passive & Causative",
+      "chars": "Natasha, Minjun",
+      "must_vocab": [
+        [
+          "01",
+          "📰",
+          "읽히다",
+          "to be read",
+          "이 책이 많이 읽혀요."
+        ],
+        [
+          "02",
+          "🎵",
+          "들리다",
+          "to be heard",
+          "음악이 들려요."
+        ],
+        [
+          "03",
+          "👀",
+          "보이다",
+          "to be seen",
+          "산이 보여요."
+        ],
+        [
+          "04",
+          "🔒",
+          "잠기다",
+          "to be locked",
+          "문이 잠겼어요."
+        ],
+        [
+          "05",
+          "😢",
+          "울리다",
+          "to make someone cry",
+          "아이를 울렸어요."
+        ],
+        [
+          "06",
+          "😄",
+          "웃기다",
+          "to make someone laugh",
+          "친구를 웃겼어요."
+        ],
+        [
+          "07",
+          "🍽️",
+          "먹이다",
+          "to feed",
+          "아이에게 밥을 먹였어요."
+        ],
+        [
+          "08",
+          "💊",
+          "먹히다",
+          "to be swallowed",
+          "약이 잘 먹혔어요."
+        ],
+        [
+          "09",
+          "🌀",
+          "돌리다",
+          "to turn / spin (causative)",
+          "선풍기를 돌렸어요."
+        ],
+        [
+          "10",
+          "🔥",
+          "태우다",
+          "to burn / let burn",
+          "고기를 태웠어요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "열리다",
+          "to be opened",
+          "문이 열렸어요."
+        ],
+        [
+          "12",
+          "닫히다",
+          "to be closed",
+          "창문이 닫혔어요."
+        ],
+        [
+          "13",
+          "쓰이다",
+          "to be used / written",
+          "많이 쓰이는 표현이에요."
+        ],
+        [
+          "14",
+          "팔리다",
+          "to be sold",
+          "다 팔렸어요."
+        ],
+        [
+          "15",
+          "바꾸다",
+          "to change (causative)",
+          "방향을 바꿨어요."
+        ],
+        [
+          "16",
+          "높이다",
+          "to raise",
+          "목소리를 높였어요."
+        ],
+        [
+          "17",
+          "낮추다",
+          "to lower",
+          "온도를 낮췄어요."
+        ],
+        [
+          "18",
+          "넓히다",
+          "to widen",
+          "도로를 넓혔어요."
+        ],
+        [
+          "19",
+          "줄이다",
+          "to reduce",
+          "비용을 줄였어요."
+        ],
+        [
+          "20",
+          "키우다",
+          "to raise / grow",
+          "강아지를 키워요."
+        ]
+      ],
+      "g1_name": "V-이/히/리/기- (피동)",
+      "g1_name_eng": "Passive: V-이/히/리/기 (be done / get done)",
+      "g1_desc": "동작의 주체가 아닌 객체의 관점으로 표현해요. 각 동사에 따라 이/히/리/기 중 하나가 붙어요.",
+      "g1_desc_eng": "Passive voice: action viewed from the receiver's perspective. 이/히/리/기 is added depending on the verb.",
+      "g1_cols": [
+        "접사",
+        "기본형",
+        "피동형",
+        "예문"
+      ],
+      "g1_rows": [
+        [
+          "-이-",
+          "보다",
+          "보이다",
+          "산이 보여요. (is seen)"
+        ],
+        [
+          "-히-",
+          "읽다",
+          "읽히다",
+          "이 책이 많이 읽혀요. (is read)"
+        ],
+        [
+          "-리-",
+          "듣다",
+          "들리다",
+          "음악이 들려요. (is heard)"
+        ],
+        [
+          "-기-",
+          "잠그다",
+          "잠기다",
+          "문이 잠겼어요. (is locked)"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "암기 필요",
+          "피동 접사는 규칙 없이 동사마다 다름",
+          "먹다→먹히다, 쓰다→쓰이다, 팔다→팔리다"
+        ]
+      ],
+      "g1_tip": "피동은 동사별로 외워야 해요! 규칙이 없으니 자주 쓰이는 것부터 익혀요.",
+      "g1_tip_eng": "Passive suffixes must be memorized per verb. No single rule — learn by frequency.",
+      "g1_exs": [
+        [
+          "저 멀리서 산이 보여요.",
+          "Mountains can be seen in the distance."
+        ],
+        [
+          "음악 소리가 들려요.",
+          "Music can be heard."
+        ],
+        [
+          "이 책은 많이 읽혀요.",
+          "This book is read a lot."
+        ]
+      ],
+      "g1_prac": [
+        "1. 보다→피동 → 산이 _____.",
+        "2. 듣다→피동 → 음악이 _____.",
+        "3. 잠그다→피동 → 문이 _____."
+      ],
+      "g2_name": "V-이/히/리/기/우/추- (사동)",
+      "g2_name_eng": "Causative: V-이/히/리/기/우/추 (make/let someone do)",
+      "g2_desc": "남에게 어떤 행동을 시키거나 하게 할 때 써요. 피동보다 접사 종류가 더 많고(이/히/리/기/우/추), 역시 동사별로 외워야 해요.",
+      "g2_desc_eng": "Causative voice: making or letting someone do something. More suffixes than passive (이/히/리/기/우/추). Must be memorized.",
+      "g2_cols": [
+        "접사",
+        "기본형",
+        "사동형",
+        "예문"
+      ],
+      "g2_rows": [
+        [
+          "-이-",
+          "먹다",
+          "먹이다",
+          "아이에게 밥을 먹였어요. (fed)"
+        ],
+        [
+          "-히-",
+          "입다",
+          "입히다",
+          "아이에게 옷을 입혔어요. (dressed)"
+        ],
+        [
+          "-리-",
+          "울다",
+          "울리다",
+          "아이를 울렸어요. (made cry)"
+        ],
+        [
+          "-우-",
+          "깨다",
+          "깨우다",
+          "친구를 깨웠어요. (woke up)"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "-게 하다",
+          "사동 접사 없을 때 -게 하다 사용",
+          "공부하게 했어요 / 먹게 했어요"
+        ]
+      ],
+      "g2_tip": "접사 사동이 없으면 -게 하다로! 공부하게 했어요 = 공부시켰어요.",
+      "g2_tip_eng": "When no causative suffix exists, use -게 하다. 공부하게 했어요 = made (them) study.",
+      "g2_exs": [
+        [
+          "아이에게 밥을 먹였어요.",
+          "I fed the child. (causative)"
+        ],
+        [
+          "친구를 많이 웃겼어요.",
+          "I made my friend laugh a lot."
+        ],
+        [
+          "학생들이 공부하게 했어요.",
+          "I made the students study."
+        ]
+      ],
+      "g2_prac": [
+        "1. 먹다→사동 → 아이에게 밥을 _____.",
+        "2. 울다→사동 → 아이를 _____.",
+        "3. 공부하다→사동(-게 하다) → 공부하_____."
+      ],
+      "reading_title": "나타샤의 경험",
+      "reading_title_eng": "Natasha's Experience",
+      "reading_text": [
+        "나타샤가 창문을 열었는데 바람에 닫혔어요.",
+        "멀리서 아름다운 산이 보였어요.",
+        "새소리도 들렸어요.",
+        "민준이 나타샤를 많이 웃겼어요.",
+        "나타샤는 민준 덕분에 기분이 좋아졌어요.",
+        "",
+        "Natasha opened the window but it got closed by the wind.",
+        "A beautiful mountain could be seen in the distance.",
+        "Bird sounds could also be heard.",
+        "Minjun made Natasha laugh a lot.",
+        "Thanks to Minjun, Natasha's mood got better."
+      ],
+      "q_labels": [
+        "Q1. 왜 창문이 닫혔어요? (Why did the window get closed?)",
+        "Q2. 멀리서 무엇이 보였어요? (What could be seen in the distance?)",
+        "Q3. 맞으면 O, 틀리면 X — 민준이 나타샤를 울렸어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "나타샤",
+          "민준, 저기서 무슨 소리가 들려요?"
+        ],
+        [
+          "민준",
+          "새소리가 들려요. 저쪽에 새가 있나 봐요."
+        ],
+        [
+          "나타샤",
+          "산도 보여요. 정말 아름다워요!"
+        ],
+        [
+          "민준",
+          "맞아요. 여기서 잘 보여요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 어떤 소리가 들려요?",
+          [
+            "① 물소리",
+            "② 바람 소리",
+            "③ 새소리",
+            "④ 자동차 소리"
+          ],
+          "③"
+        ],
+        [
+          "Q2. 저쪽에서 무엇이 보여요?",
+          [
+            "① 강",
+            "② 산",
+            "③ 바다",
+            "④ 들판"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "피동·사동 유형",
+      "topik_tip": "💡 피동(-이/히/리/기): ~당하다·되다 / 사동(-이/히/리/기/우/추): ~하게 하다!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n저기서 산이 _____.",
+          [
+            "① 보여요 (피동)",
+            "② 봐요 (능동)",
+            "③ 보이에요",
+            "④ 봐지다"
+          ],
+          "정답: ① (피동→보이다)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n아이에게 밥을 _____.",
+          [
+            "① 먹어요",
+            "② 먹였어요",
+            "③ 먹히었어요",
+            "④ 먹게 했어요"
+          ],
+          "정답: ② (사동→먹이다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"음악 소리가 들렸어요.\"",
+          [
+            "① 음악을 들었어요.",
+            "② 음악 소리가 들려왔어요.",
+            "③ 음악을 들려줬어요.",
+            "④ 음악 소리가 들린 상태예요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "피동 -이/히/리/기",
+          "보이다·들리다·읽히다·잠기다",
+          "be seen/heard/read/locked"
+        ],
+        [
+          "사동 -이/히/리/기/우/추",
+          "먹이다·입히다·울리다·깨우다",
+          "feed/dress/make cry/wake"
+        ],
+        [
+          "-게 하다 (사동)",
+          "공부하게 했어요.",
+          "made (them) study"
+        ],
+        [
+          "피동 문장 구조",
+          "주어+에/에게+피동V",
+          "산이 보여요."
+        ],
+        [
+          "사동 문장 구조",
+          "주어+에게+사동V",
+          "아이에게 먹였어요."
+        ]
+      ],
+      "checklist": [
+        "자주 쓰이는 피동 동사를 알아요.",
+        "자주 쓰이는 사동 동사를 알아요.",
+        "-게 하다로 사동을 만들어요.",
+        "피동과 사동 문장 구조를 알아요.",
+        "피동·사동 어휘 10개 이상 알아요."
+      ],
+      "mission": "주변에서 보이거나 들리는 것을 피동으로, 시킨 일을 사동으로 말해보세요.",
+      "mission_eng": "Describe what you see/hear (passive) and what you made someone do (causative).",
+      "writing_prompt": "피동 2문장, 사동 1문장을 써보세요.",
+      "writing_prompt_eng": "Write 2 passive sentences and 1 causative sentence.",
+      "topik_vocab": [
+        [
+          "T01",
+          "피해",
+          "damage"
+        ],
+        [
+          "T02",
+          "가해",
+          "harm"
+        ],
+        [
+          "T03",
+          "원인",
+          "cause"
+        ],
+        [
+          "T04",
+          "결과",
+          "consequence"
+        ],
+        [
+          "T05",
+          "행위",
+          "action"
+        ],
+        [
+          "T06",
+          "주체",
+          "agent"
+        ],
+        [
+          "T07",
+          "대상",
+          "object/target"
+        ],
+        [
+          "T08",
+          "영향",
+          "influence"
+        ],
+        [
+          "T09",
+          "작용",
+          "operation"
+        ],
+        [
+          "T10",
+          "반응",
+          "reaction"
+        ]
+      ]
+    },
+    {
+      "title": "대조 · 전환",
+      "title_eng": "Contrast & Transition",
+      "chars": "Yui, Amina",
+      "must_vocab": [
+        [
+          "01",
+          "🔄",
+          "하지만",
+          "but / however",
+          "공부했지만 어려웠어요."
+        ],
+        [
+          "02",
+          "⚡",
+          "그런데",
+          "but / however (topic shift)",
+          "그런데 한 가지 문제가 있어요."
+        ],
+        [
+          "03",
+          "🤔",
+          "그래도",
+          "even so / still",
+          "그래도 계속 할 거예요."
+        ],
+        [
+          "04",
+          "😮",
+          "그렇지만",
+          "nevertheless",
+          "그렇지만 포기 안 해요."
+        ],
+        [
+          "05",
+          "🌧️",
+          "날씨",
+          "weather",
+          "날씨가 안 좋은데 가야 해요."
+        ],
+        [
+          "06",
+          "😊",
+          "즐겁다",
+          "enjoyable",
+          "힘들지만 즐거워요."
+        ],
+        [
+          "07",
+          "📚",
+          "어렵다",
+          "difficult",
+          "어렵지만 재미있어요."
+        ],
+        [
+          "08",
+          "⏰",
+          "바쁘다",
+          "busy",
+          "바쁜데 도와줬어요."
+        ],
+        [
+          "09",
+          "💪",
+          "열심히",
+          "diligently",
+          "힘든데 열심히 해요."
+        ],
+        [
+          "10",
+          "🎯",
+          "목표",
+          "goal",
+          "목표가 있지만 쉽지 않아요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "반면에",
+          "on the other hand",
+          "반면에 이것은 달라요."
+        ],
+        [
+          "12",
+          "오히려",
+          "rather / on the contrary",
+          "오히려 더 좋아졌어요."
+        ],
+        [
+          "13",
+          "그나마",
+          "at least / even so",
+          "그나마 다행이에요."
+        ],
+        [
+          "14",
+          "아무튼",
+          "anyway / at any rate",
+          "아무튼 잘 됐어요."
+        ],
+        [
+          "15",
+          "결국",
+          "in the end",
+          "결국 잘 됐어요."
+        ],
+        [
+          "16",
+          "물론",
+          "of course",
+          "물론 할 수 있어요."
+        ],
+        [
+          "17",
+          "사실",
+          "actually / in fact",
+          "사실은 어려워요."
+        ],
+        [
+          "18",
+          "솔직히",
+          "honestly",
+          "솔직히 말하면 힘들어요."
+        ],
+        [
+          "19",
+          "의외로",
+          "unexpectedly",
+          "의외로 쉬웠어요."
+        ],
+        [
+          "20",
+          "어쨌든",
+          "anyway / regardless",
+          "어쨌든 해야 해요."
+        ]
+      ],
+      "g1_name": "V/A-(으)ㄴ데/는데 (배경·대조·전환)",
+      "g1_name_eng": "V/A-(으)ㄴ데/는데: background / contrast / transition",
+      "g1_desc": "배경 제시, 대조, 화제 전환에 쓰는 다용도 연결어미예요. V현재→-는데, V과거→-(으)ㄴ데, A→-(으)ㄴ데, N→(이)ㄴ데.",
+      "g1_desc_eng": "Multi-purpose connector: background, contrast, or topic shift. V present→-는데, V past/A→-(으)ㄴ데.",
+      "g1_cols": [
+        "용도·형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "배경 V-는데",
+          "비가 오는데 우산 있어요?",
+          "배경 제시",
+          "It's raining — do you have an umbrella?"
+        ],
+        [
+          "대조 V-는데",
+          "맛있는데 비싸요.",
+          "대조",
+          "It's delicious but expensive."
+        ],
+        [
+          "배경 A-(으)ㄴ데",
+          "날씨가 좋은데 같이 나가요.",
+          "배경→제안",
+          "The weather's nice — shall we go out?"
+        ],
+        [
+          "화제전환 N-(이)ㄴ데",
+          "저는 학생인데 물어봐도 돼요?",
+          "화제 전환",
+          "I'm a student — may I ask?"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "vs -지만",
+          "-(으)ㄴ데/는데: 부드러운 대조·배경 / -지만: 명확한 대조",
+          "맛있는데 비싸요 (부드러움) / 맛있지만 비싸요 (명확한 대조)"
+        ]
+      ],
+      "g1_tip": "-(으)ㄴ데/는데는 \"그런데, 근데\"의 느낌! 배경→결과, 대조, 말 이어가기에 모두 써요.",
+      "g1_tip_eng": "-(으)ㄴ데/는데 feels like \"and/but/so...\" Used for context, contrast, and transitions.",
+      "g1_exs": [
+        [
+          "지금 바쁜데 나중에 전화할게요.",
+          "I'm busy now — I'll call later."
+        ],
+        [
+          "한국어가 어려운데 재미있어요.",
+          "Korean is difficult but it's fun."
+        ],
+        [
+          "저는 학생인데 할인이 돼요?",
+          "I'm a student — do I get a discount?"
+        ]
+      ],
+      "g1_prac": [
+        "1. 비가 오다+배경 → 비가 오_____ 우산 있어요?",
+        "2. 맛있다+대조+비싸다 → 맛있_____ 비싸요.",
+        "3. 학생이다+화제전환 → 저는 학생_____ 질문해도 돼요?"
+      ],
+      "g2_name": "V/A-지만 (명확한 대조)",
+      "g2_name_eng": "V/A-지만: but / although / even though (clear contrast)",
+      "g2_desc": "두 사실이 서로 대조될 때 써요. 받침 여부 관계없이 항상 -지만. -(으)ㄴ데/는데보다 대조가 더 명확해요.",
+      "g2_desc_eng": "Expresses a clear contrast between two facts. Always -지만 regardless of ending. More explicit contrast than -(으)ㄴ데/는데.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-지만",
+          "열심히 공부했지만 떨어졌어요.",
+          "대조·아쉬움",
+          "Studied hard but failed."
+        ],
+        [
+          "A-지만",
+          "비싸지만 맛있어요.",
+          "대조",
+          "Expensive but delicious."
+        ],
+        [
+          "V-지만 (양보)",
+          "힘들지만 할 거예요.",
+          "양보",
+          "It's hard but I'll do it."
+        ],
+        [
+          "N-지만",
+          "학생이지만 잘 알아요.",
+          "N 대조",
+          "Although a student, knows well."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -(으)ㄴ데/는데",
+          "지만: 명확·격식 대조 / -(으)ㄴ데/는데: 부드러운 배경·대조",
+          "공식 글: -지만 / 대화: -(으)ㄴ데/는데"
+        ]
+      ],
+      "g2_tip": "-지만은 \"~이지만 결과는 달라요\"라는 명확한 대조! 격식체에서도 자연스러워요.",
+      "g2_tip_eng": "-지만 = clear contrast. Natural in both spoken and written Korean.",
+      "g2_exs": [
+        [
+          "한국어가 어렵지만 포기 안 해요.",
+          "Korean is hard but I won't give up."
+        ],
+        [
+          "비싸지만 품질이 좋아요.",
+          "It's expensive but the quality is good."
+        ],
+        [
+          "배고프지만 참을 거예요.",
+          "I'm hungry but I'll hold on."
+        ]
+      ],
+      "g2_prac": [
+        "1. 어렵다+포기 안 하다 → 어렵_____ 포기 안 해요.",
+        "2. 비싸다+품질 좋다 → 비싸_____ 품질이 좋아요.",
+        "3. 작다+편하다 → 작_____ 편해요."
+      ],
+      "reading_title": "어렵지만 즐거운 한국 생활",
+      "reading_title_eng": "Hard but Enjoyable Life in Korea",
+      "reading_text": [
+        "유이는 한국 생활이 어렵지만 즐거워요.",
+        "처음에는 언어가 어려운데 이제 익숙해졌어요.",
+        "음식이 매운데 맛있어서 자주 먹어요.",
+        "아미나도 힘들지만 잘 적응했어요.",
+        "둘 다 힘든 게 있지만 서로 도와줘요.",
+        "",
+        "Yui finds life in Korea hard but enjoyable.",
+        "At first the language was difficult, but now she's used to it.",
+        "The food is spicy but delicious so she eats it often.",
+        "Amina also had a hard time but adapted well.",
+        "Both have difficulties but help each other."
+      ],
+      "q_labels": [
+        "Q1. 유이는 한국 생활이 어때요? (How does Yui find life in Korea?)",
+        "Q2. 음식에 대해 어떻게 생각해요? (What does she think about the food?)",
+        "Q3. 맞으면 O, 틀리면 X — 아미나는 한국 생활에 적응 못 했어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "유이",
+          "아미나, 한국 음식이 어때요?"
+        ],
+        [
+          "아미나",
+          "매운데 맛있어요. 자꾸 먹게 돼요."
+        ],
+        [
+          "유이",
+          "그렇지요! 비싸지만 자주 먹게 되는 것 같아요."
+        ],
+        [
+          "아미나",
+          "맞아요. 힘들지만 한국 생활이 즐거워요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 아미나는 한국 음식이 어떻다고 했어요?",
+          [
+            "① 맵지만 맛있어요.",
+            "② 맵고 맛없어요.",
+            "③ 안 맵고 맛있어요.",
+            "④ 비싸고 맛없어요."
+          ],
+          "①"
+        ],
+        [
+          "Q2. 두 사람의 한국 생활은?",
+          [
+            "① 힘들고 즐겁지 않아요.",
+            "② 쉽고 즐거워요.",
+            "③ 힘들지만 즐거워요.",
+            "④ 힘들어서 포기했어요."
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "대조·전환 유형",
+      "topik_tip": "💡 -(으)ㄴ데/는데(부드러운 배경·대조) vs -지만(명확한 대조)!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n비가 오_____ 우산 있어요?",
+          [
+            "① 는데",
+            "② 지만",
+            "③ 아서",
+            "④ 으니까"
+          ],
+          "정답: ① (배경→-는데)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n어렵_____ 재미있어요.",
+          [
+            "① 는데",
+            "② 지만",
+            "③ 아서",
+            "④ 으니까"
+          ],
+          "정답: ② (명확한 대조→-지만)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"한국어가 어렵지만 포기하지 않을 거예요.\"",
+          [
+            "① 한국어가 쉬워요.",
+            "② 어려워서 포기할 거예요.",
+            "③ 어렵지만 계속 할 거예요.",
+            "④ 한국어를 안 좋아해요."
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)ㄴ데/는데 (배경)",
+          "바쁜데 도와줬어요.",
+          "Was busy but helped."
+        ],
+        [
+          "-(으)ㄴ데/는데 (대조)",
+          "맛있는데 비싸요.",
+          "Delicious but expensive."
+        ],
+        [
+          "-지만 (명확 대조)",
+          "어렵지만 재미있어요.",
+          "Hard but fun."
+        ],
+        [
+          "-지만 (양보)",
+          "힘들지만 할 거예요.",
+          "Hard but will do it."
+        ],
+        [
+          "대조 접속사",
+          "하지만 / 그런데 / 그래도",
+          "but / however / even so"
+        ]
+      ],
+      "checklist": [
+        "-(으)ㄴ데/는데로 배경과 대조를 표현해요.",
+        "-지만으로 명확한 대조를 표현해요.",
+        "두 표현의 미묘한 차이를 알아요.",
+        "대조 접속사를 써요.",
+        "대조·전환 어휘 10개 이상 알아요."
+      ],
+      "mission": "한국어 학습의 어려운 점과 좋은 점을 -(으)ㄴ데/는데와 -지만으로 말해보세요.",
+      "mission_eng": "Talk about the hard and good parts of learning Korean using -(으)ㄴ데/는데 and -지만.",
+      "writing_prompt": "어렵지만 좋은 것에 대해 -지만과 -(으)ㄴ데/는데를 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences about something hard but good.",
+      "topik_vocab": [
+        [
+          "T01",
+          "대조",
+          "contrast"
+        ],
+        [
+          "T02",
+          "차이",
+          "difference"
+        ],
+        [
+          "T03",
+          "반면",
+          "on the other hand"
+        ],
+        [
+          "T04",
+          "전환",
+          "transition"
+        ],
+        [
+          "T05",
+          "반전",
+          "reversal"
+        ],
+        [
+          "T06",
+          "모순",
+          "contradiction"
+        ],
+        [
+          "T07",
+          "역설",
+          "paradox"
+        ],
+        [
+          "T08",
+          "균형",
+          "balance"
+        ],
+        [
+          "T09",
+          "일관성",
+          "consistency"
+        ],
+        [
+          "T10",
+          "상반",
+          "opposition"
+        ]
+      ]
+    }
+  ]
+}

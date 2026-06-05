@@ -1,0 +1,2324 @@
+{
+  "step": 10,
+  "level": "C2",
+  "title": "TOPIK 쓰기",
+  "color": "#E8735A",
+  "colorDk": "#9A2E1A",
+  "units": [
+    {
+      "title": "문장 완성",
+      "title_eng": "Sentence Completion (Q51)",
+      "chars": "TOPIK II 쓰기 51번",
+      "must_vocab": [
+        [
+          "01",
+          "🔲",
+          "빈칸",
+          "blank",
+          "빈칸을 채워요."
+        ],
+        [
+          "02",
+          "🔗",
+          "연결어미",
+          "connective ending",
+          "연결어미를 써요."
+        ],
+        [
+          "03",
+          "📐",
+          "문맥",
+          "context",
+          "문맥에 맞게 써요."
+        ],
+        [
+          "04",
+          "⬅️",
+          "앞 내용",
+          "preceding content",
+          "앞 내용을 확인해요."
+        ],
+        [
+          "05",
+          "➡️",
+          "뒤 내용",
+          "following content",
+          "뒤 내용을 확인해요."
+        ],
+        [
+          "06",
+          "🔄",
+          "호응",
+          "correspondence",
+          "앞뒤 호응이 중요해요."
+        ],
+        [
+          "07",
+          "💡",
+          "논리",
+          "logic",
+          "논리적으로 연결해요."
+        ],
+        [
+          "08",
+          "📝",
+          "어미",
+          "ending",
+          "적절한 어미를 써요."
+        ],
+        [
+          "09",
+          "⚖️",
+          "균형",
+          "balance",
+          "문장 균형을 맞춰요."
+        ],
+        [
+          "10",
+          "✅",
+          "자연스럽다",
+          "natural",
+          "자연스러운 표현이에요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "격식체",
+          "formal style",
+          "격식체로 써요."
+        ],
+        [
+          "12",
+          "구어체",
+          "spoken style",
+          "구어체는 피해요."
+        ],
+        [
+          "13",
+          "주어",
+          "subject",
+          "주어를 확인해요."
+        ],
+        [
+          "14",
+          "술어",
+          "predicate",
+          "술어와 호응해요."
+        ],
+        [
+          "15",
+          "조사",
+          "particle",
+          "조사를 정확히 써요."
+        ],
+        [
+          "16",
+          "시제",
+          "tense",
+          "시제를 통일해요."
+        ],
+        [
+          "17",
+          "피동",
+          "passive",
+          "피동 표현이에요."
+        ],
+        [
+          "18",
+          "사동",
+          "causative",
+          "사동 표현이에요."
+        ],
+        [
+          "19",
+          "높임",
+          "honorific",
+          "높임 표현이에요."
+        ],
+        [
+          "20",
+          "부정",
+          "negation",
+          "부정 표현이에요."
+        ]
+      ],
+      "g1_name": "51번 유형 분석: 빈칸 채우기 전략",
+      "g1_name_eng": "Q51 Strategy: Sentence Completion",
+      "g1_desc": "TOPIK II 51번은 짧은 글의 빈칸 2개를 채우는 문제예요. 앞뒤 문맥과 논리적 호응을 맞추는 것이 핵심이에요.",
+      "g1_desc_eng": "Q51 fills 2 blanks in a short text. The key is matching context and logical correspondence before and after.",
+      "g1_cols": [
+        "빈칸 유형",
+        "전략",
+        "호응 표현",
+        "예시"
+      ],
+      "g1_rows": [
+        [
+          "역접 빈칸",
+          "앞 내용과 반대 방향 표현",
+          "그러나/하지만/반면에",
+          "긍정 앞 → 부정 빈칸"
+        ],
+        [
+          "인과 빈칸",
+          "원인·결과 관계 표현",
+          "따라서/그래서/그 결과",
+          "원인 앞 → 결과 빈칸"
+        ],
+        [
+          "부연 빈칸",
+          "앞 내용 구체화·예시",
+          "예를 들어/즉/다시 말해",
+          "주장 앞 → 근거 빈칸"
+        ],
+        [
+          "조건 빈칸",
+          "조건과 결과 표현",
+          "-(으)면/-(으)ㄹ수록",
+          "조건 앞 → 결과 빈칸"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "문체 통일",
+          "글 전체가 격식체면 빈칸도 격식체",
+          "합니다/입니다 체통일"
+        ],
+        [
+          "시제 통일",
+          "앞뒤 시제가 현재면 빈칸도 현재",
+          "과거·현재 혼용 주의"
+        ],
+        [
+          "호응 확인",
+          "주어+술어 / 부사+서술어 호응",
+          "결코 ~ 않다 / 아무리 ~ 아도"
+        ]
+      ],
+      "g1_tip": "빈칸 앞 접속사가 없으면 앞 문장 내용으로 방향을 잡아요. 문체(합니다/해요)를 통일해요!",
+      "g1_tip_eng": "No connector? Use the previous sentence to determine direction. Maintain consistent speech level!",
+      "g1_exs": [
+        [
+          "현대인들은 건강에 관심이 많다. 그러나 (          ). 이처럼 알면서도 실천하지 못하는 경우가 많다.",
+          "Modern people care about health. However (     ). Many know but fail to practice."
+        ],
+        [
+          "→ 빈칸: 실제로 건강한 생활을 실천하는 사람은 많지 않다.",
+          "→ Blank: In reality, few actually practice a healthy lifestyle."
+        ],
+        [
+          "→ 역접(그러나) + 뒤의 \"실천하지 못하는\" 호응 확인",
+          "→ Contrast + consistent with \"fail to practice\" after blank."
+        ]
+      ],
+      "g1_prac": [
+        "1. 빈칸 앞 접속사를 찾아 논리 방향(역접/인과/예시)을 결정하세요.",
+        "2. 완성된 문장이 앞뒤와 자연스럽게 연결되는지 소리 내어 읽어보세요.",
+        "3. 문체(합니다/입니다)를 글 전체와 통일했는지 확인하세요."
+      ],
+      "g2_name": "51번 빈칸 채우기 실전 패턴",
+      "g2_name_eng": "Q51 Practice Patterns",
+      "g2_desc": "51번 자주 출제되는 빈칸 패턴을 익혀요. 조건·양보·비교·나열 등 다양한 연결 관계를 연습해요.",
+      "g2_desc_eng": "Practice frequently tested Q51 patterns: conditional, concessive, comparative, and listing.",
+      "g2_cols": [
+        "패턴",
+        "연결 표현",
+        "빈칸 방향",
+        "완성 예시"
+      ],
+      "g2_rows": [
+        [
+          "조건·결과",
+          "-(으)면/-(으)ㄹ수록",
+          "조건→결과 표현",
+          "노력하면 (실력이 향상된다)"
+        ],
+        [
+          "양보·역접",
+          "-아/어도 / 비록~지만",
+          "조건에도 불구한 결과",
+          "아무리 어려워도 (포기하지 않는다)"
+        ],
+        [
+          "비교·대조",
+          "반면에/이에 비해",
+          "앞과 반대되는 내용",
+          "A는 ~한 반면 (B는 ~하다)"
+        ],
+        [
+          "나열·추가",
+          "또한/게다가/뿐만 아니라",
+          "앞 내용 추가·강화",
+          "건강에 좋을 뿐만 아니라 (경제적이기도 하다)"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "자주 출제",
+          "빈칸이 문장 중간 vs 문장 끝 위치 다름",
+          "끝 위치: 결론·요약 내용"
+        ]
+      ],
+      "g2_tip": "자주 나오는 패턴을 미리 외워두면 빠르게 채울 수 있어요!",
+      "g2_tip_eng": "Memorizing frequent patterns allows faster completion under exam pressure.",
+      "g2_exs": [
+        [
+          "독서는 지식을 넓혀 준다. 뿐만 아니라 (          ).",
+          "Reading expands knowledge. Moreover (     )."
+        ],
+        [
+          "→ 뿐만 아니라 = 추가 → 빈칸: 사고력과 창의성도 향상시켜 준다.",
+          "→ Moreover = addition → Blank: it also improves thinking and creativity."
+        ],
+        [
+          "운동을 꾸준히 하면 (          ). 따라서 건강 관리의 첫걸음은 규칙적인 운동이다.",
+          "If you exercise regularly (     ). Therefore, the first step to health is regular exercise."
+        ]
+      ],
+      "g2_prac": [
+        "1. 다음 빈칸에 알맞은 내용을 써보세요: \"바쁠수록 (          ).\"",
+        "2. 역접 빈칸: \"환경 문제는 심각하다. 그러나 (          ).\"",
+        "3. 나열 빈칸: \"이 방법은 효과적이다. 게다가 (          ).\""
+      ],
+      "reading_title": "[51번 실전] 빈칸에 알맞은 내용을 쓰십시오.",
+      "reading_title_eng": "Q51 Practice — Write the appropriate content for each blank.",
+      "reading_text": [
+        "사람들은 행복을 추구하며 살아간다. 그러나 행복이란 뭔지에 대한",
+        "답은 사람마다 다르다. 어떤 사람은 물질적 풍요에서 행복을 찾고,",
+        "( ㉠ ). 연구에 따르면 진정한 행복은 외부 조건보다는",
+        "내면의 만족과 깊은 관계에서 온다고 한다. 따라서 ( ㉡ ).",
+        "",
+        "People live pursuing happiness. However, answers about what happiness",
+        "is differ by person. Some find it in material wealth,",
+        "( ㉠ ). Research shows true happiness comes from inner satisfaction.",
+        "Therefore ( ㉡ )."
+      ],
+      "q_labels": [
+        "Q1. ㉠에 들어갈 내용을 쓰세요. (앞 내용과 대조되는 예시)",
+        "Q2. ㉡에 들어갈 내용을 쓰세요. (연구 결과를 바탕으로 한 결론)",
+        "Q3. 완성된 글을 소리 내어 읽고 자연스러운지 확인하세요. (   )"
+      ],
+      "listening_script": [
+        [
+          "선생님",
+          "오늘은 51번 빈칸 채우기 전략을 연습해 볼게요."
+        ],
+        [
+          "학생",
+          "선생님, 빈칸 앞뒤를 어떻게 연결해야 할지 모르겠어요."
+        ],
+        [
+          "선생님",
+          "접속사가 없으면 앞 문장의 핵심 단어를 찾아보세요. 빈칸은 그것과 논리적으로 연결돼야 해요."
+        ],
+        [
+          "학생",
+          "아, 앞 문장이 긍정이면 역접 다음 빈칸은 부정 내용이 오는군요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 선생님이 제안한 전략은?",
+          [
+            "① 접속사를 무조건 쓴다",
+            "② 앞 문장 핵심 단어와 논리적 연결",
+            "③ 긴 문장을 쓴다",
+            "④ 어려운 어휘를 쓴다"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 학생이 이해한 내용은?",
+          [
+            "① 빈칸은 항상 긍정이다",
+            "② 접속사는 필요 없다",
+            "③ 역접 뒤 빈칸은 부정 내용",
+            "④ 빈칸은 짧을수록 좋다"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "51번 빈칸 채우기 유형",
+      "topik_tip": "💡 접속사 → 방향 결정 → 문체 통일 → 앞뒤 호응 확인!",
+      "topik_qs": [
+        [
+          "[51번 유형] ㉠에 들어갈 내용으로 가장 알맞은 것을 고르십시오.\n\"운동은 건강에 좋다. 그러나 ( ㉠ ). 따라서 자신의 체력에 맞는 운동을 선택해야 한다.\"",
+          [
+            "① 운동을 많이 할수록 건강해진다",
+            "② 과도한 운동은 오히려 몸에 해롭다",
+            "③ 운동 종류는 다양하다",
+            "④ 규칙적인 운동이 중요하다"
+          ],
+          "정답: ② (그러나=역접, 따라서=결론과 호응)"
+        ],
+        [
+          "[51번 유형] ㉡에 들어갈 내용을 직접 쓰시오.\n\"현대인은 시간에 쫓기며 살아간다. 그 결과 ( ㉡ ). 이를 해결하기 위해 시간 관리 능력이 필요하다.\"",
+          [
+            "인과 결과 내용",
+            "역접 내용",
+            "예시 내용",
+            "나열 내용"
+          ],
+          "예시 답: 여유를 잃고 스트레스를 받는 사람이 증가하고 있다."
+        ],
+        [
+          "[문체 확인] 다음 중 격식체(합니다/입니다)와 어울리는 빈칸 내용은?",
+          [
+            "① 진짜 힘들어요",
+            "② 매우 어렵습니다",
+            "③ 엄청 힘들어",
+            "④ 너무 힘들다"
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "51번 유형",
+          "빈칸 2개 채우기",
+          "Fill 2 blanks"
+        ],
+        [
+          "접속사 분석",
+          "방향 결정의 핵심",
+          "Connector = direction"
+        ],
+        [
+          "문체 통일",
+          "합니다/입니다 체 일관",
+          "Consistent speech level"
+        ],
+        [
+          "앞뒤 호응",
+          "주어·술어·부사 호응",
+          "Subject-predicate harmony"
+        ],
+        [
+          "배점",
+          "각 빈칸 1~2점",
+          "1~2 points each"
+        ]
+      ],
+      "checklist": [
+        "빈칸 앞 접속사로 논리 방향을 결정해요.",
+        "글 전체 문체(합니다/입니다)를 통일해요.",
+        "앞뒤 내용과 자연스럽게 호응하는지 확인해요.",
+        "주어·술어 호응을 확인해요.",
+        "시제를 앞뒤와 통일해요."
+      ],
+      "mission": "신문 기사 한 단락에서 문장 하나를 지우고 빈칸을 만들어 채워보세요.",
+      "mission_eng": "Remove one sentence from a news paragraph to create a blank and fill it in.",
+      "writing_prompt": "역접(그러나/하지만)과 인과(따라서/그 결과)가 포함된 빈칸 문제를 직접 만들어보세요.",
+      "writing_prompt_eng": "Create your own Q51-style blank-fill problem using contrast and cause-effect connectors.",
+      "topik_vocab": [
+        [
+          "T01",
+          "호응",
+          "correspondence"
+        ],
+        [
+          "T02",
+          "연결",
+          "connection"
+        ],
+        [
+          "T03",
+          "접속",
+          "conjunction"
+        ],
+        [
+          "T04",
+          "어미",
+          "ending"
+        ],
+        [
+          "T05",
+          "어휘",
+          "vocabulary"
+        ],
+        [
+          "T06",
+          "문체",
+          "style"
+        ],
+        [
+          "T07",
+          "격식",
+          "formality"
+        ],
+        [
+          "T08",
+          "구어",
+          "spoken"
+        ],
+        [
+          "T09",
+          "문어",
+          "written"
+        ],
+        [
+          "T10",
+          "통일성",
+          "unity"
+        ]
+      ]
+    },
+    {
+      "title": "실용문 쓰기",
+      "title_eng": "Practical Writing (Q52)",
+      "chars": "TOPIK II 쓰기 52번",
+      "must_vocab": [
+        [
+          "01",
+          "📋",
+          "실용문",
+          "practical writing",
+          "실용문을 써요."
+        ],
+        [
+          "02",
+          "📢",
+          "공지",
+          "notice / announcement",
+          "공지문을 써요."
+        ],
+        [
+          "03",
+          "📬",
+          "안내",
+          "guidance / information",
+          "안내문을 써요."
+        ],
+        [
+          "04",
+          "📊",
+          "도표",
+          "chart / graph",
+          "도표를 설명해요."
+        ],
+        [
+          "05",
+          "📝",
+          "양식",
+          "form / format",
+          "양식에 맞게 써요."
+        ],
+        [
+          "06",
+          "📏",
+          "글자 수",
+          "word/character count",
+          "200~300자를 지켜요."
+        ],
+        [
+          "07",
+          "🎯",
+          "핵심",
+          "key point",
+          "핵심만 써요."
+        ],
+        [
+          "08",
+          "💼",
+          "격식",
+          "formality",
+          "격식체를 써요."
+        ],
+        [
+          "09",
+          "📌",
+          "목적",
+          "purpose",
+          "목적을 명확히 써요."
+        ],
+        [
+          "10",
+          "📞",
+          "문의",
+          "inquiry",
+          "문의처를 밝혀요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "모집하다",
+          "to recruit",
+          "참가자를 모집합니다."
+        ],
+        [
+          "12",
+          "신청하다",
+          "to apply",
+          "신청 방법이에요."
+        ],
+        [
+          "13",
+          "접수하다",
+          "to accept/receive",
+          "접수 기간이에요."
+        ],
+        [
+          "14",
+          "대상",
+          "target / eligible",
+          "대상이 누구예요."
+        ],
+        [
+          "15",
+          "일시",
+          "date and time",
+          "일시를 명시해요."
+        ],
+        [
+          "16",
+          "장소",
+          "place / venue",
+          "장소를 써요."
+        ],
+        [
+          "17",
+          "비용",
+          "cost / fee",
+          "비용 안내예요."
+        ],
+        [
+          "18",
+          "혜택",
+          "benefit",
+          "혜택을 설명해요."
+        ],
+        [
+          "19",
+          "유의사항",
+          "precautions",
+          "유의사항이에요."
+        ],
+        [
+          "20",
+          "문의처",
+          "contact information",
+          "문의처를 써요."
+        ]
+      ],
+      "g1_name": "52번 유형 분석: 실용문 쓰기 구조",
+      "g1_name_eng": "Q52 Strategy: Practical Writing Structure",
+      "g1_desc": "TOPIK II 52번은 도표·그림·메모를 보고 200~300자 실용문을 쓰는 문제예요. 정해진 형식과 핵심 정보를 모두 포함해야 해요.",
+      "g1_desc_eng": "Q52 writes a 200~300 character practical text based on a chart, image, or memo. Must follow format and include all key information.",
+      "g1_cols": [
+        "실용문 유형",
+        "포함할 내용",
+        "형식 특징",
+        "주의사항"
+      ],
+      "g1_rows": [
+        [
+          "공지·안내문",
+          "목적/대상/일시/장소/신청 방법",
+          "제목+본문+문의처",
+          "정보 누락 감점"
+        ],
+        [
+          "도표 설명문",
+          "수치+변화 추이+원인/결과 해석",
+          "객관적 서술",
+          "주관적 의견 금지"
+        ],
+        [
+          "초대·모집문",
+          "행사 개요+대상+신청 방법+혜택",
+          "친절하고 명확한 어조",
+          "불필요한 내용 제외"
+        ],
+        [
+          "비교 설명문",
+          "두 대상의 공통점·차이점 설명",
+          "비교 표현 활용",
+          "균형 잡힌 서술"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "글자 수",
+          "200자 미만 또는 300자 초과 시 감점",
+          "정확한 글자 수 확인"
+        ],
+        [
+          "어미 통일",
+          "합니다/입니다 체 일관 사용",
+          "해요체 혼용 금지"
+        ],
+        [
+          "정보 완성",
+          "제시된 모든 정보 포함",
+          "빠진 항목은 감점"
+        ]
+      ],
+      "g1_tip": "제시된 정보를 빠짐없이 포함하고 200~300자를 맞추는 것이 가장 중요해요!",
+      "g1_tip_eng": "Include ALL given information and stay within 200~300 characters. Most critical!",
+      "g1_exs": [
+        [
+          "도표: 2020년 30% → 2023년 55% (스마트폰 사용자 비율)",
+          "Chart: Smartphone users 30%(2020) → 55%(2023)"
+        ],
+        [
+          "→ \"2020년에는 30%였던 스마트폰 사용자 비율이 2023년에는 55%로 증가하였다.\"",
+          "→ \"The proportion of smartphone users increased from 30% in 2020 to 55% in 2023.\""
+        ],
+        [
+          "→ 수치 정확히 포함 + 변화 방향(증가) + 격식체 확인",
+          "→ Include exact figures + direction of change + formal style"
+        ]
+      ],
+      "g1_prac": [
+        "1. 제시된 정보 항목(일시/장소/대상 등)을 모두 체크리스트로 만드세요.",
+        "2. 200자 / 250자 / 300자 분량이 어느 정도인지 손으로 써서 감각을 익히세요.",
+        "3. 쓴 후 빠진 항목이 없는지 확인하세요."
+      ],
+      "g2_name": "52번 유형별 실전 표현",
+      "g2_name_eng": "Q52 Key Expressions by Type",
+      "g2_desc": "실용문 유형별로 자주 쓰이는 격식체 표현을 익혀요.",
+      "g2_desc_eng": "Learn frequently used formal expressions for each type of practical writing.",
+      "g2_cols": [
+        "유형",
+        "핵심 표현",
+        "활용 예",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "도표 증가",
+          "~이/가 증가하였다/늘어났다",
+          "2023년에 55%로 증가하였다.",
+          "increased to 55% in 2023"
+        ],
+        [
+          "도표 감소",
+          "~이/가 감소하였다/줄어들었다",
+          "이용률이 20%로 감소하였다.",
+          "decreased to 20%"
+        ],
+        [
+          "공지 목적",
+          "~을/를 안내드리고자 합니다",
+          "행사를 안내드리고자 합니다.",
+          "would like to inform about"
+        ],
+        [
+          "신청 방법",
+          "~을/를 통해 신청하실 수 있습니다",
+          "이메일을 통해 신청하실 수 있습니다.",
+          "can apply through email"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "도표 해석",
+          "수치만 나열 X → 변화 의미 해석 추가",
+          "증가했다 + 이는 ~ 때문으로 보인다"
+        ]
+      ],
+      "g2_tip": "도표 유형: 수치 → 변화 방향 → 해석 순서로! 공지 유형: 6하원칙 체크!",
+      "g2_tip_eng": "Chart type: figures → change direction → interpretation. Notice type: check 5W1H!",
+      "g2_exs": [
+        [
+          "공지 표현: \"○○ 행사에 여러분을 초대합니다. 일시는 ○월 ○일이며 장소는 ○○입니다.\"",
+          "Notice: \"We invite you to event. Date: month/day, Venue: place.\""
+        ],
+        [
+          "도표 표현: \"위 도표에 따르면 ~이 꾸준히 증가하여 ○년에는 ○%에 달하였다.\"",
+          "Chart: \"According to the chart, ~ steadily increased reaching ○% in ○year.\""
+        ],
+        [
+          "마무리 표현: \"문의 사항은 ○○로 연락 주시기 바랍니다.\"",
+          "Closing: \"For inquiries, please contact ○○.\""
+        ]
+      ],
+      "g2_prac": [
+        "1. 다음 도표를 보고 200~300자로 설명하세요: 2020년 30% → 2022년 45% → 2024년 60% (온라인 쇼핑 이용률)",
+        "2. 다음 정보로 공지문을 200~300자로 쓰세요: 한국어 말하기 대회 / 대상: 외국인 / 일시: 5월 20일 오후 2시 / 장소: 국제관 101호",
+        "3. 글자 수를 세어 200~300자 범위인지 확인하세요."
+      ],
+      "reading_title": "[52번 실전] 다음 도표를 보고 200~300자로 설명하는 글을 쓰시오.",
+      "reading_title_eng": "Q52 Practice — Write 200~300 characters explaining the chart below.",
+      "reading_text": [
+        "【도표 내용】",
+        "항목: 한국인의 독서량 변화",
+        "2018년: 연평균 8.3권",
+        "2020년: 연평균 6.5권",
+        "2022년: 연평균 4.5권",
+        "원인: 스마트폰 사용 증가, 영상 콘텐츠 선호",
+        "",
+        "[Chart Content]",
+        "Topic: Changes in Koreans' annual book reading",
+        "2018: 8.3 books/year  2020: 6.5 books/year  2022: 4.5 books/year",
+        "Causes: Increased smartphone use, preference for video content"
+      ],
+      "q_labels": [
+        "Q1. 도표의 수치 변화를 정확히 포함했나요? (   )",
+        "Q2. 변화의 원인을 자연스럽게 연결했나요? (   )",
+        "Q3. 글자 수가 200~300자 범위인가요? (   )"
+      ],
+      "listening_script": [
+        [
+          "선생님",
+          "52번은 도표나 안내문 정보를 빠짐없이 써야 해요."
+        ],
+        [
+          "학생",
+          "글자 수를 맞추는 게 어려워요. 200자가 얼마나 되는지 모르겠어요."
+        ],
+        [
+          "선생님",
+          "원고지 한 칸에 한 글자예요. 200자면 원고지 반 장이에요. 미리 감각을 익히세요."
+        ],
+        [
+          "학생",
+          "아, 그리고 도표는 수치만 쓰면 안 되고 해석도 넣어야 하죠?"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 선생님이 강조한 것은?",
+          [
+            "① 어려운 어휘를 써라",
+            "② 도표 정보를 빠짐없이 써라",
+            "③ 300자를 꼭 채워라",
+            "④ 짧게 써라"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 도표 설명 시 수치 외에 추가해야 할 것은?",
+          [
+            "① 자신의 경험",
+            "② 다른 나라 사례",
+            "③ 변화 해석",
+            "④ 역사적 배경"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "52번 실용문 쓰기 유형",
+      "topik_tip": "💡 정보 완성 + 200~300자 + 격식체(합니다) + 도표는 해석까지!",
+      "topik_qs": [
+        [
+          "[52번 체크리스트] 다음 중 52번 감점 요인이 아닌 것은?",
+          [
+            "① 글자 수 미달 (200자 미만)",
+            "② 제시 정보 누락",
+            "③ 해요체 사용",
+            "④ 수치를 정확히 포함함"
+          ],
+          "정답: ④ (수치 포함은 올바른 것)"
+        ],
+        [
+          "[도표 표현] 다음 도표 설명 중 가장 적절한 것은?\n\"2020년 50% → 2023년 35%\"",
+          [
+            "① 2020년에 50%로 증가하였다",
+            "② 2023년에 35%로 감소하였다",
+            "③ 2023년에 35%로 변함없다",
+            "④ 2020년에 35%였다"
+          ],
+          "정답: ② (감소 표현 정확)"
+        ],
+        [
+          "[공지문 요소] 공지문에 반드시 포함해야 할 핵심 항목으로 옳은 것은?",
+          [
+            "① 작성자 개인 의견",
+            "② 역사적 배경",
+            "③ 일시·장소·대상·신청 방법",
+            "④ 다른 행사 비교"
+          ],
+          "정답: ③"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "52번 유형",
+          "도표/공지/안내 실용문",
+          "Practical writing"
+        ],
+        [
+          "글자 수",
+          "200~300자 필수",
+          "200~300 chars required"
+        ],
+        [
+          "정보 완성",
+          "제시 정보 모두 포함",
+          "Include all given info"
+        ],
+        [
+          "격식체",
+          "합니다/입니다 통일",
+          "Formal style throughout"
+        ],
+        [
+          "도표 해석",
+          "수치 + 변화 + 원인/결과",
+          "Figures + change + cause"
+        ]
+      ],
+      "checklist": [
+        "제시된 모든 정보를 포함했어요.",
+        "글자 수가 200~300자 범위예요.",
+        "격식체(합니다/입니다)를 통일했어요.",
+        "도표라면 수치와 해석을 모두 포함했어요.",
+        "문의처 등 형식 요소를 빠트리지 않았어요."
+      ],
+      "mission": "오늘의 날씨 도표를 보고 200~300자로 설명하는 글을 써보세요.",
+      "mission_eng": "Write 200~300 characters explaining today's weather chart.",
+      "writing_prompt": "다음 정보로 52번 실용문을 써보세요: 동아리 모집 / 대상: 대학생 / 일시: 3월 10일 / 장소: 학생회관 201호 / 신청: 이메일",
+      "writing_prompt_eng": "Write a Q52 practical text: Club recruitment / Target: university students / Date: March 10 / Venue: Student Hall 201 / Apply: email",
+      "topik_vocab": [
+        [
+          "T01",
+          "공지",
+          "notice"
+        ],
+        [
+          "T02",
+          "안내",
+          "guidance"
+        ],
+        [
+          "T03",
+          "모집",
+          "recruitment"
+        ],
+        [
+          "T04",
+          "신청",
+          "application"
+        ],
+        [
+          "T05",
+          "접수",
+          "receipt"
+        ],
+        [
+          "T06",
+          "대상",
+          "target"
+        ],
+        [
+          "T07",
+          "일시",
+          "date and time"
+        ],
+        [
+          "T08",
+          "혜택",
+          "benefit"
+        ],
+        [
+          "T09",
+          "문의",
+          "inquiry"
+        ],
+        [
+          "T10",
+          "유의사항",
+          "precautions"
+        ]
+      ]
+    },
+    {
+      "title": "설명문 쓰기",
+      "title_eng": "Expository Writing (Q53)",
+      "chars": "TOPIK II 쓰기 53번",
+      "must_vocab": [
+        [
+          "01",
+          "📖",
+          "설명문",
+          "expository writing",
+          "설명문을 써요."
+        ],
+        [
+          "02",
+          "🏗️",
+          "서론",
+          "introduction",
+          "서론을 써요."
+        ],
+        [
+          "03",
+          "📚",
+          "본론",
+          "body",
+          "본론을 써요."
+        ],
+        [
+          "04",
+          "🎯",
+          "결론",
+          "conclusion",
+          "결론을 써요."
+        ],
+        [
+          "05",
+          "📊",
+          "근거",
+          "evidence",
+          "근거를 제시해요."
+        ],
+        [
+          "06",
+          "💡",
+          "개념",
+          "concept",
+          "개념을 설명해요."
+        ],
+        [
+          "07",
+          "🔍",
+          "특징",
+          "characteristic",
+          "특징을 설명해요."
+        ],
+        [
+          "08",
+          "⚡",
+          "원인",
+          "cause",
+          "원인을 분석해요."
+        ],
+        [
+          "09",
+          "🌟",
+          "효과",
+          "effect",
+          "효과를 설명해요."
+        ],
+        [
+          "10",
+          "📏",
+          "분량",
+          "volume",
+          "700자 분량이에요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "정의",
+          "definition",
+          "개념을 정의해요."
+        ],
+        [
+          "12",
+          "분류",
+          "classification",
+          "항목을 분류해요."
+        ],
+        [
+          "13",
+          "예시",
+          "example",
+          "예시를 들어요."
+        ],
+        [
+          "14",
+          "비교",
+          "comparison",
+          "비교해서 설명해요."
+        ],
+        [
+          "15",
+          "대조",
+          "contrast",
+          "대조해서 설명해요."
+        ],
+        [
+          "16",
+          "분석",
+          "analysis",
+          "원인을 분석해요."
+        ],
+        [
+          "17",
+          "통계",
+          "statistics",
+          "통계를 활용해요."
+        ],
+        [
+          "18",
+          "인용",
+          "quotation",
+          "전문가를 인용해요."
+        ],
+        [
+          "19",
+          "요약",
+          "summary",
+          "내용을 요약해요."
+        ],
+        [
+          "20",
+          "전망",
+          "outlook",
+          "미래를 전망해요."
+        ]
+      ],
+      "g1_name": "53번 유형 분석: 설명문 구조와 전략",
+      "g1_name_eng": "Q53 Strategy: Expository Essay Structure",
+      "g1_desc": "TOPIK II 53번은 주어진 주제에 대해 700자 설명문을 쓰는 문제예요. 서론-본론-결론 구조를 지키고 객관적으로 설명해야 해요.",
+      "g1_desc_eng": "Q53 writes a 700-character expository essay on a given topic. Follow intro-body-conclusion structure and describe objectively.",
+      "g1_cols": [
+        "구조",
+        "내용",
+        "분량 목표",
+        "핵심 표현"
+      ],
+      "g1_rows": [
+        [
+          "서론 (약 150자)",
+          "주제 도입 + 현황/배경 제시",
+          "전체의 약 20%",
+          "최근 ~에 대한 관심이 높아지고 있다."
+        ],
+        [
+          "본론1 (약 200자)",
+          "첫 번째 관점/특징/원인 + 근거",
+          "전체의 약 30%",
+          "첫째, ~ 때문이다. 예를 들어 ~"
+        ],
+        [
+          "본론2 (약 200자)",
+          "두 번째 관점/특징/효과 + 근거",
+          "전체의 약 30%",
+          "둘째, ~ 할 수 있다. 이처럼 ~"
+        ],
+        [
+          "결론 (약 150자)",
+          "요약 + 전망/제언",
+          "전체의 약 20%",
+          "이처럼 ~ 앞으로 ~될 것으로 전망된다."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "개인 의견 금지",
+          "설명문은 객관적 서술 / 논설문과 다름",
+          "~라고 생각한다 (X) → ~으로 알려져 있다 (O)"
+        ],
+        [
+          "글자 수",
+          "600자 미만 대폭 감점 / 700±50자 목표",
+          "글자 수 칸 활용"
+        ],
+        [
+          "주제 이탈",
+          "주어진 주제와 관련 없는 내용",
+          "제시어를 반드시 활용"
+        ]
+      ],
+      "g1_tip": "설명문은 객관적으로! \"나는 ~라고 생각한다\" 대신 \"~으로 알려져 있다\"를 써요.",
+      "g1_tip_eng": "Expository = objective! Replace \"I think\" with \"it is known that\" / \"research shows\".",
+      "g1_exs": [
+        [
+          "서론: \"최근 1인 가구가 급격히 증가하고 있다. 이에 따라 1인 가구를 위한 소비 시장도 변화하고 있다.\"",
+          "Intro: \"Single-person households are rapidly increasing, changing consumer markets.\""
+        ],
+        [
+          "본론: \"첫째, 1인 가구는 간편식과 소포장 제품을 선호한다. 실제로 편의점 매출이 꾸준히 증가하고 있다.\"",
+          "Body: \"First, single households prefer ready meals. Convenience store sales are steadily rising.\""
+        ],
+        [
+          "결론: \"이처럼 1인 가구의 증가는 소비 문화를 변화시키고 있으며 앞으로도 이 추세는 지속될 것으로 보인다.\"",
+          "Conclusion: \"Thus, growing single households are changing consumer culture and this trend will continue.\""
+        ]
+      ],
+      "g1_prac": [
+        "1. 다음 주제의 서론을 150자로 써보세요: \"현대인의 수면 부족\"",
+        "2. \"첫째/둘째\" 구조로 본론 2단락을 써보세요.",
+        "3. \"이처럼 ~ 전망된다\" 표현으로 결론을 써보세요."
+      ],
+      "g2_name": "53번 핵심 표현: 설명문 문형",
+      "g2_name_eng": "Q53 Key Expressions for Expository Essays",
+      "g2_desc": "설명문에서 자주 쓰이는 격식체 표현과 구조적 문형을 익혀요.",
+      "g2_desc_eng": "Learn formal expressions and structural patterns frequently used in expository essays.",
+      "g2_cols": [
+        "기능",
+        "핵심 표현",
+        "활용 예",
+        "주의"
+      ],
+      "g2_rows": [
+        [
+          "도입",
+          "~에 대한 관심이 높아지고 있다",
+          "환경 문제에 대한 관심이 높아지고 있다.",
+          "최신 트렌드 반영"
+        ],
+        [
+          "나열",
+          "첫째 ~ 둘째 ~ 셋째",
+          "첫째, 비용이 절감된다. 둘째, 시간이 절약된다.",
+          "마지막은 셋째 또는 마지막으로"
+        ],
+        [
+          "예시",
+          "예를 들어 / 실제로",
+          "예를 들어 A기업은 ~를 도입하였다.",
+          "구체적 사례 제시"
+        ],
+        [
+          "결론",
+          "이처럼 / 따라서 / ~될 것으로 전망된다",
+          "이처럼 ~ 앞으로도 증가할 것으로 보인다.",
+          "전망·제언으로 마무리"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "객관성 표현",
+          "~으로 알려져 있다 / ~라는 연구 결과가 있다",
+          "주관적 표현 대체"
+        ],
+        [
+          "통계 활용",
+          "~에 따르면 ~인 것으로 나타났다",
+          "통계청/연구소 언급 가능"
+        ]
+      ],
+      "g2_tip": "서론-본론1-본론2-결론 구조와 표현을 외워두면 어떤 주제에도 적용할 수 있어요!",
+      "g2_tip_eng": "Memorize intro-body1-body2-conclusion structure and expressions — applicable to any topic!",
+      "g2_exs": [
+        [
+          "도입 표현: \"오늘날 ○○은/는 우리 생활과 밀접한 관련이 있다.\"",
+          "Opening: \"Today, ○○ is closely related to our daily lives.\""
+        ],
+        [
+          "본론 표현: \"이러한 현상의 원인으로는 크게 두 가지를 들 수 있다.\"",
+          "Body: \"There are largely two causes for this phenomenon.\""
+        ],
+        [
+          "결론 표현: \"앞으로도 이러한 추세는 계속될 것으로 예상되며 이에 대한 사회적 관심이 필요하다.\"",
+          "Conclusion: \"This trend is expected to continue and requires social attention.\""
+        ]
+      ],
+      "g2_prac": [
+        "1. 다음 표현으로 서론 문장을 써보세요: \"~에 대한 관심이 높아지고 있다\"",
+        "2. \"첫째 ~ 예를 들어\" 구조로 본론 1단락(200자)을 써보세요.",
+        "3. \"이처럼 ~ 전망된다\" 구조로 결론을 써보세요."
+      ],
+      "reading_title": "[53번 실전] 다음 주제로 설명문을 쓰시오. (700자)",
+      "reading_title_eng": "Q53 Practice — Write an expository essay on the topic below. (700 chars)",
+      "reading_text": [
+        "【주제】 현대 사회에서 독서의 중요성",
+        "",
+        "【쓰기 조건】",
+        "① 독서의 필요성을 제시하시오.",
+        "② 독서가 줄어드는 원인을 분석하시오.",
+        "③ 독서 습관을 키우는 방법을 제안하시오.",
+        "",
+        "[Topic] The importance of reading in modern society",
+        "[Writing conditions]",
+        "① Present the necessity of reading.",
+        "② Analyze the causes of declining reading.",
+        "③ Suggest ways to develop reading habits."
+      ],
+      "q_labels": [
+        "Q1. 서론: 독서의 현황과 중요성을 150자로 써보세요.",
+        "Q2. 본론: 독서 감소 원인과 독서의 효과를 각각 200자로 써보세요.",
+        "Q3. 결론: 독서 습관 제안과 전망을 150자로 써보세요. (   )"
+      ],
+      "listening_script": [
+        [
+          "학생",
+          "선생님, 53번이 제일 어려워요. 700자를 어떻게 써요?"
+        ],
+        [
+          "선생님",
+          "구조가 중요해요. 서론 150자, 본론 두 단락 각 200자, 결론 150자로 나눠요."
+        ],
+        [
+          "학생",
+          "그런데 주관적인 표현을 쓰면 안 된다고요?"
+        ],
+        [
+          "선생님",
+          "설명문이니까요. \"나는 생각한다\" 대신 \"알려져 있다\"나 \"연구에 따르면\"을 쓰세요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 선생님이 제안한 글자 수 배분은?",
+          [
+            "① 서론250+본론200+결론250",
+            "② 서론150+본론200×2+결론150",
+            "③ 균등하게 175자씩",
+            "④ 본론에 모두 집중"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 설명문에서 피해야 할 표현은?",
+          [
+            "① 알려져 있다",
+            "② 연구에 따르면",
+            "③ 나는 생각한다",
+            "④ 전망된다"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "53번 설명문 쓰기 유형",
+      "topik_tip": "💡 서론(150자)+본론(200+200자)+결론(150자) + 객관적 표현!",
+      "topik_qs": [
+        [
+          "[53번 구조] 설명문 서론에 가장 적절한 내용은?",
+          [
+            "① 필자의 개인적 경험",
+            "② 주제 현황과 배경 소개",
+            "③ 강한 주장 제시",
+            "④ 반론 제시"
+          ],
+          "정답: ② (설명문 서론 = 현황·배경)"
+        ],
+        [
+          "[53번 표현] 설명문 본론에 쓰기 적절한 표현은?",
+          [
+            "① 나는 이 문제가 심각하다고 생각한다",
+            "② 첫째, ~이라는 연구 결과가 있다",
+            "③ 내 경험에 의하면",
+            "④ 반드시 ~해야 한다"
+          ],
+          "정답: ② (객관적 근거 표현)"
+        ],
+        [
+          "[53번 결론] 설명문 결론에 가장 적절한 마무리 표현은?",
+          [
+            "① 이처럼 ~ 앞으로도 이 추세는 지속될 것으로 전망된다",
+            "② 나는 이것이 매우 중요하다고 생각한다",
+            "③ 빨리 해결해야 한다",
+            "④ 그러므로 반대한다"
+          ],
+          "정답: ①"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "53번 유형",
+          "700자 설명문",
+          "700-char expository essay"
+        ],
+        [
+          "구조",
+          "서론-본론1-본론2-결론",
+          "Intro-body1-body2-conclusion"
+        ],
+        [
+          "객관성",
+          "알려져 있다/연구에 따르면",
+          "Objective expressions"
+        ],
+        [
+          "나열 표현",
+          "첫째/둘째/셋째",
+          "First/second/third"
+        ],
+        [
+          "결론 표현",
+          "이처럼 ~/전망된다",
+          "Thus~/is expected"
+        ]
+      ],
+      "checklist": [
+        "서론-본론-결론 구조를 지켰어요.",
+        "700자(±50자) 분량을 맞췄어요.",
+        "객관적 표현을 사용했어요.",
+        "첫째/둘째로 본론을 나눴어요.",
+        "결론에 전망이나 제언을 넣었어요."
+      ],
+      "mission": "매일 하나의 주제로 700자 설명문 초안을 10분 안에 써보세요.",
+      "mission_eng": "Write a 700-character expository essay draft on one topic every day within 10 minutes.",
+      "writing_prompt": "주제: \"소셜 미디어가 현대인의 삶에 미치는 영향\" — 서론-본론-결론 구조로 700자 설명문을 써보세요.",
+      "writing_prompt_eng": "Topic: \"The impact of social media on modern life\" — Write a 700-char expository essay with full structure.",
+      "topik_vocab": [
+        [
+          "T01",
+          "서론",
+          "introduction"
+        ],
+        [
+          "T02",
+          "본론",
+          "body"
+        ],
+        [
+          "T03",
+          "결론",
+          "conclusion"
+        ],
+        [
+          "T04",
+          "전개",
+          "development"
+        ],
+        [
+          "T05",
+          "객관성",
+          "objectivity"
+        ],
+        [
+          "T06",
+          "근거",
+          "grounds"
+        ],
+        [
+          "T07",
+          "예시",
+          "example"
+        ],
+        [
+          "T08",
+          "통계",
+          "statistics"
+        ],
+        [
+          "T09",
+          "분석",
+          "analysis"
+        ],
+        [
+          "T10",
+          "전망",
+          "outlook"
+        ]
+      ]
+    },
+    {
+      "title": "논설문 쓰기",
+      "title_eng": "Argumentative Writing (Q54)",
+      "chars": "TOPIK II 쓰기 54번",
+      "must_vocab": [
+        [
+          "01",
+          "⚖️",
+          "논설문",
+          "argumentative essay",
+          "논설문을 써요."
+        ],
+        [
+          "02",
+          "💪",
+          "주장",
+          "claim / assertion",
+          "주장을 펼쳐요."
+        ],
+        [
+          "03",
+          "📋",
+          "근거",
+          "grounds / evidence",
+          "근거를 들어요."
+        ],
+        [
+          "04",
+          "🔄",
+          "반론",
+          "counter-argument",
+          "반론을 다뤄요."
+        ],
+        [
+          "05",
+          "✅",
+          "재반박",
+          "rebuttal",
+          "재반박을 해요."
+        ],
+        [
+          "06",
+          "🎯",
+          "논증",
+          "argumentation",
+          "논증 구조예요."
+        ],
+        [
+          "07",
+          "⚡",
+          "설득",
+          "persuasion",
+          "독자를 설득해요."
+        ],
+        [
+          "08",
+          "📌",
+          "쟁점",
+          "issue / point of contention",
+          "쟁점을 다뤄요."
+        ],
+        [
+          "09",
+          "🌐",
+          "사회적",
+          "social",
+          "사회적 맥락이에요."
+        ],
+        [
+          "10",
+          "🏆",
+          "고득점",
+          "high score",
+          "고득점 전략이에요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "타당하다",
+          "valid / reasonable",
+          "타당한 주장이에요."
+        ],
+        [
+          "12",
+          "논리적",
+          "logical",
+          "논리적 근거예요."
+        ],
+        [
+          "13",
+          "반박하다",
+          "to refute",
+          "반론을 반박해요."
+        ],
+        [
+          "14",
+          "인정하다",
+          "to admit",
+          "반론을 인정해요."
+        ],
+        [
+          "15",
+          "그럼에도",
+          "nevertheless",
+          "그럼에도 불구하고예요."
+        ],
+        [
+          "16",
+          "강조하다",
+          "to emphasize",
+          "요점을 강조해요."
+        ],
+        [
+          "17",
+          "제안하다",
+          "to suggest",
+          "해결책을 제안해요."
+        ],
+        [
+          "18",
+          "촉구하다",
+          "to urge",
+          "적극적 행동을 촉구해요."
+        ],
+        [
+          "19",
+          "필요하다",
+          "necessary",
+          "대책이 필요해요."
+        ],
+        [
+          "20",
+          "바람직하다",
+          "desirable",
+          "바람직한 방향이에요."
+        ]
+      ],
+      "g1_name": "54번 유형 분석: 논설문 구조와 전략",
+      "g1_name_eng": "Q54 Strategy: Argumentative Essay Structure",
+      "g1_desc": "TOPIK II 54번은 사회적 쟁점에 대해 700자 논설문을 쓰는 문제예요. 명확한 주장 + 근거 + 반론 처리 + 결론 구조가 핵심이에요.",
+      "g1_desc_eng": "Q54 writes a 700-character argumentative essay on a social issue. Clear claim + evidence + counter-argument + conclusion is key.",
+      "g1_cols": [
+        "구조",
+        "내용",
+        "분량 목표",
+        "핵심 전략"
+      ],
+      "g1_rows": [
+        [
+          "서론 (약 150자)",
+          "쟁점 도입 + 자신의 주장 제시",
+          "전체의 약 20%",
+          "주장을 명확히 밝힘"
+        ],
+        [
+          "본론1 (약 200자)",
+          "첫 번째 근거 + 구체적 사례/통계",
+          "전체의 약 30%",
+          "첫째, ~기 때문이다. 실제로 ~"
+        ],
+        [
+          "본론2 (약 200자)",
+          "두 번째 근거 OR 반론+재반박",
+          "전체의 약 30%",
+          "물론 ~지만 그럼에도 ~"
+        ],
+        [
+          "결론 (약 150자)",
+          "주장 재확인 + 사회적 제언",
+          "전체의 약 20%",
+          "따라서 ~해야 할 것이다."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "반론 처리",
+          "완전 무시 X → 인정 후 재반박",
+          "물론 ~이라는 시각도 있다. 그러나 ~"
+        ],
+        [
+          "설명문과 차이",
+          "설명문: 객관 서술 / 논설문: 주관적 주장 가능",
+          "~해야 한다 / ~가 필요하다 (O)"
+        ],
+        [
+          "쟁점 파악",
+          "제시어 중 쟁점(찬반/해결 방향)을 정확히 파악",
+          "주제 이탈 = 대폭 감점"
+        ]
+      ],
+      "g1_tip": "논설문은 주장이 분명해야 해요! 서론에서 입장을 명확히 밝히고 일관되게 유지해요.",
+      "g1_tip_eng": "Argumentative essays need a clear stance! State your position in the intro and maintain it.",
+      "g1_exs": [
+        [
+          "서론: \"최근 인터넷 실명제 도입 논란이 이어지고 있다. 나는 인터넷 실명제가 필요하다고 생각한다.\"",
+          "Intro: \"Internet real-name verification is debated. I believe it is necessary.\""
+        ],
+        [
+          "본론(반론 처리): \"물론 표현의 자유가 침해될 수 있다는 우려도 있다. 그러나 사이버 폭력 피해가 더 심각한 문제이다.\"",
+          "Body(rebuttal): \"Though free speech concerns exist, cyberbullying harm is more serious.\""
+        ],
+        [
+          "결론: \"따라서 인터넷 실명제를 단계적으로 도입하되 개인정보 보호를 병행해야 할 것이다.\"",
+          "Conclusion: \"Therefore, real-name policy should be introduced gradually with privacy protection.\""
+        ]
+      ],
+      "g1_prac": [
+        "1. 다음 쟁점에 대해 찬성/반대 입장을 정하고 이유 2가지를 써보세요: \"동물 실험 금지\"",
+        "2. \"물론 ~지만 그럼에도 ~\" 구조로 반론 처리 단락을 써보세요.",
+        "3. \"따라서 ~해야 할 것이다\" 구조로 결론을 써보세요."
+      ],
+      "g2_name": "54번 핵심 표현: 논설문 문형",
+      "g2_name_eng": "Q54 Key Expressions for Argumentative Essays",
+      "g2_desc": "논설문에서 자주 쓰이는 주장·근거·반론 처리 표현을 익혀요.",
+      "g2_desc_eng": "Learn key expressions for making claims, providing evidence, and handling counter-arguments.",
+      "g2_cols": [
+        "기능",
+        "핵심 표현",
+        "활용 예",
+        "효과"
+      ],
+      "g2_rows": [
+        [
+          "주장 제시",
+          "~해야 한다고 생각한다 / ~이 필요하다",
+          "환경 규제를 강화해야 한다고 생각한다.",
+          "입장 명확화"
+        ],
+        [
+          "근거 제시",
+          "왜냐하면 ~ 기 때문이다 / 실제로 ~",
+          "실제로 연구에 따르면 ~로 나타났다.",
+          "논리적 설득"
+        ],
+        [
+          "반론 인정",
+          "물론 ~라는 주장도 있다 / ~이라는 시각도 있다",
+          "물론 비용 부담이 크다는 시각도 있다.",
+          "균형감"
+        ],
+        [
+          "재반박",
+          "그러나/그럼에도 불구하고 ~이 더 중요하다",
+          "그러나 장기적 이익이 더 크다고 본다.",
+          "주장 강화"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "감정적 표현 금지",
+          "화가 난다/정말 나쁘다 (X) → 심각한 문제이다 (O)",
+          "격식체 유지"
+        ],
+        [
+          "결론 강도",
+          "결론에서 주장을 다시 한번 강조",
+          "~해야 할 것이다 / ~이 바람직하다"
+        ]
+      ],
+      "g2_tip": "반론을 무시하지 말고 \"물론 ~지만 그럼에도\"로 처리하면 고득점이에요!",
+      "g2_tip_eng": "Don't ignore counter-arguments — handle them with \"물론 ~지만 그럼에도\" for higher scores!",
+      "g2_exs": [
+        [
+          "주장: \"청소년 스마트폰 사용을 제한해야 한다.\"",
+          "Claim: \"Smartphone use by teenagers should be restricted.\""
+        ],
+        [
+          "근거: \"왜냐하면 수면 부족과 집중력 저하가 학업에 부정적 영향을 미치기 때문이다.\"",
+          "Evidence: \"Because it negatively affects sleep and concentration, harming studies.\""
+        ],
+        [
+          "반론+재반박: \"물론 정보 접근권을 제한할 수 있다는 우려도 있다. 그러나 올바른 사용 교육이 병행된다면 이 문제는 해결 가능하다.\"",
+          "Counter+rebuttal: \"Though access rights are a concern, this can be solved with education.\""
+        ]
+      ],
+      "g2_prac": [
+        "1. 주제 \"재택근무 확대\"에 대한 찬성 주장을 2가지 근거와 함께 써보세요.",
+        "2. 반론 처리: \"물론 ~라는 주장도 있다. 그러나 ~\" 구조로 써보세요.",
+        "3. 결론: \"따라서 ~해야 할 것이다\" 구조로 마무리해보세요."
+      ],
+      "reading_title": "[54번 실전] 다음 주제로 논설문을 쓰시오. (700자)",
+      "reading_title_eng": "Q54 Practice — Write an argumentative essay on the topic below. (700 chars)",
+      "reading_text": [
+        "【주제】 인공지능(AI)이 인간의 일자리를 대체하는 것에 대한 찬반",
+        "",
+        "【쓰기 조건】",
+        "① AI의 일자리 대체에 대한 자신의 입장을 밝히시오.",
+        "② 자신의 주장에 대한 근거를 두 가지 제시하시오.",
+        "③ 예상되는 반론을 언급하고 이에 대해 반박하시오.",
+        "",
+        "[Topic] For/against AI replacing human jobs",
+        "[Conditions]",
+        "① State your position on AI replacing jobs.",
+        "② Present two reasons supporting your claim.",
+        "③ Mention an expected counter-argument and rebut it."
+      ],
+      "q_labels": [
+        "Q1. 서론에서 자신의 입장(찬성/반대)을 명확히 밝혔나요? (   )",
+        "Q2. 근거 두 가지를 구체적인 사례나 통계와 함께 제시했나요? (   )",
+        "Q3. \"물론 ~지만 그럼에도\" 구조로 반론을 처리했나요? (   )"
+      ],
+      "listening_script": [
+        [
+          "학생A",
+          "54번은 어떻게 써야 고득점을 받을 수 있어요?"
+        ],
+        [
+          "학생B",
+          "반론을 처리하는 게 중요하대요. 무시하면 안 되고 인정하면서 재반박해야 한대요."
+        ],
+        [
+          "학생A",
+          "아, \"물론 ~지만 그럼에도\" 패턴을 쓰면 되는군요."
+        ],
+        [
+          "학생B",
+          "맞아요. 그리고 결론에서 주장을 다시 한번 강조해야 해요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 고득점을 위해 중요한 것은?",
+          [
+            "① 어려운 어휘 사용",
+            "② 반론 처리(인정+재반박)",
+            "③ 700자를 초과하기",
+            "④ 감정적 표현 사용"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 결론에서 해야 할 것은?",
+          [
+            "① 새로운 주제 도입",
+            "② 반론 인정",
+            "③ 주장 재확인·강조",
+            "④ 통계 제시"
+          ],
+          "③"
+        ]
+      ],
+      "topik_hdr": "54번 논설문 쓰기 유형",
+      "topik_tip": "💡 서론에서 입장 명확히 → 근거 2개 → 반론 처리 → 결론 강조!",
+      "topik_qs": [
+        [
+          "[54번 구조] 논설문 서론에 반드시 포함해야 할 내용은?",
+          [
+            "① 반론 제시",
+            "② 통계 자료",
+            "③ 자신의 명확한 주장",
+            "④ 결론 요약"
+          ],
+          "정답: ③"
+        ],
+        [
+          "[반론 처리] 다음 중 가장 효과적인 반론 처리 방법은?",
+          [
+            "① 반론을 완전히 무시한다",
+            "② 반론을 인정하고 재반박한다",
+            "③ 반론만 자세히 설명한다",
+            "④ 반론 없이 주장만 반복한다"
+          ],
+          "정답: ②"
+        ],
+        [
+          "[표현] 논설문 결론의 가장 적절한 마무리 표현은?",
+          [
+            "① 나는 이것이 좋다고 생각한다",
+            "② 따라서 ~해야 할 것이다",
+            "③ 이것은 매우 어렵다",
+            "④ 아직 모르겠다"
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "54번 유형",
+          "700자 논설문",
+          "700-char argumentative essay"
+        ],
+        [
+          "구조",
+          "서론(주장)-본론(근거×2)-결론",
+          "Intro(claim)-body(evidence)-conclusion"
+        ],
+        [
+          "반론 처리",
+          "물론 ~지만 그럼에도",
+          "물론 X, 그럼에도 Y"
+        ],
+        [
+          "주장 표현",
+          "~해야 한다/~이 필요하다",
+          "Must/need to expressions"
+        ],
+        [
+          "결론 강조",
+          "따라서 ~해야 할 것이다",
+          "Therefore, must~"
+        ]
+      ],
+      "checklist": [
+        "서론에서 자신의 입장을 명확히 밝혔어요.",
+        "근거를 두 가지 이상 제시했어요.",
+        "반론을 인정하고 재반박했어요.",
+        "결론에서 주장을 재확인했어요.",
+        "700자(±50자) 분량을 맞췄어요."
+      ],
+      "mission": "매일 하나의 사회적 쟁점을 골라 찬성/반대 입장으로 700자 논설문을 써보세요.",
+      "mission_eng": "Choose one social issue daily and write a 700-char argumentative essay for or against it.",
+      "writing_prompt": "주제: \"대학 입시에서 수능 비중을 줄여야 하는가\" — 찬성 또는 반대 입장으로 700자 논설문을 써보세요.",
+      "writing_prompt_eng": "Topic: \"Should the CSAT weighting in college admission be reduced?\" — Write a 700-char argumentative essay.",
+      "topik_vocab": [
+        [
+          "T01",
+          "주장",
+          "claim"
+        ],
+        [
+          "T02",
+          "논거",
+          "rationale"
+        ],
+        [
+          "T03",
+          "반론",
+          "counter-argument"
+        ],
+        [
+          "T04",
+          "재반박",
+          "rebuttal"
+        ],
+        [
+          "T05",
+          "설득",
+          "persuasion"
+        ],
+        [
+          "T06",
+          "논증",
+          "argumentation"
+        ],
+        [
+          "T07",
+          "타당성",
+          "validity"
+        ],
+        [
+          "T08",
+          "논리",
+          "logic"
+        ],
+        [
+          "T09",
+          "일관성",
+          "consistency"
+        ],
+        [
+          "T10",
+          "강조",
+          "emphasis"
+        ]
+      ]
+    },
+    {
+      "title": "종합 실전",
+      "title_eng": "Full Practice (Q51~54)",
+      "chars": "TOPIK II 쓰기 51~54번 모의 세트",
+      "must_vocab": [
+        [
+          "01",
+          "⏱️",
+          "시간 관리",
+          "time management",
+          "시간을 관리해요."
+        ],
+        [
+          "02",
+          "📋",
+          "전략",
+          "strategy",
+          "실전 전략이에요."
+        ],
+        [
+          "03",
+          "🎯",
+          "목표 점수",
+          "target score",
+          "목표 점수를 정해요."
+        ],
+        [
+          "04",
+          "✅",
+          "자가 점검",
+          "self-checking",
+          "자가 점검을 해요."
+        ],
+        [
+          "05",
+          "📏",
+          "글자 수",
+          "character count",
+          "글자 수를 확인해요."
+        ],
+        [
+          "06",
+          "🔄",
+          "퇴고",
+          "revision",
+          "퇴고를 해요."
+        ],
+        [
+          "07",
+          "📝",
+          "초안",
+          "draft",
+          "초안을 써요."
+        ],
+        [
+          "08",
+          "⚡",
+          "속필",
+          "quick writing",
+          "속필 능력이에요."
+        ],
+        [
+          "09",
+          "🏆",
+          "채점 기준",
+          "scoring criteria",
+          "채점 기준이에요."
+        ],
+        [
+          "10",
+          "💡",
+          "실수 유형",
+          "error types",
+          "실수를 줄여요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "배점",
+          "point allocation",
+          "배점을 알아요."
+        ],
+        [
+          "12",
+          "부분 점수",
+          "partial credit",
+          "부분 점수가 있어요."
+        ],
+        [
+          "13",
+          "감점 요인",
+          "deduction factor",
+          "감점을 피해요."
+        ],
+        [
+          "14",
+          "완성도",
+          "completeness",
+          "완성도를 높여요."
+        ],
+        [
+          "15",
+          "일관성",
+          "consistency",
+          "일관성을 유지해요."
+        ],
+        [
+          "16",
+          "논리성",
+          "logicality",
+          "논리성이 중요해요."
+        ],
+        [
+          "17",
+          "어휘력",
+          "vocabulary",
+          "어휘력을 키워요."
+        ],
+        [
+          "18",
+          "문법 정확성",
+          "grammatical accuracy",
+          "문법을 정확히 써요."
+        ],
+        [
+          "19",
+          "내용 구성",
+          "content organization",
+          "내용을 구성해요."
+        ],
+        [
+          "20",
+          "표현력",
+          "expressiveness",
+          "표현력을 키워요."
+        ]
+      ],
+      "g1_name": "쓰기 시험 시간 배분 전략",
+      "g1_name_eng": "Writing Test Time Management Strategy",
+      "g1_desc": "TOPIK II 쓰기는 50분 안에 51~54번을 완성해야 해요. 문제별 적정 시간을 배분하고 초안-퇴고 순서로 진행해요.",
+      "g1_desc_eng": "TOPIK II writing must be completed in 50 minutes. Allocate time per question and follow draft-revision order.",
+      "g1_cols": [
+        "문제",
+        "배점",
+        "권장 시간",
+        "전략"
+      ],
+      "g1_rows": [
+        [
+          "51번 빈칸",
+          "10점",
+          "5~7분",
+          "빠르게 채우고 확인"
+        ],
+        [
+          "52번 실용문",
+          "10점",
+          "10~12분",
+          "정보 완성 + 글자 수"
+        ],
+        [
+          "53번 설명문",
+          "30점",
+          "15~17분",
+          "구조 먼저 → 초안 → 퇴고"
+        ],
+        [
+          "54번 논설문",
+          "50점",
+          "17~20분",
+          "입장 먼저 → 근거 → 반론 → 결론"
+        ]
+      ],
+      "g1_irr": [
+        [
+          "우선순위",
+          "54번(50점) > 53번(30점) > 51·52번",
+          "고배점 문제에 집중"
+        ],
+        [
+          "퇴고 방법",
+          "글자 수 확인 → 문체 통일 → 오탈자 확인",
+          "2~3분 빠른 퇴고"
+        ]
+      ],
+      "g1_tip": "54번(50점)에 가장 많은 시간을! 51·52번은 빠르게 처리하고 53·54번에 집중해요.",
+      "g1_tip_eng": "Spend most time on Q54(50pts)! Process Q51·52 quickly, focus on Q53·54.",
+      "g1_exs": [
+        [
+          "시간 배분 예: 51번 6분 → 52번 11분 → 53번 16분 → 54번 17분 = 50분",
+          "Time plan: Q51 6min → Q52 11min → Q53 16min → Q54 17min = 50min"
+        ],
+        [
+          "퇴고 체크: ① 글자 수 ② 문체 통일 ③ 주어-술어 호응 ④ 오탈자",
+          "Revision check: ① char count ② style ③ grammar ④ typos"
+        ],
+        [
+          "비상 전략: 시간 부족 시 53번 결론 생략보다 54번 포기 금지",
+          "Emergency: Never skip Q54 — highest points"
+        ]
+      ],
+      "g1_prac": [
+        "1. 타이머를 맞추고 51~52번을 17분 안에 완성해보세요.",
+        "2. 53~54번을 33분 안에 완성해보세요.",
+        "3. 전체 50분 모의 시험을 실제처럼 풀어보세요."
+      ],
+      "g2_name": "쓰기 채점 기준과 고득점 전략",
+      "g2_name_eng": "Scoring Criteria & High Score Strategies",
+      "g2_desc": "TOPIK II 쓰기 채점 기준(내용·구성·언어 사용)을 이해하고 각 항목에서 점수를 최대화하는 전략을 알아요.",
+      "g2_desc_eng": "Understand TOPIK II writing scoring criteria (content, organization, language) and maximize each.",
+      "g2_cols": [
+        "채점 영역",
+        "평가 기준",
+        "고득점 전략",
+        "실수 주의"
+      ],
+      "g2_rows": [
+        [
+          "내용 (30%)",
+          "주제 관련성·과제 충실도",
+          "제시어 모두 활용",
+          "주제 이탈 최대 감점"
+        ],
+        [
+          "구성 (30%)",
+          "서론-본론-결론 구조·일관성",
+          "문단 구분·접속사 활용",
+          "구조 없으면 감점"
+        ],
+        [
+          "언어 사용 (40%)",
+          "어휘·문법 정확성·다양성",
+          "고급 어휘·다양한 문형",
+          "오탈자·반복 표현 감점"
+        ],
+        [
+          "글자 수",
+          "700±50자 (53·54번)",
+          "200·300·700자 감각 익히기",
+          "미달/초과 감점"
+        ]
+      ],
+      "g2_irr": [
+        [
+          "언어 사용 가장 중요",
+          "40%로 가장 높은 비중",
+          "다양한 문법·어휘 연습"
+        ],
+        [
+          "어휘 다양성",
+          "같은 단어 반복 피하기",
+          "유의어 목록 미리 준비"
+        ]
+      ],
+      "g2_tip": "언어 사용(40%)이 가장 높아요! 고급 어휘와 다양한 문법을 의식적으로 써요.",
+      "g2_tip_eng": "Language use (40%) is weighted highest! Consciously use advanced vocab and varied grammar.",
+      "g2_exs": [
+        [
+          "어휘 다양화: 좋다 → 효과적이다/바람직하다/긍정적이다",
+          "Vocab variety: good → effective/desirable/positive"
+        ],
+        [
+          "문법 다양화: 가장 → 가장/무엇보다도/특히",
+          "Grammar variety: most → especially/above all"
+        ],
+        [
+          "자가 점검 3단계: ① 글자 수 → ② 문체·문법 → ③ 내용 완성도",
+          "Self-check: ① chars → ② style/grammar → ③ content completeness"
+        ]
+      ],
+      "g2_prac": [
+        "1. 자신이 쓴 53번 글에서 반복된 단어를 찾아 유의어로 바꿔보세요.",
+        "2. 쓴 글의 구조(서론-본론-결론)가 명확한지 단락별로 확인해보세요.",
+        "3. 글자 수를 세고 700±50자 범위인지 확인해보세요."
+      ],
+      "reading_title": "[종합 실전] 51~54번 모의 세트",
+      "reading_title_eng": "Full Practice — Q51~54 Mock Test Set",
+      "reading_text": [
+        "【51번】 빈칸에 알맞은 내용을 쓰시오.",
+        "현대인들은 디지털 기기에 많은 시간을 쏟고 있다.",
+        "( ㉠ ). 이처럼 디지털 기기 과다 사용은 집중력 저하와",
+        "수면 장애 등 다양한 문제를 야기할 수 있다. 따라서 ( ㉡ ).",
+        "",
+        "【52번】 다음 정보를 바탕으로 200~300자 안내문을 쓰시오.",
+        "- 한국어 말하기 대회 참가자 모집",
+        "- 대상: 외국인 학생 / 일시: 6월 15일 오후 2시",
+        "- 장소: 대학 강당 / 신청: 이메일(korean@univ.ac.kr)",
+        "",
+        "【53·54번】 별도 원고지에 작성하시오."
+      ],
+      "q_labels": [
+        "Q1. 51번 ㉠㉡을 채우고 글의 논리 흐름을 확인하세요.",
+        "Q2. 52번 안내문을 200~300자로 쓰고 글자 수를 확인하세요.",
+        "Q3. 50분 타이머로 전체 세트를 풀고 시간 배분을 기록하세요. (   )"
+      ],
+      "listening_script": [
+        [
+          "학생",
+          "선생님, TOPIK 쓰기 시험에서 가장 중요한 게 뭐예요?"
+        ],
+        [
+          "선생님",
+          "54번이 50점이니까 가장 중요해요. 하지만 51·52번도 빠르게 처리해야 54번에 시간을 쓸 수 있어요."
+        ],
+        [
+          "학생",
+          "퇴고는 어떻게 해요?"
+        ],
+        [
+          "선생님",
+          "마지막 3분에 글자 수, 문체 통일, 오탈자만 빠르게 확인하세요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 선생님이 강조한 것은?",
+          [
+            "① 51번에 집중해라",
+            "② 54번(50점)에 가장 집중",
+            "③ 퇴고를 길게 해라",
+            "④ 모두 동일하게 시간 배분"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 퇴고 시 확인해야 할 것은?",
+          [
+            "① 내용 전면 수정",
+            "② 글자 수·문체·오탈자 빠른 확인",
+            "③ 새로운 근거 추가",
+            "④ 서론 다시 쓰기"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "종합 실전 전략 정리",
+      "topik_tip": "💡 54번(50점) > 53번(30점) > 51·52번 순으로 시간 배분!",
+      "topik_qs": [
+        [
+          "[시간 배분] 50분 쓰기 시험의 최적 시간 배분은?",
+          [
+            "① 각 문제에 동일하게 12.5분",
+            "② 51(6분)+52(11분)+53(16분)+54(17분)",
+            "③ 51·52번에 30분+53·54번에 20분",
+            "④ 54번만 50분"
+          ],
+          "정답: ②"
+        ],
+        [
+          "[채점 기준] 53·54번에서 가장 높은 비중을 차지하는 것은?",
+          [
+            "① 내용 관련성 (30%)",
+            "② 구조·구성 (30%)",
+            "③ 언어 사용 (40%)",
+            "④ 글자 수 (독립 항목)"
+          ],
+          "정답: ③"
+        ],
+        [
+          "[자가 점검] 제출 전 마지막 확인 순서로 가장 적절한 것은?",
+          [
+            "① 내용 전면 수정 → 어휘 교체 → 글자 수",
+            "② 글자 수 → 문체 통일 → 오탈자",
+            "③ 오탈자 → 내용 추가 → 구조 변경",
+            "④ 결론 삭제 → 서론 추가 → 글자 수"
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "시간 배분",
+          "51(6분)+52(11분)+53(16분)+54(17분)",
+          "50-minute allocation"
+        ],
+        [
+          "배점",
+          "54번(50점)>53번(30점)>51·52번(10점)",
+          "Q54>Q53>Q51·Q52"
+        ],
+        [
+          "채점 언어",
+          "언어 사용(40%)>내용·구성(각30%)",
+          "Language use highest"
+        ],
+        [
+          "퇴고",
+          "글자 수→문체→오탈자 3분 안에",
+          "3-min revision check"
+        ],
+        [
+          "어휘 다양성",
+          "반복 단어 → 유의어로 교체",
+          "Synonym substitution"
+        ]
+      ],
+      "checklist": [
+        "54번에 가장 많은 시간을 배분했어요.",
+        "51·52번을 빠르게 처리했어요.",
+        "퇴고로 글자 수·문체·오탈자를 확인했어요.",
+        "반복 어휘를 유의어로 바꿔 다양성을 높였어요.",
+        "채점 기준(언어 40%)을 의식하며 썼어요."
+      ],
+      "mission": "실제 TOPIK II 기출 쓰기 문제를 50분 타이머로 풀고 자가 채점해보세요.",
+      "mission_eng": "Solve a real TOPIK II past writing test with a 50-min timer and self-score it.",
+      "writing_prompt": "51~54번 전체를 50분 안에 완성하고 각 문제의 소요 시간을 기록해보세요.",
+      "writing_prompt_eng": "Complete Q51~54 within 50 minutes and record the time spent on each question.",
+      "topik_vocab": [
+        [
+          "T01",
+          "배점",
+          "point allocation"
+        ],
+        [
+          "T02",
+          "채점",
+          "scoring"
+        ],
+        [
+          "T03",
+          "완성도",
+          "completeness"
+        ],
+        [
+          "T04",
+          "어휘력",
+          "vocabulary ability"
+        ],
+        [
+          "T05",
+          "문법 정확성",
+          "grammatical accuracy"
+        ],
+        [
+          "T06",
+          "내용 구성",
+          "content organization"
+        ],
+        [
+          "T07",
+          "표현력",
+          "expressiveness"
+        ],
+        [
+          "T08",
+          "일관성",
+          "consistency"
+        ],
+        [
+          "T09",
+          "퇴고",
+          "revision"
+        ],
+        [
+          "T10",
+          "오탈자",
+          "typo/error"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2274 @@
+{
+  "step": 7,
+  "level": "B2+",
+  "title": "고급발화·태도",
+  "color": "#74B9FF",
+  "colorDk": "#0A4A8A",
+  "units": [
+    {
+      "title": "발화 태도",
+      "title_eng": "Speech Attitude",
+      "chars": "Ken, Linh",
+      "must_vocab": [
+        [
+          "01",
+          "😏",
+          "잖아요",
+          "you know / right",
+          "알잖아요."
+        ],
+        [
+          "02",
+          "💭",
+          "텐데",
+          "must be / should be",
+          "힘들 텐데요."
+        ],
+        [
+          "03",
+          "🤷",
+          "글쎄요",
+          "well / hmm",
+          "글쎄요, 모르겠어요."
+        ],
+        [
+          "04",
+          "😮",
+          "그렇군요",
+          "I see / ah",
+          "그렇군요!"
+        ],
+        [
+          "05",
+          "🤔",
+          "아마",
+          "probably",
+          "아마 올 텐데요."
+        ],
+        [
+          "06",
+          "💬",
+          "그렇잖아요",
+          "right? / that's it",
+          "그렇잖아요!"
+        ],
+        [
+          "07",
+          "🌟",
+          "분명히",
+          "surely",
+          "분명히 알 텐데."
+        ],
+        [
+          "08",
+          "😅",
+          "사실",
+          "actually",
+          "사실 알잖아요."
+        ],
+        [
+          "09",
+          "😌",
+          "물론",
+          "of course",
+          "물론 할 텐데요."
+        ],
+        [
+          "10",
+          "🔔",
+          "확인하다",
+          "to confirm",
+          "확인하면 알잖아요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "암묵적",
+          "implicit",
+          "암묵적으로 알잖아요."
+        ],
+        [
+          "12",
+          "전제",
+          "premise",
+          "전제가 있잖아요."
+        ],
+        [
+          "13",
+          "추측",
+          "guess",
+          "추측이지만 맞을 텐데."
+        ],
+        [
+          "14",
+          "아쉽다",
+          "regrettable",
+          "아쉬울 텐데요."
+        ],
+        [
+          "15",
+          "당연히",
+          "naturally",
+          "당연히 알잖아요."
+        ],
+        [
+          "16",
+          "의심하다",
+          "to doubt",
+          "의심할 텐데."
+        ],
+        [
+          "17",
+          "기대하다",
+          "to expect",
+          "기대할 텐데요."
+        ],
+        [
+          "18",
+          "걱정하다",
+          "to worry",
+          "걱정할 텐데."
+        ],
+        [
+          "19",
+          "납득하다",
+          "to understand/accept",
+          "납득할 텐데요."
+        ],
+        [
+          "20",
+          "공감하다",
+          "to empathize",
+          "공감하잖아요."
+        ]
+      ],
+      "g1_name": "V/A-잖아요 (공유 전제 확인)",
+      "g1_name_eng": "V/A-잖아요: you know / isn't it (shared knowledge)",
+      "g1_desc": "화자와 청자 모두 아는 사실을 확인하거나 상기시킬 때 써요. 억양에 따라 확인·공감·불만으로 뉘앙스가 달라요.",
+      "g1_desc_eng": "Confirms or reminds shared knowledge. Nuance shifts with intonation: confirmation, empathy, or complaint.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V/A-잖아요",
+          "알잖아요. 말 안 해도 돼요.",
+          "공유 전제 확인",
+          "You know, right? No need to say it."
+        ],
+        [
+          "V/A-잖아요",
+          "그게 문제잖아요.",
+          "문제 지적",
+          "That's exactly the problem!"
+        ],
+        [
+          "V/A-잖아요",
+          "한국어 어렵잖아요.",
+          "공감 유도",
+          "Korean is hard, you know?"
+        ],
+        [
+          "V/A-잖아요",
+          "제가 바빴잖아요.",
+          "변명·이유",
+          "I was busy, you know."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "억양",
+          "알잖아요↗ (확인·공감) / 알잖아요↘ (불만·타박)",
+          "같은 형태, 다른 뉘앙스"
+        ],
+        [
+          "vs -거든요",
+          "-잖아요: 이미 아는 정보 상기 / -거든요: 새 정보 제공",
+          "알잖아요 (둘 다 앎) / 알거든요 (청자 모를 수도)"
+        ]
+      ],
+      "g1_tip": "-잖아요는 \"우리 둘 다 알잖아요\"! 억양에 따라 친근·불만으로 달라요.",
+      "g1_tip_eng": "-잖아요 = \"you know, right?\" Friendly or complaining depending on tone.",
+      "g1_exs": [
+        [
+          "어제 말했잖아요. 왜 몰라요?",
+          "I told you yesterday. Why don't you know?"
+        ],
+        [
+          "한국어 재미있잖아요!",
+          "Korean is fun, you know!"
+        ],
+        [
+          "그게 문제잖아요.",
+          "That's exactly the problem."
+        ]
+      ],
+      "g1_prac": [
+        "1. 알다 → 다 알_____ 왜 물어봐요?",
+        "2. 어렵다 → 한국어 어렵_____ 이해해요.",
+        "3. 말했다 → 어제 말했_____ 잊었어요?"
+      ],
+      "g2_name": "V/A-(으)ㄹ 텐데 (논리적 추측·아쉬움)",
+      "g2_name_eng": "V/A-(으)ㄹ 텐데: must be / should be (logical assumption)",
+      "g2_desc": "당연히 그럴 것이라는 논리적 추측이나 아쉬움을 나타내요. 받침 O→-을 텐데, 없음→-ㄹ 텐데.",
+      "g2_desc_eng": "Logical assumption or regret. Consonant→-을 텐데, vowel/ㄹ→-ㄹ 텐데.",
+      "g2_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "받침 O",
+          "-을 텐데",
+          "많이 힘들을 텐데 괜찮아요?",
+          "Must be tough — are you okay?"
+        ],
+        [
+          "받침 X",
+          "-ㄹ 텐데",
+          "집에 있을 텐데.",
+          "Probably home, I would think."
+        ],
+        [
+          "아쉬움",
+          "-을/ㄹ 텐데",
+          "일찍 왔을 텐데 아쉬워요.",
+          "It would have been good if came early."
+        ],
+        [
+          "배경",
+          "-을/ㄹ 텐데, 뒤절",
+          "늦을 텐데, 빨리 가요.",
+          "You're probably going to be late — hurry."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "vs -겠어요",
+          "텐데: 논리적 근거 있는 추측 / -겠어요: 직관·느낌 추측",
+          "힘들 텐데 (당연히) / 힘들겠어요 (느낌)"
+        ]
+      ],
+      "g2_tip": "-(으)ㄹ 텐데는 논리적 근거가 있는 추측! 아쉬움 표현에도 자연스러워요.",
+      "g2_tip_eng": "-(으)ㄹ 텐데 = logically-based assumption. Also expresses regret.",
+      "g2_exs": [
+        [
+          "많이 배고플 텐데 밥 먹었어요?",
+          "You must be very hungry — did you eat?"
+        ],
+        [
+          "아마 지금 자고 있을 텐데.",
+          "They're probably sleeping now."
+        ],
+        [
+          "일찍 출발했을 텐데 왜 늦었어요?",
+          "(They) should have left early — why late?"
+        ]
+      ],
+      "g2_prac": [
+        "1. 힘들다 → 많이 힘들_____ 괜찮아요?",
+        "2. 집에 있다 → 집에 있_____.",
+        "3. 배고프다 → 배고플_____ 밥 먹어요."
+      ],
+      "reading_title": "알잖아요",
+      "reading_title_eng": "You Already Know",
+      "reading_text": [
+        "켄이 린한테 화가 났어요.",
+        "\"내가 말했잖아요! 왜 또 잊었어요?\"",
+        "린이 미안하다고 했어요.",
+        "켄도 많이 피곤할 텐데 미안해요.",
+        "사실 둘 다 바빴잖아요.",
+        "",
+        "Ken was upset at Linh.",
+        "\"I told you! Why did you forget again?\"",
+        "Linh apologized.",
+        "Ken must be very tired too — I'm sorry.",
+        "Actually, both were busy, you know."
+      ],
+      "q_labels": [
+        "Q1. 켄은 왜 화가 났어요? (Why was Ken upset?)",
+        "Q2. 켄의 상태는 어떨 것 같아요? (What must Ken's state be like?)",
+        "Q3. 맞으면 O, 틀리면 X — 린이 일부러 잊었어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "켄",
+          "린, 제가 말했잖아요. 왜 또 잊어요?"
+        ],
+        [
+          "린",
+          "미안해요. 요즘 너무 바빴거든요."
+        ],
+        [
+          "켄",
+          "저도 알잖아요. 다들 바빠요."
+        ],
+        [
+          "린",
+          "켄도 많이 힘들 텐데 제가 더 챙겨야겠어요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 켄이 화난 이유는?",
+          [
+            "① 린이 늦어서",
+            "② 린이 말한 것을 잊어서",
+            "③ 린이 안 와서",
+            "④ 린이 화내서"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 린이 생각하는 켄의 상태는?",
+          [
+            "① 괜찮을 텐데",
+            "② 힘들 텐데",
+            "③ 기쁠 텐데",
+            "④ 편할 텐데"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "발화 태도 유형",
+      "topik_tip": "💡 -잖아요(공유 전제 확인) vs -(으)ㄹ 텐데(논리적 추측) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n다 알_____ 왜 물어봐요?",
+          [
+            "① 잖아요",
+            "② 을 텐데",
+            "③ 겠어요",
+            "④ 거든요"
+          ],
+          "정답: ① (-잖아요 = 공유 전제)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n많이 힘들_____ 괜찮아요?",
+          [
+            "① 잖아요",
+            "② 을 텐데",
+            "③ 겠어요",
+            "④ 거든요"
+          ],
+          "정답: ② (-(으)ㄹ 텐데 = 논리적 추측)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"한국어 어렵잖아요.\"",
+          [
+            "① 한국어가 쉽다고 알고 있어요.",
+            "② 한국어가 어렵다는 것을 공유해요.",
+            "③ 처음 알게 됐어요.",
+            "④ 한국어를 안 배워요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-잖아요",
+          "알잖아요. / 그게 문제잖아요.",
+          "You know. / That's the problem."
+        ],
+        [
+          "-(으)ㄹ 텐데",
+          "힘들 텐데 괜찮아요?",
+          "Must be tough."
+        ],
+        [
+          "아쉬움 텐데",
+          "일찍 왔을 텐데.",
+          "Should have come early."
+        ],
+        [
+          "억양 차이",
+          "잖아요↗ 확인 / ↘ 불만",
+          "tone: confirm vs complain"
+        ],
+        [
+          "논리 추측",
+          "분명히 / 아마 / 틀림없이",
+          "surely / probably / without doubt"
+        ]
+      ],
+      "checklist": [
+        "-잖아요로 공유 전제를 확인해요.",
+        "-(으)ㄹ 텐데로 논리적 추측을 표현해요.",
+        "두 표현의 뉘앙스 차이를 알아요.",
+        "-잖아요의 억양 차이를 이해해요.",
+        "발화 태도 어휘 10개 이상 알아요."
+      ],
+      "mission": "-잖아요와 -(으)ㄹ 텐데를 써서 자연스러운 대화 3줄을 만들어보세요.",
+      "mission_eng": "Create a 3-line conversation using -잖아요 and -(으)ㄹ 텐데.",
+      "writing_prompt": "-잖아요와 -(으)ㄹ 텐데를 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -잖아요 and -(으)ㄹ 텐데.",
+      "topik_vocab": [
+        [
+          "T01",
+          "어조",
+          "tone"
+        ],
+        [
+          "T02",
+          "뉘앙스",
+          "nuance"
+        ],
+        [
+          "T03",
+          "함의",
+          "implication"
+        ],
+        [
+          "T04",
+          "전제",
+          "presupposition"
+        ],
+        [
+          "T05",
+          "화자",
+          "speaker"
+        ],
+        [
+          "T06",
+          "청자",
+          "listener"
+        ],
+        [
+          "T07",
+          "맥락",
+          "context"
+        ],
+        [
+          "T08",
+          "상황",
+          "situation"
+        ],
+        [
+          "T09",
+          "발화",
+          "utterance"
+        ],
+        [
+          "T10",
+          "담화",
+          "discourse"
+        ]
+      ]
+    },
+    {
+      "title": "반사실 · 한정",
+      "title_eng": "Counterfactual & Limitation",
+      "chars": "Sofia, Ahmad",
+      "must_vocab": [
+        [
+          "01",
+          "😔",
+          "후회",
+          "regret",
+          "후회하고 있어요."
+        ],
+        [
+          "02",
+          "💭",
+          "가정",
+          "hypothesis",
+          "가정해 봐요."
+        ],
+        [
+          "03",
+          "🤔",
+          "뿐이다",
+          "only / just",
+          "그것뿐이에요."
+        ],
+        [
+          "04",
+          "😮",
+          "만약",
+          "if (hypothetical)",
+          "만약 그랬더라면요."
+        ],
+        [
+          "05",
+          "🌟",
+          "최선",
+          "best",
+          "최선을 다할 뿐이에요."
+        ],
+        [
+          "06",
+          "😌",
+          "아쉽다",
+          "regrettable",
+          "아쉬울 뿐이에요."
+        ],
+        [
+          "07",
+          "🎯",
+          "결과",
+          "result",
+          "결과가 달랐을 거예요."
+        ],
+        [
+          "08",
+          "💪",
+          "노력",
+          "effort",
+          "노력할 뿐이에요."
+        ],
+        [
+          "09",
+          "📝",
+          "과거",
+          "past",
+          "과거는 바꿀 수 없어요."
+        ],
+        [
+          "10",
+          "⭐",
+          "현재",
+          "present",
+          "현재에 집중할 뿐이에요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "돌이키다",
+          "to reverse",
+          "돌이킬 수 없어요."
+        ],
+        [
+          "12",
+          "한계",
+          "limit",
+          "한계가 있을 뿐이에요."
+        ],
+        [
+          "13",
+          "인정하다",
+          "to accept",
+          "인정할 뿐이에요."
+        ],
+        [
+          "14",
+          "받아들이다",
+          "to accept",
+          "받아들일 뿐이에요."
+        ],
+        [
+          "15",
+          "포기하지 않다",
+          "not to give up",
+          "포기하지 않을 뿐이에요."
+        ],
+        [
+          "16",
+          "믿다",
+          "to believe",
+          "믿을 뿐이에요."
+        ],
+        [
+          "17",
+          "기다리다",
+          "to wait",
+          "기다릴 뿐이에요."
+        ],
+        [
+          "18",
+          "이해하다",
+          "to understand",
+          "이해할 뿐이에요."
+        ],
+        [
+          "19",
+          "계속하다",
+          "to continue",
+          "계속할 뿐이에요."
+        ],
+        [
+          "20",
+          "바라다",
+          "to hope",
+          "바랄 뿐이에요."
+        ]
+      ],
+      "g1_name": "V/A-았/었더라면 (반사실 가정)",
+      "g1_name_eng": "V/A-았/었더라면: if only / had done (counterfactual past)",
+      "g1_desc": "과거에 실제로 일어나지 않은 일을 가정해 후회나 아쉬움을 나타내요. 결과절엔 반드시 -았/었을 것이다.",
+      "g1_desc_eng": "Hypothetical past — what would have been. Always followed by past result clause (-았/었을 것이다).",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-았/었더라면",
+          "공부했더라면 합격했을 거예요.",
+          "반사실 과거",
+          "If I had studied, I would have passed."
+        ],
+        [
+          "A-았/었더라면",
+          "건강했더라면 좋았을 텐데.",
+          "반사실 상태",
+          "If I had been healthier, it would've been better."
+        ],
+        [
+          "V-았/었더라면 좋겠다",
+          "일찍 왔더라면 좋겠어요.",
+          "아쉬움",
+          "I wish you had come earlier."
+        ],
+        [
+          "결과절",
+          "-았/었을 거예요",
+          "했더라면 달라졌을 거예요.",
+          "It would have been different."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "결과절 필수",
+          "좋았을 거예요 / 됐을 거예요 / 달라졌을 거예요",
+          "반드시 과거 추측 결과절이 옴"
+        ],
+        [
+          "vs -(으)면 좋겠다",
+          "더라면: 과거 반사실 / -(으)면 좋겠다: 미래 희망",
+          "그때 갔더라면 (과거) / 지금 가면 좋겠어요 (미래)"
+        ]
+      ],
+      "g1_tip": "-았/었더라면은 과거 반사실! 결과는 항상 -았/었을 거예요로 이어요.",
+      "g1_tip_eng": "-았/었더라면 = counterfactual past. Always followed by past result clause.",
+      "g1_exs": [
+        [
+          "그때 포기하지 않았더라면 성공했을 거예요.",
+          "If I hadn't given up then, I would have succeeded."
+        ],
+        [
+          "일찍 일어났더라면 늦지 않았을 거예요.",
+          "If I had woken up early, I wouldn't have been late."
+        ],
+        [
+          "그때 갔더라면 좋겠어요.",
+          "I wish I had gone then."
+        ]
+      ],
+      "g1_prac": [
+        "1. 그때 공부하다 → 공부했_____ 합격했을 거예요.",
+        "2. 더 일찍 나오다 → 나왔_____ 안 늦었을 거예요.",
+        "3. 일찍 자다+아쉬움 → 잤_____ 좋겠어요."
+      ],
+      "g2_name": "V/A-(으)ㄹ 뿐이다 (한정)",
+      "g2_name_eng": "V/A-(으)ㄹ 뿐이다: just / only / nothing but (limitation)",
+      "g2_desc": "그것 이외의 다른 방법이 없음을 강조해요. 받침 O→-을 뿐이다, 없음→-ㄹ 뿐이다.",
+      "g2_desc_eng": "Emphasizes there is nothing else but that. Consonant→-을 뿐이다, vowel/ㄹ→-ㄹ 뿐이다.",
+      "g2_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "받침 O",
+          "-을 뿐이다",
+          "최선을 다할 뿐이에요.",
+          "I can only do my best."
+        ],
+        [
+          "받침 X",
+          "-ㄹ 뿐이다",
+          "기다릴 뿐이에요. / 바랄 뿐이에요.",
+          "I can only wait. / hope."
+        ],
+        [
+          "받침X (A)",
+          "A-ㄹ 뿐이다",
+          "아쉬울 뿐이에요.",
+          "It's just regrettable."
+        ],
+        [
+          "N 한정",
+          "N-뿐이다",
+          "그것뿐이에요.",
+          "That's all. / Only that."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "뿐이다 vs 만",
+          "뿐이다: 강조적 한정(다른 방법 없음) / 만: 수량 한정",
+          "노력할 뿐이에요 (다른 방법 없음) / 하나만 해요 (수량)"
+        ]
+      ],
+      "g2_tip": "-(으)ㄹ 뿐이다는 그것 외엔 없다는 강한 한정! \"할 수 있는 건 이것뿐\"의 느낌이에요.",
+      "g2_tip_eng": "-(으)ㄹ 뿐이다 = emphatic: \"nothing else but this\". Conveys acceptance.",
+      "g2_exs": [
+        [
+          "제가 할 수 있는 건 기다릴 뿐이에요.",
+          "All I can do is wait."
+        ],
+        [
+          "최선을 다할 뿐이에요. 결과는 몰라요.",
+          "I can only do my best."
+        ],
+        [
+          "그저 바랄 뿐이에요.",
+          "I can only hope."
+        ]
+      ],
+      "g2_prac": [
+        "1. 기다리다 → 기다릴 _____.",
+        "2. 최선 다하다 → 최선을 다할 _____.",
+        "3. 그것(N) → 그것_____ 이에요."
+      ],
+      "reading_title": "아흐마드의 후회",
+      "reading_title_eng": "Ahmad's Regret",
+      "reading_text": [
+        "아흐마드는 예전에 더 열심히 했더라면 좋았을 거예요.",
+        "하지만 지금 할 수 있는 건 노력할 뿐이에요.",
+        "소피아도 그때 포기하지 않았더라면 더 잘됐을 텐데요.",
+        "과거는 바꿀 수 없으니 앞으로 최선을 다할 뿐이에요.",
+        "그것뿐이에요. 다른 방법이 없잖아요.",
+        "",
+        "Ahmad thinks it would have been better if he had worked harder.",
+        "But all he can do now is make an effort.",
+        "Sofia also thinks it would've gone better if she hadn't given up.",
+        "Since the past can't be changed, all they can do is their best.",
+        "That's all. There's no other way, you know."
+      ],
+      "q_labels": [
+        "Q1. 아흐마드는 어떤 것을 후회해요? (What does Ahmad regret?)",
+        "Q2. 지금 할 수 있는 것은? (What can they do now?)",
+        "Q3. 맞으면 O, 틀리면 X — 아흐마드는 과거를 바꿀 수 있어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "아흐마드",
+          "소피아, 그때 더 열심히 했더라면 좋았을 텐데요."
+        ],
+        [
+          "소피아",
+          "맞아요. 하지만 지금 할 수 있는 건 노력할 뿐이에요."
+        ],
+        [
+          "아흐마드",
+          "포기하지 않았더라면 더 잘됐을 거예요."
+        ],
+        [
+          "소피아",
+          "아쉽잖아요. 하지만 앞으로를 봐요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 아흐마드의 후회는?",
+          [
+            "① 공부를 안 한 것",
+            "② 친구와 싸운 것",
+            "③ 한국에 안 온 것",
+            "④ 밥을 안 먹은 것"
+          ],
+          "①"
+        ],
+        [
+          "Q2. 지금 할 수 있는 것은?",
+          [
+            "① 과거를 바꾸는 것",
+            "② 노력할 뿐",
+            "③ 포기하는 것",
+            "④ 후회하는 것"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "반사실·한정 유형",
+      "topik_tip": "💡 -았/었더라면(반사실 가정) vs -(으)ㄹ 뿐이다(한정) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n그때 공부했_____ 합격했을 거예요.",
+          [
+            "① 더라면",
+            "② 을 뿐이에요",
+            "③ 으면",
+            "④ 아도"
+          ],
+          "정답: ① (반사실 가정)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n최선을 다할 _____.",
+          [
+            "① 더라면",
+            "② 뿐이에요",
+            "③ 으면",
+            "④ 아도"
+          ],
+          "정답: ② (한정→뿐이다)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"일찍 왔더라면 좋았을 거예요.\"",
+          [
+            "① 일찍 왔어요.",
+            "② 일찍 왔으면 좋았을 텐데 못 왔어요.",
+            "③ 일찍 오면 좋겠어요.",
+            "④ 일찍 오지 않을 거예요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-았/었더라면",
+          "공부했더라면 합격했을 거예요.",
+          "If had studied, would have passed."
+        ],
+        [
+          "-(으)ㄹ 뿐이다",
+          "기다릴 뿐이에요.",
+          "Can only wait."
+        ],
+        [
+          "그것뿐이에요",
+          "그것뿐이에요.",
+          "That's all."
+        ],
+        [
+          "결과절",
+          "-았/었을 거예요",
+          "would have been~"
+        ],
+        [
+          "아쉬움",
+          "했더라면 좋겠어요.",
+          "I wish I had done it."
+        ]
+      ],
+      "checklist": [
+        "-았/었더라면으로 반사실 가정을 표현해요.",
+        "-(으)ㄹ 뿐이다로 한정을 표현해요.",
+        "결과절(-았/었을 거예요)을 정확히 써요.",
+        "두 표현을 대화에 자연스럽게 써요.",
+        "후회·한정 어휘 10개 이상 알아요."
+      ],
+      "mission": "인생에서 후회되는 것을 -았/었더라면으로, 지금 할 수 있는 것을 -(으)ㄹ 뿐이다로 말해보세요.",
+      "mission_eng": "Express a regret with -았/었더라면 and what you can only do now with -(으)ㄹ 뿐이다.",
+      "writing_prompt": "반사실 가정과 한정을 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -았/었더라면 and -(으)ㄹ 뿐이다.",
+      "topik_vocab": [
+        [
+          "T01",
+          "가정",
+          "assumption"
+        ],
+        [
+          "T02",
+          "반사실",
+          "counterfactual"
+        ],
+        [
+          "T03",
+          "한계",
+          "limit"
+        ],
+        [
+          "T04",
+          "제약",
+          "constraint"
+        ],
+        [
+          "T05",
+          "불가능",
+          "impossibility"
+        ],
+        [
+          "T06",
+          "대안",
+          "alternative"
+        ],
+        [
+          "T07",
+          "선택",
+          "choice"
+        ],
+        [
+          "T08",
+          "포기",
+          "giving up"
+        ],
+        [
+          "T09",
+          "결단",
+          "decision"
+        ],
+        [
+          "T10",
+          "인정",
+          "acknowledgment"
+        ]
+      ]
+    },
+    {
+      "title": "문어체 이유 · 조건",
+      "title_eng": "Literary Reason & Condition",
+      "chars": "Carlos, David",
+      "must_vocab": [
+        [
+          "01",
+          "📝",
+          "문어체",
+          "written style",
+          "문어체로 써요."
+        ],
+        [
+          "02",
+          "💡",
+          "발견하다",
+          "to discover",
+          "가보니 발견했어요."
+        ],
+        [
+          "03",
+          "🔔",
+          "조건",
+          "condition",
+          "조건이 있어요."
+        ],
+        [
+          "04",
+          "📊",
+          "결과",
+          "result",
+          "결과가 나왔어요."
+        ],
+        [
+          "05",
+          "🔍",
+          "근거",
+          "evidence",
+          "근거가 있어요."
+        ],
+        [
+          "06",
+          "✅",
+          "비로소",
+          "only then / for the first time",
+          "비로소 알게 됐어요."
+        ],
+        [
+          "07",
+          "📋",
+          "논증",
+          "argument / proof",
+          "논증이 필요해요."
+        ],
+        [
+          "08",
+          "🔗",
+          "발견",
+          "discovery",
+          "발견이 있었어요."
+        ],
+        [
+          "09",
+          "⭐",
+          "강조",
+          "emphasis",
+          "강조하고 싶어요."
+        ],
+        [
+          "10",
+          "🏛️",
+          "격식",
+          "formality",
+          "격식이 필요해요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "심층적",
+          "deep / in-depth",
+          "심층적으로 분석해요."
+        ],
+        [
+          "12",
+          "포괄적",
+          "comprehensive",
+          "포괄적으로 봐요."
+        ],
+        [
+          "13",
+          "구체적",
+          "specific",
+          "구체적으로 써요."
+        ],
+        [
+          "14",
+          "추상적",
+          "abstract",
+          "추상적으로 표현해요."
+        ],
+        [
+          "15",
+          "분석하다",
+          "to analyze",
+          "분석해요."
+        ],
+        [
+          "16",
+          "해석하다",
+          "to interpret",
+          "해석이 필요해요."
+        ],
+        [
+          "17",
+          "적용하다",
+          "to apply",
+          "적용할 수 있어요."
+        ],
+        [
+          "18",
+          "확립하다",
+          "to establish",
+          "확립해야 해요."
+        ],
+        [
+          "19",
+          "검증하다",
+          "to verify",
+          "검증이 필요해요."
+        ],
+        [
+          "20",
+          "도출하다",
+          "to derive",
+          "결론을 도출해요."
+        ]
+      ],
+      "g1_name": "V/A-(으)니 (문어 이유·발견)",
+      "g1_name_eng": "V/A-(으)니: as / since / when (literary reason or discovery)",
+      "g1_desc": "문어·시적 표현에서 이유나 행동 후 발견을 나타내요. 구어 -(으)니까보다 더 격식적이에요.",
+      "g1_desc_eng": "Literary expression of reason or discovery upon action. More formal than -(으)니까.",
+      "g1_cols": [
+        "받침 여부",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "받침 O",
+          "-으니",
+          "봄이 오으니 날씨가 따뜻해요.",
+          "As spring comes, the weather warms."
+        ],
+        [
+          "받침 X",
+          "-니",
+          "가니 이미 없었어요.",
+          "When I went, they were already gone."
+        ],
+        [
+          "A",
+          "-으니/-니",
+          "아름다우니 사진을 찍었어요.",
+          "It was beautiful, so I took a photo."
+        ],
+        [
+          "발견",
+          "-으니/-니 (발견)",
+          "열어보니 편지가 있었어요.",
+          "When I opened it, there was a letter."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "구어 비교",
+          "-(으)니까(구어) vs -(으)니(문어·시적)",
+          "바쁘니까 못 가요 (구어) / 봄이 오니 꽃이 피네요 (시적)"
+        ]
+      ],
+      "g1_tip": "-(으)니는 문어·시적 표현! 일상 구어에서는 -(으)니까를 써요.",
+      "g1_tip_eng": "-(으)니 = literary/written. Use -(으)니까 in everyday spoken Korean.",
+      "g1_exs": [
+        [
+          "봄이 오니 꽃이 피기 시작했어요.",
+          "As spring came, flowers began to bloom."
+        ],
+        [
+          "열어보니 편지가 있었어요.",
+          "When I opened it, there was a letter."
+        ],
+        [
+          "생각해보니 맞는 말이에요.",
+          "As I think about it, it's right."
+        ]
+      ],
+      "g1_prac": [
+        "1. 봄이 오다+문어 이유 → 봄이 오_____ 따뜻해요.",
+        "2. 열다+발견 → 열어보_____ 선물이 있었어요.",
+        "3. 가다+발견 → 가_____ 아무도 없었어요."
+      ],
+      "g2_name": "V/A-아/어서야 (강조 조건)",
+      "g2_name_eng": "V/A-아/어서야: only after / not until (essential prerequisite)",
+      "g2_desc": "~해야만 비로소 가능함을 나타내요. 이것이 선행돼야만 결과가 가능하다는 강한 조건이에요.",
+      "g2_desc_eng": "Expresses an essential prerequisite: only after X can Y happen. Strong conditional.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-아/어서야",
+          "해봐서야 알 수 있어요.",
+          "경험 후 가능",
+          "Only after trying can you know."
+        ],
+        [
+          "V-아/어서야",
+          "만나봐서야 알겠어요.",
+          "만남 후 가능",
+          "Only after meeting will I know."
+        ],
+        [
+          "V-아/어서야",
+          "졸업해서야 취직이 됐어요.",
+          "완료 후 가능",
+          "Only after graduating did I get a job."
+        ],
+        [
+          "강조",
+          "비로소 함께",
+          "이해해서야 비로소 쓸 수 있어요.",
+          "Only after understanding, finally able to use."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "비로소",
+          "V-아/어서야 비로소 = 그제서야",
+          "해봐서야 비로소 알아요 (only then does one know)"
+        ]
+      ],
+      "g2_tip": "-아/어서야는 \"~해야만 비로소\"! 그것 없이는 결과가 불가능해요.",
+      "g2_tip_eng": "-아/어서야 = \"only after~, not until~\". Result is impossible without this.",
+      "g2_exs": [
+        [
+          "직접 해봐서야 알 수 있어요.",
+          "Only by doing it yourself can you know."
+        ],
+        [
+          "노력해서야 실력이 늘어요.",
+          "Only through effort do skills improve."
+        ],
+        [
+          "이해해서야 쓸 수 있어요.",
+          "Only after understanding can you use it."
+        ]
+      ],
+      "g2_prac": [
+        "1. 해보다 → 해봐_____ 알 수 있어요.",
+        "2. 노력하다 → 노력해_____ 늘어요.",
+        "3. 졸업하다 → 졸업해_____ 취직이 됐어요."
+      ],
+      "reading_title": "봄이 오니",
+      "reading_title_eng": "As Spring Comes",
+      "reading_text": [
+        "봄이 오니 꽃이 피기 시작했어요.",
+        "카를로스는 공원에 나가보니 정말 아름다웠어요.",
+        "한국어도 꾸준히 해봐서야 늘 수 있다는 걸 알았어요.",
+        "데이비드도 연구해보니 흥미로운 결과가 나왔어요.",
+        "이해해서야 응용할 수 있다는 것이 중요해요.",
+        "",
+        "As spring came, flowers began to bloom.",
+        "Carlos went out to the park and found it truly beautiful.",
+        "He learned that Korean can only improve through consistent practice.",
+        "David also found interesting results when he researched.",
+        "It's important that you can only apply what you truly understand."
+      ],
+      "q_labels": [
+        "Q1. 봄이 오니 무슨 일이 생겼어요? (What happened as spring came?)",
+        "Q2. 한국어는 어떻게 해야 늘 수 있어요? (How can Korean improve?)",
+        "Q3. 맞으면 O, 틀리면 X — 데이비드의 연구에서 결과가 안 나왔어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "카를로스",
+          "데이비드, 봄이 오니 공원이 아름다워요."
+        ],
+        [
+          "데이비드",
+          "맞아요. 가보니 정말 꽃이 많이 폈어요."
+        ],
+        [
+          "카를로스",
+          "한국어도 꾸준히 해봐서야 느는 것 같아요."
+        ],
+        [
+          "데이비드",
+          "맞아요. 이해해서야 쓸 수 있는 것과 같아요."
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 봄이 오니 어떻게 됐어요?",
+          [
+            "① 눈이 왔어요.",
+            "② 꽃이 피기 시작했어요.",
+            "③ 날이 흐려졌어요.",
+            "④ 바람이 불었어요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 한국어가 늘려면?",
+          [
+            "① 학원에 다니면",
+            "② 꾸준히 해봐서야",
+            "③ 드라마 보면",
+            "④ 시험 치면"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "문어체 이유·조건 유형",
+      "topik_tip": "💡 -(으)니(문어 이유·발견) vs -아/어서야(강조 조건) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n봄이 오_____ 꽃이 피어요.",
+          [
+            "① 니",
+            "② 아서야",
+            "③ 므로",
+            "④ 도록"
+          ],
+          "정답: ① (문어 이유→-(으)니)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n해봐_____ 알 수 있어요.",
+          [
+            "① 니",
+            "② 서야",
+            "③ 므로",
+            "④ 도록"
+          ],
+          "정답: ② (강조 조건→-아/어서야)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"열어보니 편지가 있었어요.\"",
+          [
+            "① 열지 않았어요.",
+            "② 열었더니 편지를 발견했어요.",
+            "③ 편지가 없었어요.",
+            "④ 열기 전에 편지를 알았어요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-(으)니 (이유)",
+          "봄이 오니 따뜻해요.",
+          "As spring comes, it's warm."
+        ],
+        [
+          "-(으)니 (발견)",
+          "열어보니 편지가 있었어요.",
+          "When I opened, there was a letter."
+        ],
+        [
+          "-아/어서야",
+          "해봐서야 알 수 있어요.",
+          "Only after trying can you know."
+        ],
+        [
+          "비로소",
+          "해봐서야 비로소 알아요.",
+          "Only then do you truly know."
+        ],
+        [
+          "문어 vs 구어",
+          "-(으)니 vs -(으)니까",
+          "written vs spoken"
+        ]
+      ],
+      "checklist": [
+        "-(으)니로 문어 이유·발견을 표현해요.",
+        "-아/어서야로 강조 조건을 표현해요.",
+        "문어체와 구어체를 구별해요.",
+        "비로소와 함께 쓰는 강조 표현을 알아요.",
+        "문어체 이유·조건 어휘 10개 이상 알아요."
+      ],
+      "mission": "-(으)니와 -아/어서야를 사용해 자연스러운 문어체 문장을 만들어보세요.",
+      "mission_eng": "Create natural written-style sentences using -(으)니 and -아/어서야.",
+      "writing_prompt": "-(으)니와 -아/어서야를 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -(으)니 and -아/어서야.",
+      "topik_vocab": [
+        [
+          "T01",
+          "문어체",
+          "written style"
+        ],
+        [
+          "T02",
+          "구어체",
+          "spoken style"
+        ],
+        [
+          "T03",
+          "격식",
+          "formality"
+        ],
+        [
+          "T04",
+          "비격식",
+          "informality"
+        ],
+        [
+          "T05",
+          "문체",
+          "writing style"
+        ],
+        [
+          "T06",
+          "어휘",
+          "vocabulary"
+        ],
+        [
+          "T07",
+          "문법",
+          "grammar"
+        ],
+        [
+          "T08",
+          "표현",
+          "expression"
+        ],
+        [
+          "T09",
+          "수사",
+          "rhetoric"
+        ],
+        [
+          "T10",
+          "논증",
+          "argumentation"
+        ]
+      ]
+    },
+    {
+      "title": "복합 어미",
+      "title_eng": "Complex Endings",
+      "chars": "Natasha, Minjun",
+      "must_vocab": [
+        [
+          "01",
+          "✅",
+          "고서야",
+          "only after",
+          "끝나고서야 알았어요."
+        ],
+        [
+          "02",
+          "😤",
+          "해봤자",
+          "no use trying",
+          "해봤자 소용없어요."
+        ],
+        [
+          "03",
+          "🤷",
+          "어차피",
+          "anyway",
+          "어차피 같은 거잖아요."
+        ],
+        [
+          "04",
+          "💡",
+          "별수 없다",
+          "no choice",
+          "별수 없잖아요."
+        ],
+        [
+          "05",
+          "🌟",
+          "결국",
+          "in the end",
+          "결국 해봤자예요."
+        ],
+        [
+          "06",
+          "😅",
+          "사실",
+          "actually",
+          "사실 해봤자예요."
+        ],
+        [
+          "07",
+          "🔁",
+          "반복",
+          "repetition",
+          "반복해도 해봤자예요."
+        ],
+        [
+          "08",
+          "💭",
+          "소용없다",
+          "useless",
+          "소용없을 거예요."
+        ],
+        [
+          "09",
+          "🎯",
+          "선행",
+          "prerequisite",
+          "먼저 하고서야 돼요."
+        ],
+        [
+          "10",
+          "⚡",
+          "필수",
+          "essential",
+          "필수로 하고서야 가능해요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "허사",
+          "in vain",
+          "허사가 될 뿐이에요."
+        ],
+        [
+          "12",
+          "무의미하다",
+          "meaningless",
+          "무의미할 뿐이에요."
+        ],
+        [
+          "13",
+          "헛되다",
+          "futile",
+          "헛된 노력이에요."
+        ],
+        [
+          "14",
+          "충분히",
+          "sufficiently",
+          "충분히 하고서야 돼요."
+        ],
+        [
+          "15",
+          "준비하다",
+          "to prepare",
+          "준비하고서야 시작해요."
+        ],
+        [
+          "16",
+          "확인하다",
+          "to confirm",
+          "확인하고서야 가요."
+        ],
+        [
+          "17",
+          "이해하다",
+          "to understand",
+          "이해하고서야 써요."
+        ],
+        [
+          "18",
+          "완성하다",
+          "to complete",
+          "완성하고서야 제출해요."
+        ],
+        [
+          "19",
+          "서명하다",
+          "to sign",
+          "서명하고서야 됩니다."
+        ],
+        [
+          "20",
+          "검토하다",
+          "to review",
+          "검토하고서야 진행해요."
+        ]
+      ],
+      "g1_name": "V-고서야 (선행 완료 후 가능)",
+      "g1_name_eng": "V-고서야: only after completing (prerequisite completion)",
+      "g1_desc": "어떤 일을 완전히 마친 후에야 다음이 가능함을 나타내요.",
+      "g1_desc_eng": "Expresses that one action must be fully completed before another is possible.",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-고서야",
+          "확인하고서야 출발해요.",
+          "완료 후 가능",
+          "Only after confirming, depart."
+        ],
+        [
+          "V-고서야",
+          "졸업하고서야 취직이 됐어요.",
+          "순차 필수",
+          "Only after graduating did I get a job."
+        ],
+        [
+          "V-고서야",
+          "이해하고서야 쓸 수 있어요.",
+          "이해 후 사용",
+          "Only after understanding can you use it."
+        ],
+        [
+          "V-고서야 비로소",
+          "먹고서야 비로소 힘이 나요.",
+          "강조",
+          "Only after eating does energy come."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "vs -아/어서야",
+          "의미 비슷, -고서야는 완료 강조 / -아/어서야는 조건 강조",
+          "먹고서야 힘나요 (완료 후) / 먹어서야 힘나요 (조건 강조)"
+        ]
+      ],
+      "g1_tip": "-고서야는 선행 완료 강조! 이것을 끝내야만 다음이 가능해요.",
+      "g1_tip_eng": "-고서야 = prerequisite completion. Must finish X completely before Y.",
+      "g1_exs": [
+        [
+          "숙제를 끝내고서야 놀 수 있어요.",
+          "Only after finishing homework can you play."
+        ],
+        [
+          "확인하고서야 제출해요.",
+          "Only after confirming do I submit."
+        ],
+        [
+          "이해하고서야 설명할 수 있어요.",
+          "Only after understanding can you explain."
+        ]
+      ],
+      "g1_prac": [
+        "1. 숙제 끝내다 → 숙제를 끝내_____ 놀 수 있어요.",
+        "2. 확인하다 → 확인하_____ 출발해요.",
+        "3. 이해하다 → 이해하_____ 쓸 수 있어요."
+      ],
+      "g2_name": "V/A-아/어 봤자 (시도 무익)",
+      "g2_name_eng": "V-아/어 봤자: no use / even if you try (futility)",
+      "g2_desc": "시도해도 의미 없거나 결과가 없을 것임을 나타내요. 체념이나 허무함의 뉘앙스를 가져요.",
+      "g2_desc_eng": "Expresses futility: even if you try, it won't help. Has a resigned tone.",
+      "g2_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "V-아/어 봤자",
+          "말해봤자 소용없어요.",
+          "시도 무익",
+          "Even if you say it, it's no use."
+        ],
+        [
+          "V-아/어 봤자",
+          "지금 해봤자 늦었어요.",
+          "늦은 시도",
+          "Even if you do it now, it's too late."
+        ],
+        [
+          "V-아/어 봤자",
+          "울어봤자 안 바뀌어요.",
+          "무의미",
+          "Even if you cry, nothing changes."
+        ],
+        [
+          "어차피 봤자",
+          "어차피 해봤자예요.",
+          "체념",
+          "It's no use anyway."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "부정적 뉘앙스",
+          "격려할 때는 쓰지 않는 것이 좋음",
+          "포기 말아요 (O) / 해봤자예요 (격려에 부적절)"
+        ]
+      ],
+      "g2_tip": "-아/어 봤자는 \"해도 소용없다\"는 체념이에요! 격려 상황엔 안 써요.",
+      "g2_tip_eng": "-아/어 봤자 = futility: \"even if you try, no use\". Avoid in encouragement.",
+      "g2_exs": [
+        [
+          "말해 봤자 안 들어요.",
+          "Even if you say it, they won't listen."
+        ],
+        [
+          "지금 뛰어가 봤자 늦었어요.",
+          "Even if you run now, you're already late."
+        ],
+        [
+          "어차피 해 봤자라고 생각하지 마요.",
+          "Don't think it's no use anyway."
+        ]
+      ],
+      "g2_prac": [
+        "1. 말하다+무익 → 말해_____ 소용없어요.",
+        "2. 지금 가다+늦음 → 지금 가봤_____ 늦었어요.",
+        "3. 노력하다+격려 → 노력해봤자라고 생각하지 _____."
+      ],
+      "reading_title": "확인하고서야 가요",
+      "reading_title_eng": "Only After Confirming, Do I Go",
+      "reading_text": [
+        "나타샤는 꼼꼼한 편이에요.",
+        "모든 것을 확인하고서야 출발해요.",
+        "민준은 반대로 빨리 하는 편이에요.",
+        "나타샤는 서두르면 해봤자 실수만 한다고 해요.",
+        "하지만 민준은 너무 늦게 하면 해봤자 늦는다고 해요.",
+        "",
+        "Natasha tends to be thorough.",
+        "She only departs after confirming everything.",
+        "Minjun, on the contrary, tends to be quick.",
+        "Natasha says rushing is no use — you just make mistakes.",
+        "But Minjun says doing it too late is no use — you're just late."
+      ],
+      "q_labels": [
+        "Q1. 나타샤는 어떤 성격이에요? (What is Natasha's personality?)",
+        "Q2. 민준은 어떤 성격이에요? (What is Minjun's personality?)",
+        "Q3. 맞으면 O, 틀리면 X — 나타샤는 확인 없이 바로 출발해요. (   )"
+      ],
+      "listening_script": [
+        [
+          "나타샤",
+          "민준, 출발 전에 확인하고서야 가야 해요."
+        ],
+        [
+          "민준",
+          "나타샤, 너무 확인하면 해봤자 늦어요."
+        ],
+        [
+          "나타샤",
+          "서두르면 해봤자 실수만 해요."
+        ],
+        [
+          "민준",
+          "그래도 적당히 빠른 게 좋잖아요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 나타샤는 어떻게 해요?",
+          [
+            "① 바로 나가요.",
+            "② 확인하고서야 나가요.",
+            "③ 빨리 나가요.",
+            "④ 그냥 나가요."
+          ],
+          "②"
+        ],
+        [
+          "Q2. 민준의 생각은?",
+          [
+            "① 확인이 중요해요.",
+            "② 너무 늦으면 해봤자 늦어요.",
+            "③ 서두르는 게 좋아요.",
+            "④ 꼼꼼한 게 최고예요."
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "복합 어미 유형",
+      "topik_tip": "💡 -고서야(선행 완료 후 가능) vs -아/어 봤자(시도 무익) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n확인하_____ 출발해요.",
+          [
+            "① 고서야",
+            "② 아/어 봤자",
+            "③ 으니",
+            "④ 아서야"
+          ],
+          "정답: ① (선행 완료→-고서야)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n지금 가_____ 늦었어요.",
+          [
+            "① 고서야",
+            "② 봤자",
+            "③ 으니",
+            "④ 아서야"
+          ],
+          "정답: ② (시도 무익→-아/어 봤자)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"이해하고서야 쓸 수 있어요.\"",
+          [
+            "① 이해 없이도 쓸 수 있어요.",
+            "② 먼저 이해해야만 쓸 수 있어요.",
+            "③ 쓰다 보면 이해돼요.",
+            "④ 쓰고 나서 이해해요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-고서야",
+          "확인하고서야 가요.",
+          "Only after confirming do I go."
+        ],
+        [
+          "-아/어 봤자",
+          "말해봤자 소용없어요.",
+          "No use saying it."
+        ],
+        [
+          "어차피 봤자",
+          "어차피 해봤자예요.",
+          "It's no use anyway."
+        ],
+        [
+          "-고서야 비로소",
+          "먹고서야 비로소 힘이 나요.",
+          "Only after eating does energy come."
+        ],
+        [
+          "체념 표현",
+          "어차피 / 별수 없잖아요",
+          "anyway / no choice"
+        ]
+      ],
+      "checklist": [
+        "-고서야로 선행 완료 조건을 표현해요.",
+        "-아/어 봤자로 시도 무익을 표현해요.",
+        "두 표현의 뉘앙스 차이를 알아요.",
+        "-아/어 봤자의 부정적 뉘앙스를 이해해요.",
+        "복합 어미 어휘 10개 이상 알아요."
+      ],
+      "mission": "무언가를 하기 전에 꼭 해야 할 일과 해봐야 소용없는 일을 말해보세요.",
+      "mission_eng": "Talk about a prerequisite and something futile using the grammar.",
+      "writing_prompt": "-고서야와 -아/어 봤자를 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -고서야 and -아/어 봤자.",
+      "topik_vocab": [
+        [
+          "T01",
+          "선행",
+          "preceding"
+        ],
+        [
+          "T02",
+          "후행",
+          "following"
+        ],
+        [
+          "T03",
+          "완료",
+          "completion"
+        ],
+        [
+          "T04",
+          "미완",
+          "incompletion"
+        ],
+        [
+          "T05",
+          "무익",
+          "futility"
+        ],
+        [
+          "T06",
+          "체념",
+          "resignation"
+        ],
+        [
+          "T07",
+          "좌절",
+          "frustration"
+        ],
+        [
+          "T08",
+          "포기",
+          "abandonment"
+        ],
+        [
+          "T09",
+          "의지",
+          "determination"
+        ],
+        [
+          "T10",
+          "극복",
+          "overcoming"
+        ]
+      ]
+    },
+    {
+      "title": "분열 · 강조",
+      "title_eng": "Cleft & Emphasis",
+      "chars": "Yui, Amina",
+      "must_vocab": [
+        [
+          "01",
+          "🎯",
+          "아니라",
+          "not A but B",
+          "공부가 아니라 경험이에요."
+        ],
+        [
+          "02",
+          "💡",
+          "오히려",
+          "rather / on the contrary",
+          "오히려 좋아졌어요."
+        ],
+        [
+          "03",
+          "🌟",
+          "탓에",
+          "due to (negative)",
+          "피곤한 탓에 못 했어요."
+        ],
+        [
+          "04",
+          "🎁",
+          "덕분에",
+          "thanks to (positive)",
+          "덕분에 잘 됐어요."
+        ],
+        [
+          "05",
+          "😮",
+          "원인",
+          "cause",
+          "원인을 알아야 해요."
+        ],
+        [
+          "06",
+          "✅",
+          "긍정적",
+          "positive",
+          "덕분에 긍정적이에요."
+        ],
+        [
+          "07",
+          "❌",
+          "부정적",
+          "negative",
+          "탓에 부정적이에요."
+        ],
+        [
+          "08",
+          "🔄",
+          "교정",
+          "correction",
+          "교정이 필요해요."
+        ],
+        [
+          "09",
+          "📝",
+          "수정하다",
+          "to correct",
+          "수정해야 해요."
+        ],
+        [
+          "10",
+          "💬",
+          "명확히",
+          "clearly",
+          "명확히 말해요."
+        ]
+      ],
+      "plus_vocab": [
+        [
+          "11",
+          "구별하다",
+          "to distinguish",
+          "구별할 수 있어요."
+        ],
+        [
+          "12",
+          "대비하다",
+          "to contrast",
+          "대비해서 봐요."
+        ],
+        [
+          "13",
+          "비교하다",
+          "to compare",
+          "비교해 봐요."
+        ],
+        [
+          "14",
+          "강조하다",
+          "to emphasize",
+          "강조하고 싶어요."
+        ],
+        [
+          "15",
+          "명확하다",
+          "clear",
+          "명확하게 말해요."
+        ],
+        [
+          "16",
+          "직접적",
+          "direct",
+          "직접적으로 말해요."
+        ],
+        [
+          "17",
+          "간접적",
+          "indirect",
+          "간접적으로 표현해요."
+        ],
+        [
+          "18",
+          "상황",
+          "situation",
+          "상황에 따라 달라요."
+        ],
+        [
+          "19",
+          "맥락",
+          "context",
+          "맥락이 중요해요."
+        ],
+        [
+          "20",
+          "의도",
+          "intention",
+          "의도를 전달해요."
+        ]
+      ],
+      "g1_name": "V/A-는 게 아니라 (부정 교정)",
+      "g1_name_eng": "V/A-는 게 아니라: it's not that~ / not X but Y (correction)",
+      "g1_desc": "잘못된 이해를 수정하거나 부정을 강조할 때 써요. \"그게 아니에요, 이거예요\"라고 교정하는 표현이에요.",
+      "g1_desc_eng": "Corrects a misunderstanding or emphasizes what something is NOT. \"It's not X — it's Y.\"",
+      "g1_cols": [
+        "형태",
+        "예문",
+        "의미",
+        "영어"
+      ],
+      "g1_rows": [
+        [
+          "V-는 게 아니라",
+          "포기하는 게 아니라 쉬는 거예요.",
+          "V 부정 교정",
+          "It's not that I'm giving up — I'm resting."
+        ],
+        [
+          "A-(으)ㄴ 게 아니라",
+          "어려운 게 아니라 생소한 거예요.",
+          "A 부정 교정",
+          "It's not that it's hard — it's unfamiliar."
+        ],
+        [
+          "N-가 아니라",
+          "돈이 아니라 경험이 중요해요.",
+          "N 교정",
+          "It's not money — experience is important."
+        ],
+        [
+          "문제 교정",
+          "늦은 게 아니라 태도가 문제예요.",
+          "문제 지점 교정",
+          "Not being late, but the attitude is the problem."
+        ]
+      ],
+      "g1_irr": [
+        [
+          "강조 구조",
+          "~는/ㄴ 게 아니라 + 진짜 내용",
+          "뭐가 아닌지 먼저, 그다음 진짜 내용"
+        ]
+      ],
+      "g1_tip": "-는 게 아니라는 교정 강조! 오해를 바로잡을 때 쓰는 핵심 표현이에요.",
+      "g1_tip_eng": "-는 게 아니라 = correction/clarification: \"not X, it's Y\".",
+      "g1_exs": [
+        [
+          "싫어하는 게 아니라 바빠서 못 가요.",
+          "It's not that I dislike it — I'm just busy."
+        ],
+        [
+          "어려운 게 아니라 생소한 거예요.",
+          "It's not difficult — it's just unfamiliar."
+        ],
+        [
+          "돈이 아니라 시간이 필요해요.",
+          "It's not money — time is what's needed."
+        ]
+      ],
+      "g1_prac": [
+        "1. 포기하다+교정(쉰다) → 포기하_____ 쉬는 거예요.",
+        "2. 어렵다+교정(생소하다) → 어려운_____ 생소한 거예요.",
+        "3. 돈(N)+교정(경험) → 돈이 아니라 _____ 중요해요."
+      ],
+      "g2_name": "V/A-(으)ㄴ/는 탓에 / 덕분에 (원인)",
+      "g2_name_eng": "탓에: due to (negative) / 덕분에: thanks to (positive cause)",
+      "g2_desc": "탓에는 부정적 결과의 원인, 덕분에는 긍정적 결과의 원인을 나타내요. 결과의 성격으로 구별해요.",
+      "g2_desc_eng": "Both express cause. 탓에 = negative result (blame). 덕분에 = positive result (credit).",
+      "g2_cols": [
+        "원인 유형",
+        "형태",
+        "예문",
+        "영어"
+      ],
+      "g2_rows": [
+        [
+          "부정 원인 (V)",
+          "V-는 탓에",
+          "밤새 공부하는 탓에 피곤해요.",
+          "Due to studying all night, I'm tired."
+        ],
+        [
+          "부정 원인 (V 과거)",
+          "V-(으)ㄴ 탓에",
+          "늦게 일어난 탓에 지각했어요.",
+          "Because of waking up late, I was late."
+        ],
+        [
+          "긍정 원인",
+          "N/V 덕분에",
+          "선생님 덕분에 합격했어요.",
+          "Thanks to the teacher, I passed."
+        ],
+        [
+          "N 탓에",
+          "시험 탓에 못 자요.",
+          "N 때문에 (부정)",
+          "Because of the exam, I can't sleep."
+        ]
+      ],
+      "g2_irr": [
+        [
+          "결과 성격",
+          "탓에: 나쁜 결과(불만·탓) / 덕분에: 좋은 결과(감사)",
+          "지각한 탓에 혼났어요 vs 연습한 덕분에 합격했어요"
+        ]
+      ],
+      "g2_tip": "탓에는 나쁜 결과, 덕분에는 좋은 결과! 결과의 성격으로 구별해요.",
+      "g2_tip_eng": "탓에 = negative result (blame). 덕분에 = positive result (thanks).",
+      "g2_exs": [
+        [
+          "비가 오는 탓에 옷이 젖었어요.",
+          "Due to the rain, my clothes got wet."
+        ],
+        [
+          "선생님 덕분에 한국어가 늘었어요.",
+          "Thanks to the teacher, my Korean improved."
+        ],
+        [
+          "너무 늦게 자는 탓에 피곤해요.",
+          "Because of sleeping too late, I'm tired."
+        ]
+      ],
+      "g2_prac": [
+        "1. 비가 오다+부정 원인+옷 젖다 → 비가 오는 _____ 옷이 젖었어요.",
+        "2. 선생님+긍정+합격 → 선생님 _____ 합격했어요.",
+        "3. 늦잠 자다+부정+지각 → 늦잠 잔 _____ 지각했어요."
+      ],
+      "reading_title": "덕분에 vs 탓에",
+      "reading_title_eng": "Thanks To vs Due To",
+      "reading_text": [
+        "유이는 열심히 연습한 덕분에 한국어를 잘하게 됐어요.",
+        "하지만 너무 열심히 한 탓에 건강이 나빠졌어요.",
+        "아미나는 친구들 덕분에 한국 생활에 잘 적응했어요.",
+        "스트레스 탓에 힘들었지만 극복했어요.",
+        "결국 노력이 아니라 균형이 중요한 것 같아요.",
+        "",
+        "Thanks to practicing hard, Yui has gotten good at Korean.",
+        "But due to working too hard, her health got worse.",
+        "Amina adapted well to life in Korea thanks to her friends.",
+        "Although hard due to stress, she overcame it.",
+        "In the end, it seems balance — not just effort — is important."
+      ],
+      "q_labels": [
+        "Q1. 유이는 왜 한국어를 잘하게 됐어요? (Why has Yui gotten good at Korean?)",
+        "Q2. 유이의 건강이 왜 나빠졌어요? (Why did Yui's health get worse?)",
+        "Q3. 맞으면 O, 틀리면 X — 아미나가 친구들 탓에 적응을 못 했어요. (   )"
+      ],
+      "listening_script": [
+        [
+          "유이",
+          "아미나, 요즘 한국어가 많이 늘었어요?"
+        ],
+        [
+          "아미나",
+          "네, 친구들 덕분에 많이 늘었어요."
+        ],
+        [
+          "유이",
+          "저는 너무 공부한 탓에 지쳐서 힘들었어요."
+        ],
+        [
+          "아미나",
+          "노력이 중요하지만, 쉬는 것도 중요한 거잖아요!"
+        ]
+      ],
+      "listening_qs": [
+        [
+          "Q1. 아미나 한국어가 늘게 된 이유는?",
+          [
+            "① 학원 탓에",
+            "② 친구들 덕분에",
+            "③ 드라마 탓에",
+            "④ 선생님 덕분에"
+          ],
+          "②"
+        ],
+        [
+          "Q2. 유이가 힘들었던 이유는?",
+          [
+            "① 공부를 안 해서",
+            "② 너무 공부한 탓에",
+            "③ 친구가 없어서",
+            "④ 날씨 탓에"
+          ],
+          "②"
+        ]
+      ],
+      "topik_hdr": "분열·강조 유형",
+      "topik_tip": "💡 -는 게 아니라(부정 교정) vs 탓에/덕분에(부정/긍정 원인) 구별!",
+      "topik_qs": [
+        [
+          "[1] 빈칸에 알맞은 것을 고르세요.\n포기하는 게 아니라 쉬는 _____.",
+          [
+            "① 거예요",
+            "② 탓에",
+            "③ 덕분에",
+            "④ 뿐이에요"
+          ],
+          "정답: ① (부정 교정)"
+        ],
+        [
+          "[2] 빈칸에 알맞은 것을 고르세요.\n선생님 _____ 합격했어요.",
+          [
+            "① 탓에",
+            "② 덕분에",
+            "③ 때문에",
+            "④ 뿐이에요"
+          ],
+          "정답: ② (긍정 원인→덕분에)"
+        ],
+        [
+          "[3] 다음을 읽고 맞는 것을 고르세요.\n\"늦잠 잔 탓에 지각했어요.\"",
+          [
+            "① 일찍 일어나서 지각 안 했어요.",
+            "② 늦잠 때문에 지각했어요.",
+            "③ 지각한 덕분에 늦잠 잘 수 있었어요.",
+            "④ 늦잠이 좋아요."
+          ],
+          "정답: ②"
+        ]
+      ],
+      "summary_rows": [
+        [
+          "-는 게 아니라",
+          "포기하는 게 아니라 쉬어요.",
+          "Not giving up — just resting."
+        ],
+        [
+          "-는 탓에",
+          "늦잠 잔 탓에 지각했어요.",
+          "Late due to oversleeping."
+        ],
+        [
+          "덕분에",
+          "선생님 덕분에 합격했어요.",
+          "Passed thanks to the teacher."
+        ],
+        [
+          "N탓에",
+          "시험 탓에 못 자요.",
+          "Can't sleep because of the exam."
+        ],
+        [
+          "탓 vs 덕분에",
+          "부정 결과 vs 긍정 결과",
+          "negative vs positive cause"
+        ]
+      ],
+      "checklist": [
+        "-는 게 아니라로 부정·교정을 표현해요.",
+        "탓에로 부정적 원인을 표현해요.",
+        "덕분에로 긍정적 원인을 표현해요.",
+        "두 원인 표현의 결과 성격을 구별해요.",
+        "분열·강조 어휘 10개 이상 알아요."
+      ],
+      "mission": "오해받은 경험을 -는 게 아니라로 교정하고, 좋은·나쁜 결과 원인을 덕분에/탓에로 말해보세요.",
+      "mission_eng": "Correct a misunderstanding with -는 게 아니라 and explain causes with 덕분에/탓에.",
+      "writing_prompt": "교정과 원인을 각각 포함해 3문장 써보세요.",
+      "writing_prompt_eng": "Write 3 sentences using -는 게 아니라 and 탓에/덕분에.",
+      "topik_vocab": [
+        [
+          "T01",
+          "강조",
+          "emphasis"
+        ],
+        [
+          "T02",
+          "분열",
+          "cleft"
+        ],
+        [
+          "T03",
+          "교정",
+          "correction"
+        ],
+        [
+          "T04",
+          "원인",
+          "cause"
+        ],
+        [
+          "T05",
+          "결과",
+          "consequence"
+        ],
+        [
+          "T06",
+          "책임",
+          "responsibility"
+        ],
+        [
+          "T07",
+          "공로",
+          "merit"
+        ],
+        [
+          "T08",
+          "기여",
+          "contribution"
+        ],
+        [
+          "T09",
+          "탓",
+          "fault/blame"
+        ],
+        [
+          "T10",
+          "덕분",
+          "thanks to"
+        ]
+      ]
+    }
+  ]
+}
