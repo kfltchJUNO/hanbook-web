@@ -16,7 +16,10 @@ export default function LoginPage() {
   const isFirebaseReady = !!process.env.NEXT_PUBLIC_FIREBASE_API_KEY
 
   async function handleGoogle() {
-    if (!isFirebaseReady) { router.push('/catalog'); return }
+    if (!isFirebaseReady) {
+      setError('서비스 준비 중입니다. 잠시 후 다시 시도해주세요.')
+      return
+    }
     setLoading(true); setError('')
     try {
       await signInWithGoogle()
@@ -28,7 +31,10 @@ export default function LoginPage() {
 
   async function handleEmail(e: React.FormEvent) {
     e.preventDefault()
-    if (!isFirebaseReady) { router.push('/catalog'); return }
+    if (!isFirebaseReady) {
+      setError('서비스 준비 중입니다. 잠시 후 다시 시도해주세요.')
+      return
+    }
     setLoading(true); setError('')
     try {
       if (mode === 'login') await signInWithEmail(email, password)
@@ -38,6 +44,7 @@ export default function LoginPage() {
       const msg: Record<string, string> = {
         'auth/user-not-found': '등록되지 않은 이메일입니다.',
         'auth/wrong-password': '비밀번호가 틀렸습니다.',
+        'auth/invalid-credential': '이메일 또는 비밀번호가 올바르지 않습니다.',
         'auth/email-already-in-use': '이미 사용 중인 이메일입니다.',
         'auth/weak-password': '비밀번호는 6자 이상이어야 합니다.',
         'auth/invalid-email': '올바른 이메일 형식이 아닙니다.',
@@ -46,13 +53,10 @@ export default function LoginPage() {
     } finally { setLoading(false) }
   }
 
-  function handleDemo() { router.push('/catalog') }
-
   return (
     <div className="min-h-screen bg-[#F8F7F4] flex flex-col items-center justify-center px-4">
       <div className="w-full max-w-sm">
 
-        {/* 로고 */}
         <div className="text-center mb-8">
           <div className="w-14 h-14 rounded-2xl bg-[#FFE566] flex items-center justify-center text-2xl font-bold text-[#9A7A00] mx-auto mb-3 shadow-sm">
             H
@@ -61,10 +65,8 @@ export default function LoginPage() {
           <p className="text-sm text-gray-400 mt-1">한국어 학습의 새로운 기준</p>
         </div>
 
-        {/* 카드 */}
         <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6">
 
-          {/* 탭 */}
           <div className="flex gap-1 bg-gray-100 rounded-xl p-1 mb-6">
             {(['login', 'signup'] as Mode[]).map((m) => (
               <button
@@ -81,7 +83,6 @@ export default function LoginPage() {
             ))}
           </div>
 
-          {/* Google 버튼 */}
           <button
             onClick={handleGoogle}
             disabled={loading}
@@ -96,14 +97,12 @@ export default function LoginPage() {
             Google로 계속하기
           </button>
 
-          {/* 구분선 */}
           <div className="flex items-center gap-3 mb-4">
             <div className="flex-1 h-px bg-gray-100" />
             <span className="text-xs text-gray-400">또는</span>
             <div className="flex-1 h-px bg-gray-100" />
           </div>
 
-          {/* 이메일 폼 */}
           <form onSubmit={handleEmail} className="space-y-3">
             <input
               type="email"
@@ -134,15 +133,6 @@ export default function LoginPage() {
               {loading ? '처리 중...' : mode === 'login' ? '로그인' : '회원가입'}
             </button>
           </form>
-
-          {!isFirebaseReady && (
-            <button
-              onClick={handleDemo}
-              className="w-full mt-3 py-2 text-xs text-gray-400 hover:text-gray-600 transition-colors"
-            >
-              → 데모 모드로 둘러보기
-            </button>
-          )}
         </div>
 
         <p className="text-center text-xs text-gray-400 mt-4">
