@@ -32,7 +32,6 @@ export default function GrammarView({
 
   return (
     <div className="space-y-5 fade-up">
-      {/* 헤더 */}
       <div className="card p-5" style={{ borderLeft: `4px solid ${color}` }}>
         <div className="flex items-center gap-2 mb-2">
           <span
@@ -48,7 +47,6 @@ export default function GrammarView({
         <p className="text-xs text-gray-400 font-en mt-1 leading-relaxed">{descEng}</p>
       </div>
 
-      {/* 형태표 */}
       {cols.length > 0 && rows.length > 0 && (
         <div className="card overflow-hidden">
           <div className="px-5 py-3 border-b border-gray-100">
@@ -85,7 +83,6 @@ export default function GrammarView({
         </div>
       )}
 
-      {/* 불규칙 */}
       {irr.length > 0 && (
         <div className="card p-5">
           <h3 className="text-xs font-semibold text-gray-500 mb-3">불규칙 · 참고</h3>
@@ -109,7 +106,6 @@ export default function GrammarView({
         </div>
       )}
 
-      {/* 팁 */}
       {tip && (
         <div
           className="rounded-xl p-4 text-sm"
@@ -120,7 +116,6 @@ export default function GrammarView({
         </div>
       )}
 
-      {/* 예문 */}
       {exs.length > 0 && (
         <div className="card p-5">
           <h3 className="text-xs font-semibold text-gray-500 mb-3">예문 Examples</h3>
@@ -143,7 +138,6 @@ export default function GrammarView({
         </div>
       )}
 
-      {/* 연습 */}
       {prac.length > 0 && (
         <div className="card p-5">
           <h3 className="text-xs font-semibold text-gray-500 mb-3">연습 Practice</h3>

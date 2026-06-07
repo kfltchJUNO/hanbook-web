@@ -15,7 +15,6 @@ export default function ReadingPage({
 
   return (
     <div className="space-y-5 fade-up">
-      {/* 읽기 지문 */}
       <div className="card p-5">
         <div className="flex items-center gap-2 mb-4">
           <span
@@ -34,7 +33,6 @@ export default function ReadingPage({
           ))}
         </div>
 
-        {/* 읽기 문제 */}
         {data.q_labels && data.q_labels.length > 0 && (
           <div className="space-y-3">
             <h3 className="text-xs font-semibold text-gray-500">읽기 문제</h3>
@@ -53,7 +51,6 @@ export default function ReadingPage({
         )}
       </div>
 
-      {/* 듣기 대화 */}
       {data.listening_script && data.listening_script.length > 0 && (
         <div className="card p-5">
           <div className="flex items-center gap-2 mb-4">
@@ -80,7 +77,6 @@ export default function ReadingPage({
             ))}
           </div>
 
-          {/* 듣기 문제 */}
           {data.listening_qs && data.listening_qs.length > 0 && (
             <div className="space-y-4 border-t border-gray-100 pt-4">
               <h3 className="text-xs font-semibold text-gray-500">듣기 문제</h3>

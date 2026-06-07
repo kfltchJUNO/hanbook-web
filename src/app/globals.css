@@ -19,17 +19,14 @@ body {
 
 .font-en { font-family: var(--font-en); }
 
-/* 카드 스타일 */
 .card {
   @apply bg-white rounded-2xl shadow-sm border border-gray-100;
 }
 
-/* 배지 */
 .badge {
   @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
 }
 
-/* 문법 표 */
 .grammar-table th {
   @apply bg-gray-50 text-gray-600 text-sm font-medium px-3 py-2 text-left;
 }
@@ -37,12 +34,10 @@ body {
   @apply px-3 py-2 text-sm border-t border-gray-100;
 }
 
-/* 스크롤바 */
 ::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: #DDD; border-radius: 3px; }
 
-/* 페이지 전환 애니메이션 */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(12px); }
   to   { opacity: 1; transform: translateY(0); }

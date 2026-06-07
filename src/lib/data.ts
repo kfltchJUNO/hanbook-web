@@ -1,18 +1,6 @@
 import fs from 'fs'
 import path from 'path'
 
-export interface VocabItem {
-  num: string
-  emoji?: string
-  korean: string
-  english: string
-  example: string
-}
-
-export interface GrammarRow {
-  cells: string[]
-}
-
 export interface UnitData {
   title: string
   title_eng: string

@@ -19,7 +19,6 @@ export default function ReviewPage({
 
   return (
     <div className="space-y-5 fade-up">
-      {/* 핵심 표현 */}
       {data.summary_rows && data.summary_rows.length > 0 && (
         <div className="card p-5">
           <h2 className="text-sm font-bold text-gray-700 mb-4 flex items-center gap-2">
@@ -34,10 +33,7 @@ export default function ReviewPage({
           <div className="space-y-2">
             {data.summary_rows.map(([label, kr, en], i) => (
               <div key={i} className="flex gap-3 items-start text-sm py-1.5 border-b border-gray-50 last:border-0">
-                <span
-                  className="text-xs font-bold w-24 flex-shrink-0 pt-0.5"
-                  style={{ color: meta.colorDk }}
-                >
+                <span className="text-xs font-bold w-24 flex-shrink-0 pt-0.5" style={{ color: meta.colorDk }}>
                   {label}
                 </span>
                 <span className="text-gray-800 flex-1">{kr}</span>
@@ -48,7 +44,6 @@ export default function ReviewPage({
         </div>
       )}
 
-      {/* 자기 점검 */}
       {data.checklist && data.checklist.length > 0 && (
         <div className="card p-5">
           <h2 className="text-sm font-bold text-gray-700 mb-3">✅ 자기 점검</h2>
@@ -63,7 +58,6 @@ export default function ReviewPage({
         </div>
       )}
 
-      {/* TOPIK 문제 */}
       {data.topik_qs && data.topik_qs.length > 0 && (
         <div className="card p-5">
           <h2 className="text-sm font-bold text-gray-700 mb-4 flex items-center gap-2">
@@ -115,7 +109,6 @@ export default function ReviewPage({
         </div>
       )}
 
-      {/* 쓰기 미션 */}
       {data.writing_prompt && (
         <div className="card p-5">
           <h2 className="text-sm font-bold text-gray-700 mb-2">✏️ 쓰기 연습</h2>
@@ -130,7 +123,6 @@ export default function ReviewPage({
         </div>
       )}
 
-      {/* 다음 이동 버튼 */}
       <div className="flex gap-3 pt-2">
         {nextUnit && (
           <Link
@@ -151,10 +143,10 @@ export default function ReviewPage({
         )}
         {!nextUnit && !nextStep && (
           <Link
-            href="/"
+            href="/catalog"
             className="flex-1 py-3 rounded-xl text-center text-sm font-semibold bg-gray-100 text-gray-600 hover:bg-gray-200 transition-all"
           >
-            🎉 전체 완료! 홈으로
+            🎉 전체 완료! 카탈로그로
           </Link>
         )}
       </div>

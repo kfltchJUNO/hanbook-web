@@ -18,11 +18,11 @@ export const STEP_META: Record<number, {
 }
 
 export const UNIT_PAGES = [
-  { key: 'vocab',    label: '어휘',     labelEng: 'Vocabulary' },
-  { key: 'grammar1', label: '문법 1',  labelEng: 'Grammar 1' },
-  { key: 'grammar2', label: '문법 2',  labelEng: 'Grammar 2' },
+  { key: 'vocab',    label: '어휘',      labelEng: 'Vocabulary' },
+  { key: 'grammar1', label: '문법 1',   labelEng: 'Grammar 1' },
+  { key: 'grammar2', label: '문법 2',   labelEng: 'Grammar 2' },
   { key: 'reading',  label: '읽기·듣기', labelEng: 'Reading' },
-  { key: 'review',   label: '정리',    labelEng: 'Review' },
+  { key: 'review',   label: '정리',     labelEng: 'Review' },
 ] as const
 
 export type PageKey = typeof UNIT_PAGES[number]['key']

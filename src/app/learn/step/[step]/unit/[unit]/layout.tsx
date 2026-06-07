@@ -2,7 +2,6 @@
 import { useParams, usePathname } from 'next/navigation'
 import Link from 'next/link'
 import { STEP_META, UNIT_PAGES } from '@/lib/constants'
-import { useState } from 'react'
 
 export default function LearnLayout({ children }: { children: React.ReactNode }) {
   const params = useParams()
@@ -10,38 +9,30 @@ export default function LearnLayout({ children }: { children: React.ReactNode })
   const step = Number(params.step)
   const unit = Number(params.unit)
   const meta = STEP_META[step]
-  const [menuOpen, setMenuOpen] = useState(false)
 
   if (!meta) return <>{children}</>
 
-  // 현재 page key 추출
   const segments = pathname.split('/')
   const currentPage = segments[segments.length - 1]
 
   return (
     <div className="min-h-screen bg-[#F8F7F4] flex flex-col">
-      {/* 상단 바 */}
       <header className="bg-white border-b border-gray-100 sticky top-0 z-20">
-        <div className="max-w-4xl mx-auto px-4 h-13 flex items-center gap-3" style={{ height: '52px' }}>
-          <Link href="/" className="text-gray-400 hover:text-gray-700 transition-colors">
+        <div className="max-w-4xl mx-auto px-4 flex items-center gap-3" style={{ height: '52px' }}>
+          <Link href="/catalog" className="text-gray-400 hover:text-gray-700 transition-colors">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M19 12H5M12 19l-7-7 7-7"/>
             </svg>
           </Link>
-
-          {/* Step 배지 */}
           <div
             className="px-2.5 py-1 rounded-lg text-xs font-bold font-en"
             style={{ backgroundColor: meta.color, color: meta.colorDk }}
           >
             STEP {step} · {meta.level}
           </div>
-
           <span className="text-sm font-medium text-gray-700 flex-1 truncate">
             Unit {unit}
           </span>
-
-          {/* Unit 전환 버튼 */}
           <div className="flex items-center gap-1">
             {unit > 1 && (
               <Link
@@ -67,7 +58,6 @@ export default function LearnLayout({ children }: { children: React.ReactNode })
           </div>
         </div>
 
-        {/* 페이지 탭 */}
         <div className="max-w-4xl mx-auto px-4 flex gap-0 border-t border-gray-50 overflow-x-auto">
           {UNIT_PAGES.map((p) => {
             const href = `/learn/step/${step}/unit/${unit}/${p.key}`
@@ -90,7 +80,6 @@ export default function LearnLayout({ children }: { children: React.ReactNode })
         </div>
       </header>
 
-      {/* 메인 */}
       <main className="flex-1 max-w-4xl mx-auto w-full px-4 py-6">
         {children}
       </main>
