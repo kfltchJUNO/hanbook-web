@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 import React from 'react'
 import { useAuth } from '@/context/AuthContext'
 import { logout } from '@/lib/firebase'
@@ -44,7 +44,7 @@ export default function NoAccessPage() {
           rel="noopener noreferrer"
           className="block w-full py-3 rounded-xl bg-[#FFE566] text-[#9A7A00] text-sm font-bold text-center hover:bg-[#FFD94D] transition-colors mb-3"
         >
-          Gumroad에서 구매하기 →
+          Gumroad에서 구매하기
         </a>
         <button
           onClick={() => { logout(); router.push('/login') }}
