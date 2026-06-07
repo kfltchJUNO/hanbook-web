@@ -1,4 +1,5 @@
 'use client'
+import React from 'react'
 import { useAuth } from '@/context/AuthContext'
 import { logout } from '@/lib/firebase'
 import { useRouter } from 'next/navigation'
