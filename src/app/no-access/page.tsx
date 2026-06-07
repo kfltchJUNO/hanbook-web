@@ -11,11 +11,9 @@ export default function NoAccessPage() {
   return (
     <div className="min-h-screen bg-[#F8F7F4] flex flex-col items-center justify-center px-4">
       <div className="w-full max-w-sm text-center">
-
         <div className="w-16 h-16 rounded-2xl bg-[#FFE566] flex items-center justify-center text-3xl mx-auto mb-6">
           🔒
         </div>
-
         <h1 className="text-xl font-bold text-gray-900 mb-2">접근 권한이 없습니다</h1>
         <p className="text-sm text-gray-500 mb-2">
           Hanbook은 구매자만 이용할 수 있습니다.
@@ -23,7 +21,6 @@ export default function NoAccessPage() {
         <p className="text-xs text-gray-400 mb-8">
           현재 로그인: <span className="font-medium text-gray-600">{user?.email}</span>
         </p>
-
         <div className="bg-white rounded-2xl border border-gray-100 p-5 mb-5 text-left">
           <p className="text-sm font-semibold text-gray-800 mb-3">이용 방법</p>
           <ol className="space-y-2 text-sm text-gray-600">
@@ -41,7 +38,6 @@ export default function NoAccessPage() {
             </li>
           </ol>
         </div>
-
         
           href="https://gumroad.com"
           target="_blank"
@@ -50,7 +46,6 @@ export default function NoAccessPage() {
         >
           Gumroad에서 구매하기 →
         </a>
-
         <button
           onClick={() => { logout(); router.push('/login') }}
           className="text-xs text-gray-400 hover:text-gray-600 transition-colors"
