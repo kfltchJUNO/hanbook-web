@@ -38,7 +38,7 @@ export default function NoAccessPage() {
             </li>
           </ol>
         </div>
-        
+        <a
           href="https://gumroad.com"
           target="_blank"
           rel="noopener noreferrer"
