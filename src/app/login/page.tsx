@@ -1,9 +1,14 @@
 'use client'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
+import Script from 'next/script'
 import { useRouter } from 'next/navigation'
-import { signInWithGoogle, signInWithEmail, signUpWithEmail } from '@/lib/firebase'
+import { signInWithGoogleAccessToken, signInWithEmail, signUpWithEmail } from '@/lib/firebase'
 
 type Mode = 'login' | 'signup'
+
+// han-book Firebase 프로젝트의 Google 로그인용 OAuth 웹 클라이언트 ID
+// (Firebase Authentication > Sign-in method > Google 이 자동 생성한 것과 동일)
+const GOOGLE_CLIENT_ID = '249711431338-mf7gjfu6s56gkkdhgbb9g79dhdf01fb2.apps.googleusercontent.com'
 
 export default function LoginPage() {
   const router = useRouter()
@@ -12,22 +17,49 @@ export default function LoginPage() {
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(false)
+  const [gisReady, setGisReady] = useState(false)
+  const tokenClientRef = useRef<any>(null)
 
   const isFirebaseReady = !!process.env.NEXT_PUBLIC_FIREBASE_API_KEY
 
-  async function handleGoogle() {
+  useEffect(() => {
+    if (!gisReady) return
+    const google = (window as any).google
+    if (!google?.accounts?.oauth2) return
+    tokenClientRef.current = google.accounts.oauth2.initTokenClient({
+      client_id: GOOGLE_CLIENT_ID,
+      scope: 'openid email profile',
+      callback: async (tokenResponse: any) => {
+        if (tokenResponse.error) {
+          console.error('Google token error:', tokenResponse)
+          setError(`Google 로그인에 실패했습니다. (${tokenResponse.error})`)
+          setLoading(false)
+          return
+        }
+        try {
+          await signInWithGoogleAccessToken(tokenResponse.access_token)
+          router.push('/catalog')
+        } catch (e: any) {
+          console.error('Firebase sign-in error:', e)
+          setError(`Google 로그인에 실패했습니다. (${e.code || e.message || 'unknown'})`)
+        } finally {
+          setLoading(false)
+        }
+      },
+    })
+  }, [gisReady, router])
+
+  function handleGoogle() {
     if (!isFirebaseReady) {
       setError('서비스 준비 중입니다. 잠시 후 다시 시도해주세요.')
       return
     }
+    if (!tokenClientRef.current) {
+      setError('Google 로그인 준비 중입니다. 잠시 후 다시 시도해주세요.')
+      return
+    }
     setLoading(true); setError('')
-    try {
-      await signInWithGoogle()
-      router.push('/catalog')
-    } catch (e: any) {
-      console.error('Google sign-in error:', e)
-      setError(`Google 로그인에 실패했습니다. (${e.code || e.message || 'unknown'})`)
-    } finally { setLoading(false) }
+    tokenClientRef.current.requestAccessToken()
   }
 
   async function handleEmail(e: React.FormEvent) {
@@ -56,6 +88,11 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen bg-[#F8F7F4] flex flex-col items-center justify-center px-4">
+      <Script
+        src="https://accounts.google.com/gsi/client"
+        strategy="afterInteractive"
+        onLoad={() => setGisReady(true)}
+      />
       <div className="w-full max-w-sm">
 
         <div className="text-center mb-8">

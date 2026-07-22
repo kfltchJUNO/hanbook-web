@@ -45,13 +45,17 @@ export function getFirebaseDb() {
   return _db
 }
 
-export async function signInWithGoogle() {
-  const { GoogleAuthProvider, signInWithPopup } = await import('firebase/auth')
+// han-book 프로젝트의 Firebase 호스팅 인증 중계 페이지(/__/auth/handler)가
+// "The requested action is invalid."로 죽어있어 signInWithPopup/signInWithRedirect
+// 둘 다 그 페이지를 거치다 실패한다. Google Identity Toolkit API 자체(createAuthUri)는
+// 정상 동작함을 확인했으므로, Google Identity Services로 직접 액세스 토큰을 받아
+// signInWithCredential로 그 중계 페이지를 완전히 우회한다.
+export async function signInWithGoogleAccessToken(accessToken: string) {
+  const { GoogleAuthProvider, signInWithCredential } = await import('firebase/auth')
   const auth = getFirebaseAuth()
   if (!auth) throw new Error('Firebase not configured')
-  const provider = new GoogleAuthProvider()
-  provider.setCustomParameters({ prompt: 'select_account' })
-  return signInWithPopup(auth, provider)
+  const credential = GoogleAuthProvider.credential(undefined, accessToken)
+  return signInWithCredential(auth, credential)
 }
 
 export async function signInWithEmail(email: string, password: string) {
