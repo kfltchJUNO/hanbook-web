@@ -9,7 +9,7 @@ export function isAdmin(email: string | null | undefined): boolean {
 export async function checkPurchase(uid: string): Promise<boolean> {
   try {
     const { doc, getDoc } = await import('firebase/firestore')
-    const db = getFirebaseDb()
+    const db = await getFirebaseDb()
     if (!db) return false
     const snap = await getDoc(doc(db, 'users', uid))
     if (!snap.exists()) return false
@@ -24,7 +24,7 @@ export async function checkPurchase(uid: string): Promise<boolean> {
 export async function checkEntitlement(uid: string, seriesId: string, bookId: string): Promise<boolean> {
   try {
     const { doc, getDoc } = await import('firebase/firestore')
-    const db = getFirebaseDb()
+    const db = await getFirebaseDb()
     if (!db) return false
     const snap = await getDoc(doc(db, 'users', uid, 'entitlements', `${seriesId}_${bookId}`))
     return snap.exists()

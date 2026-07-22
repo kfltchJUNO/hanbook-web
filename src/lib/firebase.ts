@@ -33,14 +33,18 @@ function getFirebaseAuth() {
   return _auth
 }
 
-export function getFirebaseDb() {
+// getFirestore()를 require()로 가져오면, doc()/getDoc()을 await import()로 가져오는
+// 다른 코드와 서로 다른 webpack 청크(= 서로 다른 Firestore 클래스 인스턴스)로 갈라져
+// "Expected first argument to doc() to be a ... FirebaseFirestore" 에러가 난다.
+// 그래서 이 함수도 동일하게 동적 import를 사용해 항상 같은 모듈 인스턴스를 쓰게 한다.
+export async function getFirebaseDb() {
   if (typeof window === 'undefined') return null
   if (_db) return _db
 
   const app = getFirebaseApp()
   if (!app) return null
 
-  const { getFirestore } = require('firebase/firestore')
+  const { getFirestore } = await import('firebase/firestore')
   _db = getFirestore(app)
   return _db
 }

@@ -64,7 +64,7 @@ export async function getLesson(
   lessonId: string
 ): Promise<LessonData | null> {
   const { doc, getDoc } = await import('firebase/firestore')
-  const db = getFirebaseDb()
+  const db = await getFirebaseDb()
   if (!db) return null
 
   const snap = await getDoc(doc(db, 'series', seriesId, 'books', bookId, 'lessons', lessonId))
