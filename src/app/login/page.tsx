@@ -25,7 +25,8 @@ export default function LoginPage() {
       await signInWithGoogle()
       router.push('/catalog')
     } catch (e: any) {
-      setError('Google 로그인에 실패했습니다.')
+      console.error('Google sign-in error:', e)
+      setError(`Google 로그인에 실패했습니다. (${e.code || e.message || 'unknown'})`)
     } finally { setLoading(false) }
   }
 
