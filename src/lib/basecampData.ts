@@ -1,4 +1,5 @@
 // 클라이언트 전용 — 'use client' 컴포넌트에서만 import
+import { doc, getDoc } from 'firebase/firestore'
 import { getFirebaseDb } from './firebase'
 
 export interface VocabItem {
@@ -63,8 +64,7 @@ export async function getLesson(
   bookId: string,
   lessonId: string
 ): Promise<LessonData | null> {
-  const { doc, getDoc } = await import('firebase/firestore')
-  const db = await getFirebaseDb()
+  const db = getFirebaseDb()
   if (!db) return null
 
   const snap = await getDoc(doc(db, 'series', seriesId, 'books', bookId, 'lessons', lessonId))
