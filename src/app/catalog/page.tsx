@@ -118,9 +118,9 @@ export default function CatalogPage() {
                       {series.levels}
                     </span>
                     <span>·</span>
-                    <span>Step {series.totalSteps}개</span>
+                    <span>{series.stepsLabel ?? 'Step'} {series.totalSteps}개</span>
                     <span>·</span>
-                    <span>Unit {series.totalUnits}개</span>
+                    <span>{series.unitsLabel ?? 'Unit'} {series.totalUnits}개</span>
                   </div>
                 </div>
                 <div className="flex items-center flex-shrink-0">

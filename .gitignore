@@ -33,3 +33,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# internal docs (교재 원고 비공개)
+/docs/basecamp-korean
+
+# firebase-admin 서비스 계정 키 (비밀키 — 커밋 금지)
+scripts/serviceAccountKey.json

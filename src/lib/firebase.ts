@@ -1,18 +1,15 @@
 // 클라이언트 전용 — 'use client' 컴포넌트에서만 import
 
 let _auth: any = null
+let _db: any = null
 
-function getFirebaseAuth() {
-  if (typeof window === 'undefined') return null
-  if (_auth) return _auth
-
+function getFirebaseApp() {
   const apiKey = process.env.NEXT_PUBLIC_FIREBASE_API_KEY
   if (!apiKey) return null
 
   const { initializeApp, getApps } = require('firebase/app')
-  const { getAuth } = require('firebase/auth')
 
-  const app = getApps().length
+  return getApps().length
     ? getApps()[0]
     : initializeApp({
         apiKey,
@@ -22,9 +19,30 @@ function getFirebaseAuth() {
         messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
         appId:             process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
       })
+}
 
+function getFirebaseAuth() {
+  if (typeof window === 'undefined') return null
+  if (_auth) return _auth
+
+  const app = getFirebaseApp()
+  if (!app) return null
+
+  const { getAuth } = require('firebase/auth')
   _auth = getAuth(app)
   return _auth
+}
+
+export function getFirebaseDb() {
+  if (typeof window === 'undefined') return null
+  if (_db) return _db
+
+  const app = getFirebaseApp()
+  if (!app) return null
+
+  const { getFirestore } = require('firebase/firestore')
+  _db = getFirestore(app)
+  return _db
 }
 
 export async function signInWithGoogle() {

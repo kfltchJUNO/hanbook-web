@@ -1,0 +1,40 @@
+{
+  "title": "1과. 저는 OO이에요 (더미 데이터)",
+  "order": 1,
+  "isFree": true,
+  "vocab": [
+    { "word": "이름", "meaning": "name", "pronunciation": "ireum" },
+    { "word": "학생", "meaning": "student", "pronunciation": "haksaeng" }
+  ],
+  "grammar": [
+    {
+      "name": "N이에요/예요",
+      "nameEng": "N is... (placeholder)",
+      "desc": "명사 뒤에 붙어 '~이다'를 나타내는 표현입니다. (더미 데이터 — 실제 콘텐츠 이관 전 스캐폴딩 검증용)",
+      "descEng": "Placeholder description for schema verification only.",
+      "examples": [{ "kr": "저는 학생이에요.", "en": "I am a student." }]
+    }
+  ],
+  "dialogue": [
+    { "speaker": "마이클", "line": "안녕하세요! 저는 마이클이에요.", "lineEng": "Hello! I'm Michael." },
+    { "speaker": "유키", "line": "안녕하세요, 유키예요.", "lineEng": "Hello, I'm Yuki." }
+  ],
+  "dialogueAudioUrl": "",
+  "speakingActivities": ["짝과 서로 이름을 소개해 보세요. (더미 데이터)"],
+  "selfCheckItems": ["이름을 소개할 수 있어요."],
+  "listening": {
+    "audioUrl": "",
+    "questions": [
+      { "q": "마이클은 무엇을 소개했어요? (더미 문제)", "opts": ["이름", "나이", "직업", "취미"], "answer": "이름" }
+    ]
+  },
+  "reading": {
+    "text": "저는 마이클이에요. 저는 학생이에요. (더미 지문)",
+    "writingPrompt": "자신을 소개하는 문장을 써 보세요."
+  },
+  "topikPreview": [],
+  "quiz": [
+    { "q": "빈칸에 알맞은 것을 고르세요: 저는 학생___. (더미 문제)", "choices": ["이에요", "예요", "이다", "다"], "answer": "이에요" }
+  ],
+  "images": []
+}

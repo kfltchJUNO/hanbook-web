@@ -1,0 +1,32 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 콘텐츠(series/books/lessons)는 공개 열람 — isFree/entitlement 체크는 앱 레이어에서 수행
+    match /series/{seriesId} {
+      allow read: if true;
+      allow write: if false;
+
+      match /books/{bookId} {
+        allow read: if true;
+        allow write: if false;
+
+        match /lessons/{lessonId} {
+          allow read: if true;
+          allow write: if false;
+        }
+      }
+    }
+
+    // 유저 문서 — 본인만 읽기/쓰기
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+
+      // 엔타이틀먼트는 본인만 읽기 가능, 쓰기는 서버(admin SDK)에서만
+      match /entitlements/{entitlementId} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow write: if false;
+      }
+    }
+  }
+}
